@@ -3,15 +3,18 @@ import pathlib
 
 
 def generate_anchor(title):
-    anchor = "".join([c for c in title.lower().replace(" ", "-").replace("_", "") if c.isalpha() or c in "-."])
+    anchor = "".join([c for c in title.lower().replace(
+        " ", "-").replace("_", "") if c.isalpha() or c in "-."])
     return anchor
 
 
 def collect_current_deepseek_automatic_paper_summary(paper_info_json_fpath, deepseek_json_dir):
     with open(paper_info_json_fpath, "r", encoding="utf-8") as fin:
         paper_infos = json.load(fin)
-        id2info = {paper_info["href"].split("/")[-1]: paper_info for paper_info in paper_infos}
-    fpaths = [path for path in pathlib.Path(deepseek_json_dir).glob("*.json") if path.name.endswith(".tar.gz_deepseek.json")]
+        id2info = {paper_info["href"].split(
+            "/")[-1]: paper_info for paper_info in paper_infos}
+    fpaths = [path for path in pathlib.Path(deepseek_json_dir).glob(
+        "*.json") if path.name.endswith(".tar.gz_deepseek.json")]
     res = []
     id2anchor = dict()
     for fpath in fpaths:
@@ -20,15 +23,14 @@ def collect_current_deepseek_automatic_paper_summary(paper_info_json_fpath, deep
         with open(fpath, "r", encoding="utf-8") as fin:
             content = json.load(fin)
             for subcontent in content:
-                answer = ""
-                for text in subcontent[-1]:
-                    if r"</think>" in text:
-                        print(text)
-                        text = text[text.rindex("</think>") + len("</think>"):]
-                    if "#### **" in text:
-                        answer += text[text.index("#### **"):]
-                if len(answer) > len(best_answer):
-                    best_answer = answer
+                for texts in subcontent[-1]:
+                    for text in texts.split(r"</think>"):
+                        if "####" in text:
+                            answer = text[text.index("####"):]
+                            if len(answer) > len(best_answer):
+                                best_answer = answer
+                            print("answer" + "-" * 100)
+                            print(answer)
         if len(best_answer) > 10:
             title = id2info[id_str]['title']
             res.append(f"### {id2info[id_str]['title']}\n")
@@ -37,6 +39,31 @@ def collect_current_deepseek_automatic_paper_summary(paper_info_json_fpath, deep
             anchor = generate_anchor(title)
             id2anchor[id_str] = anchor
     return "".join(res), id2anchor
+
+def collect_current_gpt4o_mini_automatic_paper_summary(paper_info_json_fpath, gpt_resp_json_dir):
+    with open(paper_info_json_fpath, "r", encoding="utf-8") as fin:
+        paper_infos = json.load(fin)
+        id2info = {paper_info["href"].split(
+            "/")[-1]: paper_info for paper_info in paper_infos}
+    fpaths = [path for path in pathlib.Path(gpt_resp_json_dir).glob(
+        "*.json") if path.name.endswith("_gpt-4o-mini.json")]
+    res = []
+    id2anchor = dict()
+    for fpath in fpaths:
+        id_str = fpath.name[:fpath.name.index("_gpt")]
+        with open(fpath, "r", encoding="utf-8") as fin:
+            resp = json.load(fin)
+            best_answer = resp["response"]["body"]["choices"][0]["message"]["content"]
+            
+        if len(best_answer) > 10:
+            title = id2info[id_str]['title']
+            res.append(f"### {id2info[id_str]['title']}\n")
+            res.append(best_answer)
+            res.append("\n")
+            anchor = generate_anchor(title)
+            id2anchor[id_str] = anchor
+    return "".join(res), id2anchor
+
 
 
 def change_paper_infos_into_paper_infos_all_str(paper_info_json_fpath, id2anchor):
@@ -58,7 +85,9 @@ Arxived Date|Published Date|Published Venue|Title|Paper|Codebase|Category|Tool N
 
 
 def generate_readme(paper_info_json_fpath, deepseek_json_dir):
-    automatic_paper_summary_str, id2anchor = collect_current_deepseek_automatic_paper_summary(paper_info_json_fpath, deepseek_json_dir)
+    # automatic_paper_summary_str, id2anchor = collect_current_deepseek_automatic_paper_summary(paper_info_json_fpath, deepseek_json_dir)
+    automatic_paper_summary_str, id2anchor = collect_current_gpt4o_mini_automatic_paper_summary(
+        paper_info_json_fpath, deepseek_json_dir)
     paper_infos_all_str = change_paper_infos_into_paper_infos_all_str(
         paper_info_json_fpath, id2anchor)
     with open("readme_template.md", "r", encoding="utf-8") as fin:
@@ -75,4 +104,5 @@ def generate_readme(paper_info_json_fpath, deepseek_json_dir):
 
 
 if __name__ == '__main__':
-    generate_readme("../dump_axvir_llm_jailbreak/paper_infos.json", "../dump_axvir_llm_jailbreak")
+    generate_readme("../dump_axvir_llm_jailbreak/paper_infos.json",
+                    "../dump_axvir_llm_jailbreak")
