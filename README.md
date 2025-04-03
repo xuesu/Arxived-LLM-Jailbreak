@@ -5,449 +5,479 @@
 
 Arxived Date|Published Date|Published Venue|Title|Paper|Codebase|Category|Tool Names|Benchmark Names
 ------------|--------------|---------------|-----|-----|--------|--------|----------|---------------
-20250227|-|None|[Logicbreaks: A Framework for Understanding Subversion of Rule-based Inference](#logicbreaks-a-framework-for-understanding-subversion-of-rule-based-inference)|https://arxiv.org/abs/2407.00075|None|-|-|-|
+20250325|-|Addepalli, S., Varun, Y., Suggala, A., Shanmugam, K., & Jain, P. (2025). Does safety training of LLMs generalize to semantically related natural prompts? In The Thirteenth International Conference on Learning Representations 2025|[Does Safety Training of LLMs Generalize to Semantically Related Natural Prompts?](#does-safety-training-of-llms-generalize-to-semantically-related-natural-prompts)|https://arxiv.org/abs/2412.03235|None|-|-|-|
+20250324|-|None|[MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks](#mirage-multimodal-immersive-reasoning-and-guided-exploration-for-red-team-jailbreak-attacks)|https://arxiv.org/abs/2503.19134|None|-|-|-|
+20250324|-|None|[h4rm3l: A language for Composable Jailbreak Attack Synthesis](#hrml-a-language-for-composable-jailbreak-attack-synthesis)|https://arxiv.org/abs/2408.04811|None|-|-|-|
+20250323|-|None|[SRMIR: Shadow Reward Models Based on Introspective Reasoning for LLM Alignment](#srmir-shadow-reward-models-based-on-introspective-reasoning-for-llm-alignment)|https://arxiv.org/abs/2503.18991|None|-|-|-|
+20250323|-|None|[Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts](#smoke-and-mirrors-jailbreaking-llm-based-code-generation-via-implicit-malicious-prompts)|https://arxiv.org/abs/2503.17953|None|-|-|-|
+20250323|-|None|[STShield: Single-Token Sentinel for Real-Time Jailbreak Detection in Large Language Models](#stshield-single-token-sentinel-for-real-time-jailbreak-detection-in-large-language-models)|https://arxiv.org/abs/2503.17932|None|-|-|-|
+20250321|-|None|[CeTAD: Towards Certified Toxicity-Aware Distance in Vision Language Models](#cetad-towards-certified-toxicity-aware-distance-in-vision-language-models)|https://arxiv.org/abs/2503.10661|None|-|-|-|
+20250321|-|None|[SATA: A Paradigm for LLM Jailbreak via Simple Assistive Task Linkage](#sata-a-paradigm-for-llm-jailbreak-via-simple-assistive-task-linkage)|https://arxiv.org/abs/2412.15289|https://github.com/xndong/SATA|-|-|-|
+20250320|-|None|[REVAL: A Comprehension Evaluation on Reliability and Values of Large Vision-Language Models](#reval-a-comprehension-evaluation-on-reliability-and-values-of-large-vision-language-models)|https://arxiv.org/abs/2503.16566|None|-|-|-|
+20250320|-|None|[Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment](#immune-improving-safety-against-jailbreaks-in-multi-modal-llms-via-inference-time-alignment)|https://arxiv.org/abs/2411.18688|None|-|-|-|
+20250320|-|None|["Moralized" Multi-Step Jailbreak Prompts: Black-Box Testing of Guardrails in Large Language Models for Verbal Attacks](#moralized-multi-step-jailbreak-prompts-black-box-testing-of-guardrails-in-large-language-models-for-verbal-attacks)|https://arxiv.org/abs/2411.16730|https://github.com/brucewang123456789/GeniusTrail.git|-|-|-|
+20250320|-|None|[Robust LLM safeguarding via refusal feature adversarial training](#robust-llm-safeguarding-via-refusal-feature-adversarial-training)|https://arxiv.org/abs/2409.20089|None|-|-|-|
+20250320|-|None|[EmojiPrompt: Generative Prompt Obfuscation for Privacy-Preserving Communication with Cloud-based LLMs](#emojiprompt-generative-prompt-obfuscation-for-privacy-preserving-communication-with-cloud-based-llms)|https://arxiv.org/abs/2402.05868|None|-|-|-|
+20250319|-|None|[Detecting LLM-Written Peer Reviews](#detecting-llm-written-peer-reviews)|https://arxiv.org/abs/2503.15772|None|-|-|-|
+20250319|-|None|[Safety at Scale: A Comprehensive Survey of Large Model Safety](#safety-at-scale-a-comprehensive-survey-of-large-model-safety)|https://arxiv.org/abs/2502.05206|https://github.com/xingjunm/Awesome-Large-Model-Safety|-|-|-|
+20250318|-|None|[Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks](#adversarial-training-for-multimodal-large-language-models-against-jailbreak-attacks)|https://arxiv.org/abs/2503.04833|None|-|-|-|
+20250317|-|None|[MirrorGuard: Adaptive Defense Against Jailbreaks via Entropy-Guided Mirror Crafting](#mirrorguard-adaptive-defense-against-jailbreaks-via-entropy-guided-mirror-crafting)|https://arxiv.org/abs/2503.12931|None|-|-|-|
+20250317|-|None|[AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models](#attackeval-how-to-evaluate-the-effectiveness-of-jailbreak-attacking-on-large-language-models)|https://arxiv.org/abs/2401.09002|None|-|-|-|
+20250316|-|None|[Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search](#siege-autonomous-multi-turn-jailbreaking-of-large-language-models-with-tree-search)|https://arxiv.org/abs/2503.10619|None|-|-|-|
+20250316|-|None|[When "Competency" in Reasoning Opens the Door to Vulnerability: Jailbreaking LLMs via Novel Complex Ciphers](#when-competency-in-reasoning-opens-the-door-to-vulnerability-jailbreaking-llms-via-novel-complex-ciphers)|https://arxiv.org/abs/2402.10601|https://github.com/DivijH/jailbreak_cryptography|-|-|-|
+20250314|-|None|[Making Every Step Effective: Jailbreaking Large Vision-Language Models Through Hierarchical KV Equalization](#making-every-step-effective-jailbreaking-large-vision-language-models-through-hierarchical-kv-equalization)|https://arxiv.org/abs/2503.11750|None|-|-|-|
+20250314|-|None|[Align in Depth: Defending Jailbreak Attacks via Progressive Answer Detoxification](#align-in-depth-defending-jailbreak-attacks-via-progressive-answer-detoxification)|https://arxiv.org/abs/2503.11185|None|-|-|-|
+20250314|-|None|[JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks](#jailguard-a-universal-detection-framework-for-llm-prompt-based-attacks)|https://arxiv.org/abs/2312.10766|None|-|-|-|
+20250312|-|None|[Probing Latent Subspaces in LLM for AI Security: Identifying and Manipulating Adversarial States](#probing-latent-subspaces-in-llm-for-ai-security-identifying-and-manipulating-adversarial-states)|https://arxiv.org/abs/2503.09066|None|-|-|-|
+20250311|-|None|[JBFuzz: Jailbreaking LLMs Efficiently and Effectively Using Fuzzing](#jbfuzz-jailbreaking-llms-efficiently-and-effectively-using-fuzzing)|https://arxiv.org/abs/2503.08990|None|-|-|-|
+20250311|-|None|[Dialogue Injection Attack: Jailbreaking LLMs through Context Manipulation](#dialogue-injection-attack-jailbreaking-llms-through-context-manipulation)|https://arxiv.org/abs/2503.08195|https://github.com/meng-wenlong/DIA|-|-|-|
+20250311|-|None|[Guardians of the Agentic System: Preventing Many Shots Jailbreak with Agentic System](#guardians-of-the-agentic-system-preventing-many-shots-jailbreak-with-agentic-system)|https://arxiv.org/abs/2502.16750|https://github.com/GitsSaikat/Guardian-Agent|-|-|-|
+20250311|-|None|[Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities](#iterative-self-tuning-llms-for-enhanced-jailbreaking-capabilities)|https://arxiv.org/abs/2410.18469|None|-|-|-|
+20250310|-|None|[Safety Guardrails for LLM-Enabled Robots](#safety-guardrails-for-llm-enabled-robots)|https://arxiv.org/abs/2503.07885|None|-|-|-|
+20250310|-|None|[Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs](#utilizing-jailbreak-probability-to-attack-and-safeguard-multimodal-llms)|https://arxiv.org/abs/2503.06989|None|-|-|-|
+20250310|-|None|[Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models](#reasoning-augmented-conversation-for-multi-turn-jailbreak-attacks-on-large-language-models)|https://arxiv.org/abs/2502.11054|https://github.com/NY1024/RACE|-|-|-|
+20250309|-|None|[Can Small Language Models Reliably Resist Jailbreak Attacks? A Comprehensive Evaluation](#can-small-language-models-reliably-resist-jailbreak-attacks-a-comprehensive-evaluation)|https://arxiv.org/abs/2503.06519|None|-|-|-|
+20250309|-|None|[DIESEL -- Dynamic Inference-Guidance via Evasion of Semantic Embeddings in LLMs](#diesel----dynamic-inference-guidance-via-evasion-of-semantic-embeddings-in-llms)|https://arxiv.org/abs/2411.19038|None|-|-|-|
+20250308|-|None|[Reinforced Diffuser for Red Teaming Large Vision-Language Models](#reinforced-diffuser-for-red-teaming-large-vision-language-models)|https://arxiv.org/abs/2503.06223|None|-|-|-|
+20250308|-|None|[IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves](#ideator-jailbreaking-and-benchmarking-large-vision-language-models-using-themselves)|https://arxiv.org/abs/2411.00827|None|-|-|-|
+20250306|-|None|[Safety is Not Only About Refusal: Reasoning-Enhanced Fine-tuning for Interpretable LLM Safety](#safety-is-not-only-about-refusal-reasoning-enhanced-fine-tuning-for-interpretable-llm-safety)|https://arxiv.org/abs/2503.05021|None|-|-|-|
+20250306|-|None|[One-Shot is Enough: Consolidating Multi-Turn Attacks into Efficient Single-Turn Prompts for LLMs](#one-shot-is-enough-consolidating-multi-turn-attacks-into-efficient-single-turn-prompts-for-llms)|https://arxiv.org/abs/2503.04856|None|-|-|-|
+20250306|-|None|[Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring](#stealthy-jailbreak-attacks-on-large-language-models-via-benign-data-mirroring)|https://arxiv.org/abs/2410.21083|None|-|-|-|
+20250306|-|None|[Get my drift? Catching LLM Task Drift with Activation Deltas](#get-my-drift-catching-llm-task-drift-with-activation-deltas)|https://arxiv.org/abs/2406.00799|https://github.com/microsoft/TaskTracker|-|-|-|
+20250305|-|None|[Improving LLM Safety Alignment with Dual-Objective Optimization](#improving-llm-safety-alignment-with-dual-objective-optimization)|https://arxiv.org/abs/2503.03710|https://github.com/wicai24/DOOR-Alignment|-|-|-|
+20250305|-|None|[CURVALID: Geometrically-guided Adversarial Prompt Detection](#curvalid-geometrically-guided-adversarial-prompt-detection)|https://arxiv.org/abs/2503.03502|https://github.com/Cancanxxx/CurvaLID|-|-|-|
+20250305|-|None|[The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense](#the-vllm-safety-paradox-dual-ease-in-jailbreak-attack-and-defense)|https://arxiv.org/abs/2411.08410|None|-|-|-|
+20250305|-|None|[LLMs can be Dangerous Reasoners: Analyzing-based Jailbreak Attack on Large Language Models](#llms-can-be-dangerous-reasoners-analyzing-based-jailbreak-attack-on-large-language-models)|https://arxiv.org/abs/2407.16205|None|-|-|-|
+20250304|-|None|[Towards Safe AI Clinicians: A Comprehensive Study on Large Language Model Jailbreaking in Healthcare](#towards-safe-ai-clinicians-a-comprehensive-study-on-large-language-model-jailbreaking-in-healthcare)|https://arxiv.org/abs/2501.18632|None|-|-|-|
+20250303|-|None|[Jailbreaking Safeguarded Text-to-Image Models via Large Language Models](#jailbreaking-safeguarded-text-to-image-models-via-large-language-models)|https://arxiv.org/abs/2503.01839|None|-|-|-|
+20250303|-|None|[Toxicity Detection towards Adaptability to Changing Perturbations](#toxicity-detection-towards-adaptability-to-changing-perturbations)|https://arxiv.org/abs/2412.15267|https://github.com/khk-abc/Dynamic-Escape|-|-|-|
+20250303|-|None|[PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs](#papillon-efficient-and-stealthy-fuzz-testing-powered-jailbreaks-for-llms)|https://arxiv.org/abs/2409.14866|https://zenodo.org/records/14737139|-|-|-|
+20250302|-|None|[Unnatural Languages Are Not Bugs but Features for LLMs](#unnatural-languages-are-not-bugs-but-features-for-llms)|https://arxiv.org/abs/2503.01926|https://github.com/John-AI-Lab/Unnatural_Language|-|-|-|
+20250302|-|None|[SeqAR: Jailbreak LLMs with Sequential Auto-Generated Characters](#seqar-jailbreak-llms-with-sequential-auto-generated-characters)|https://arxiv.org/abs/2407.01902|https://github.com/Yang-Yan-Yang-Yan/SoP|-|-|-|
+20250302|-|None|[Boosting Jailbreak Attack with Momentum](#boosting-jailbreak-attack-with-momentum)|https://arxiv.org/abs/2405.01229|https://github.com/weizeming/momentum-attack-llm|-|-|-|
+20250302|-|None|[Optimization-based Prompt Injection Attack to LLM-as-a-Judge](#optimization-based-prompt-injection-attack-to-llm-as-a-judge)|https://arxiv.org/abs/2403.17710|https://github.com/ShiJiawenwen/JudgeDeceiver|-|-|-|
+20250228|-|None|[Steering Dialogue Dynamics for Robustness against Multi-turn Jailbreaking Attacks](#steering-dialogue-dynamics-for-robustness-against-multi-turn-jailbreaking-attacks)|https://arxiv.org/abs/2503.00187|https://github.com/HanjiangHu/NBF-LLM|-|-|-|
+20250228|-|None|[FC-Attack: Jailbreaking Large Vision-Language Models via Auto-Generated Flowcharts](#fc-attack-jailbreaking-large-vision-language-models-via-auto-generated-flowcharts)|https://arxiv.org/abs/2502.21059|None|-|-|-|
+20250228|-|None|[Efficient Jailbreaking of Large Models by Freeze Training: Lower Layers Exhibit Greater Sensitivity to Harmful Content](#efficient-jailbreaking-of-large-models-by-freeze-training-lower-layers-exhibit-greater-sensitivity-to-harmful-content)|https://arxiv.org/abs/2502.20952|None|-|-|-|
+20250228|-|None|[Behind the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models](#behind-the-tip-of-efficiency-uncovering-the-submerged-threats-of-jailbreak-attacks-in-small-language-models)|https://arxiv.org/abs/2502.19883|None|-|-|-|
+20250228|-|None|[Logicbreaks: A Framework for Understanding Subversion of Rule-based Inference](#logicbreaks-a-framework-for-understanding-subversion-of-rule-based-inference)|https://arxiv.org/abs/2407.00075|None|-|-|-|
+20250227|-|None|[Foot-In-The-Door: A Multi-turn Jailbreak for LLMs](#foot-in-the-door-a-multi-turn-jailbreak-for-llms)|https://arxiv.org/abs/2502.19820|https://github.com/Jinxiaolong1129/Foot-in-the-door-Jailbreak|-|-|-|
 20250227|-|None|[The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1](#the-hidden-risks-of-large-reasoning-models-a-safety-assessment-of-r)|https://arxiv.org/abs/2502.12659|None|-|-|-|
-20250227|-|None|[Foot-In-The-Door: A Multi-turn Jailbreak for LLMs](#foot-in-the-door-a-multi-turn-jailbreak-for-llms)|https://arxiv.org/abs/2502.19820|None|-|-|-|
-20250227|-|None|[Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models](#beyond-the-tip-of-efficiency-uncovering-the-submerged-threats-of-jailbreak-attacks-in-small-language-models)|https://arxiv.org/abs/2502.19883|None|-|-|-|
-20250226|-|None|[Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack](#great-now-write-an-article-about-that-the-crescendo-multi-turn-llm-jailbreak-attack)|https://arxiv.org/abs/2404.01833|None|-|-|-|
-20250226|-|None|[JailBench: A Comprehensive Chinese Security Assessment Benchmark for Large Language Models](#jailbench-a-comprehensive-chinese-security-assessment-benchmark-for-large-language-models)|https://arxiv.org/abs/2502.18935|None|-|-|-|
+20250227|-|None|[SQL Injection Jailbreak: A Structural Disaster of Large Language Models](#sql-injection-jailbreak-a-structural-disaster-of-large-language-models)|https://arxiv.org/abs/2411.01565|https://github.com/weiyezhimeng/SQL-Injection-Jailbreak|-|-|-|
+20250227|-|None|[Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks](#towards-understanding-the-fragility-of-multilingual-llms-against-fine-tuning-attacks)|https://arxiv.org/abs/2410.18210|None|-|-|-|
 20250226|-|None|[Beyond Surface-Level Patterns: An Essence-Driven Defense Framework Against Jailbreak Attacks in LLMs](#beyond-surface-level-patterns-an-essence-driven-defense-framework-against-jailbreak-attacks-in-llms)|https://arxiv.org/abs/2502.19041|None|-|-|-|
+20250226|-|None|[JailBench: A Comprehensive Chinese Security Assessment Benchmark for Large Language Models](#jailbench-a-comprehensive-chinese-security-assessment-benchmark-for-large-language-models)|https://arxiv.org/abs/2502.18935|https://github.com/STAIR-BUPT/JailBench|-|-|-|
+20250226|-|None|[Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack](#great-now-write-an-article-about-that-the-crescendo-multi-turn-llm-jailbreak-attack)|https://arxiv.org/abs/2404.01833|https://github.com/Azure/PyRIT|-|-|-|
+20250225|-|None|[Guiding not Forcing: Enhancing the Transferability of Jailbreaking Attacks on LLMs via Removing Superfluous Constraints](#guiding-not-forcing-enhancing-the-transferability-of-jailbreaking-attacks-on-llms-via-removing-superfluous-constraints)|https://arxiv.org/abs/2503.01865|https://github.com/thu-coai/TransferAttack|-|-|-|
+20250225|-|None|[from Benign import Toxic: Jailbreaking the Language Model via Adversarial Metaphors](#from-benign-import-toxic-jailbreaking-the-language-model-via-adversarial-metaphors)|https://arxiv.org/abs/2503.00038|None|-|-|-|
 20250225|-|None|[Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks](#towards-robust-and-secure-embodied-ai-a-survey-on-vulnerabilities-and-attacks)|https://arxiv.org/abs/2502.13175|None|-|-|-|
-20250224|-|None|[PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs](#papillon-efficient-and-stealthy-fuzz-testing-powered-jailbreaks-for-llms)|https://arxiv.org/abs/2409.14866|None|-|-|-|
-20250224|-|None|[HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models](#harmaug-effective-data-augmentation-for-knowledge-distillation-of-safety-guard-models)|https://arxiv.org/abs/2410.01524|None|-|-|-|
-20250224|-|None|[GuidedBench: Equipping Jailbreak Evaluation with Guidelines](#guidedbench-equipping-jailbreak-evaluation-with-guidelines)|https://arxiv.org/abs/2502.16903|None|-|-|-|
+20250224|-|None|[Dataset Featurization: Uncovering Natural Language Features through Unsupervised Data Reconstruction](#dataset-featurization-uncovering-natural-language-features-through-unsupervised-data-reconstruction)|https://arxiv.org/abs/2502.17541|https://github.com/MichalBravansky/dataset-featurization|-|-|-|
 20250224|-|None|[REINFORCE Adversarial Attacks on Large Language Models: An Adaptive, Distributional, and Semantic Objective](#reinforce-adversarial-attacks-on-large-language-models-an-adaptive-distributional-and-semantic-objective)|https://arxiv.org/abs/2502.17254|None|-|-|-|
-20250224|-|None|[Dataset Featurization: Uncovering Natural Language Features through Unsupervised Data Reconstruction](#dataset-featurization-uncovering-natural-language-features-through-unsupervised-data-reconstruction)|https://arxiv.org/abs/2502.17541|None|-|-|-|
-20250223|-|None|[On Calibration of LLM-based Guard Models for Reliable Content Moderation](#on-calibration-of-llm-based-guard-models-for-reliable-content-moderation)|https://arxiv.org/abs/2410.10414|None|-|-|-|
-20250223|-|None|[Guardians of the Agentic System: Preventing Many Shots Jailbreak with Agentic System](#guardians-of-the-agentic-system-preventing-many-shots-jailbreak-with-agentic-system)|https://arxiv.org/abs/2502.16750|None|-|-|-|
+20250224|-|None|[GuidedBench: Equipping Jailbreak Evaluation with Guidelines](#guidedbench-equipping-jailbreak-evaluation-with-guidelines)|https://arxiv.org/abs/2502.16903|None|-|-|-|
+20250224|-|None|[HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models](#harmaug-effective-data-augmentation-for-knowledge-distillation-of-safety-guard-models)|https://arxiv.org/abs/2410.01524|None|-|-|-|
+20250223|-|None|[On Calibration of LLM-based Guard Models for Reliable Content Moderation](#on-calibration-of-llm-based-guard-models-for-reliable-content-moderation)|https://arxiv.org/abs/2410.10414|https://github.com/Waffle-Liu/calibration_guard_model|-|-|-|
 20250222|-|None|[Na'vi or Knave: Jailbreaking Language Models via Metaphorical Avatars](#navi-or-knave-jailbreaking-language-models-via-metaphorical-avatars)|https://arxiv.org/abs/2412.12145|None|-|-|-|
-20250221|-|None|[Revisiting Jailbreaking for Large Language Models: A Representation Engineering Perspective](#revisiting-jailbreaking-for-large-language-models-a-representation-engineering-perspective)|https://arxiv.org/abs/2401.06824|None|-|-|-|
-20250221|-|None|[Defending Jailbreak Prompts via In-Context Adversarial Game](#defending-jailbreak-prompts-via-in-context-adversarial-game)|https://arxiv.org/abs/2402.13148|None|-|-|-|
-20250221|-|None|[Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks](#understanding-the-effectiveness-of-coverage-criteria-for-large-language-models-a-special-angle-from-jailbreak-attacks)|https://arxiv.org/abs/2408.15207|None|-|-|-|
-20250221|-|None|[Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment](#attention-eclipse-manipulating-attention-to-bypass-llm-safety-alignment)|https://arxiv.org/abs/2502.15334|None|-|-|-|
-20250221|-|None|[Adversarial Prompt Evaluation: Systematic Benchmarking of Guardrails Against Prompt Input Attacks on LLMs](#adversarial-prompt-evaluation-systematic-benchmarking-of-guardrails-against-prompt-input-attacks-on-llms)|https://arxiv.org/abs/2502.15427|None|-|-|-|
-20250221|-|None|[Single-pass Detection of Jailbreaking Input in Large Language Models](#single-pass-detection-of-jailbreaking-input-in-large-language-models)|https://arxiv.org/abs/2502.15435|None|-|-|-|
-20250221|-|None|[Interpreting and Steering LLMs with Mutual Information-based Explanations on Sparse Autoencoders](#interpreting-and-steering-llms-with-mutual-information-based-explanations-on-sparse-autoencoders)|https://arxiv.org/abs/2502.15576|None|-|-|-|
-20250221|-|None|[SafeInt: Shielding Large Language Models from Jailbreak Attacks via Safety-Aware Representation Intervention](#safeint-shielding-large-language-models-from-jailbreak-attacks-via-safety-aware-representation-intervention)|https://arxiv.org/abs/2502.15594|None|-|-|-|
 20250221|-|None|[TurboFuzzLLM: Turbocharging Mutation-based Fuzzing for Effectively Jailbreaking Large Language Models in Practice](#turbofuzzllm-turbocharging-mutation-based-fuzzing-for-effectively-jailbreaking-large-language-models-in-practice)|https://arxiv.org/abs/2502.18504|None|-|-|-|
-20250220|-|None|[Making Them a Malicious Database: Exploiting Query Code to Jailbreak Aligned Large Language Models](#making-them-a-malicious-database-exploiting-query-code-to-jailbreak-aligned-large-language-models)|https://arxiv.org/abs/2502.09723|None|-|-|-|
+20250221|-|None|[SafeInt: Shielding Large Language Models from Jailbreak Attacks via Safety-Aware Representation Intervention](#safeint-shielding-large-language-models-from-jailbreak-attacks-via-safety-aware-representation-intervention)|https://arxiv.org/abs/2502.15594|None|-|-|-|
+20250221|-|None|[Interpreting and Steering LLMs with Mutual Information-based Explanations on Sparse Autoencoders](#interpreting-and-steering-llms-with-mutual-information-based-explanations-on-sparse-autoencoders)|https://arxiv.org/abs/2502.15576|None|-|-|-|
+20250221|-|None|[Single-pass Detection of Jailbreaking Input in Large Language Models](#single-pass-detection-of-jailbreaking-input-in-large-language-models)|https://arxiv.org/abs/2502.15435|https://github.com/LIONS-EPFL/SPD|-|-|-|
+20250221|-|None|[Adversarial Prompt Evaluation: Systematic Benchmarking of Guardrails Against Prompt Input Attacks on LLMs](#adversarial-prompt-evaluation-systematic-benchmarking-of-guardrails-against-prompt-input-attacks-on-llms)|https://arxiv.org/abs/2502.15427|https://github.com/IBM/Adversarial-Prompt-Evaluation|-|-|-|
+20250221|-|None|[Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment](#attention-eclipse-manipulating-attention-to-bypass-llm-safety-alignment)|https://arxiv.org/abs/2502.15334|None|-|-|-|
+20250221|-|None|[Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks](#understanding-the-effectiveness-of-coverage-criteria-for-large-language-models-a-special-angle-from-jailbreak-attacks)|https://arxiv.org/abs/2408.15207|None|-|-|-|
+20250221|-|None|[Defending Jailbreak Prompts via In-Context Adversarial Game](#defending-jailbreak-prompts-via-in-context-adversarial-game)|https://arxiv.org/abs/2402.13148|None|-|-|-|
+20250221|-|None|[Revisiting Jailbreaking for Large Language Models: A Representation Engineering Perspective](#revisiting-jailbreaking-for-large-language-models-a-representation-engineering-perspective)|https://arxiv.org/abs/2401.06824|None|-|-|-|
+20250220|-|None|[HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States](#hiddendetect-detecting-jailbreak-attacks-against-large-vision-language-models-via-monitoring-hidden-states)|https://arxiv.org/abs/2502.14744|https://github.com/leigest519/HiddenDetect|-|-|-|
 20250220|-|None|[How Jailbreak Defenses Work and Ensemble? A Mechanistic Investigation](#how-jailbreak-defenses-work-and-ensemble-a-mechanistic-investigation)|https://arxiv.org/abs/2502.14486|None|-|-|-|
-20250220|-|None|[HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States](#hiddendetect-detecting-jailbreak-attacks-against-large-vision-language-models-via-monitoring-hidden-states)|https://arxiv.org/abs/2502.14744|None|-|-|-|
-20250219|-|None|[Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models](#reasoning-augmented-conversation-for-multi-turn-jailbreak-attacks-on-large-language-models)|https://arxiv.org/abs/2502.11054|None|-|-|-|
-20250219|-|None|[Exploiting Prefix-Tree in Structured Output Interfaces for Enhancing Jailbreak Attacking](#exploiting-prefix-tree-in-structured-output-interfaces-for-enhancing-jailbreak-attacking)|https://arxiv.org/abs/2502.13527|None|-|-|-|
-20250219|-|None|[Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region](#why-safeguarded-ships-run-aground-aligned-large-language-models-safety-mechanisms-tend-to-be-anchored-in-the-template-region)|https://arxiv.org/abs/2502.13946|None|-|-|-|
+20250220|-|None|[Making Them a Malicious Database: Exploiting Query Code to Jailbreak Aligned Large Language Models](#making-them-a-malicious-database-exploiting-query-code-to-jailbreak-aligned-large-language-models)|https://arxiv.org/abs/2502.09723|https://github.com/horizonsinzqs/QueryAttack|-|-|-|
 20250219|-|None|[A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos](#a-mousetrap-fooling-large-reasoning-models-for-jailbreak-with-chain-of-iterative-chaos)|https://arxiv.org/abs/2502.15806|None|-|-|-|
-20250218|-|None|[Mixture of insighTful Experts (MoTE): The Synergy of Thought Chains and Expert Mixtures in Self-Alignment](#mixture-of-insightful-experts-mote-the-synergy-of-thought-chains-and-expert-mixtures-in-self-alignment)|https://arxiv.org/abs/2405.00557|None|-|-|-|
-20250218|-|None|[Enhancing the Capability and Robustness of Large Language Models through Reinforcement Learning-Driven Query Refinement](#enhancing-the-capability-and-robustness-of-large-language-models-through-reinforcement-learning-driven-query-refinement)|https://arxiv.org/abs/2407.01461|None|-|-|-|
-20250218|-|None|[Data to Defense: The Role of Curation in Customizing LLMs Against Jailbreaking Attacks](#data-to-defense-the-role-of-curation-in-customizing-llms-against-jailbreaking-attacks)|https://arxiv.org/abs/2410.02220|None|-|-|-|
-20250218|-|None|[Emoji Attack: Enhancing Jailbreak Attacks Against Judge LLM Detection](#emoji-attack-enhancing-jailbreak-attacks-against-judge-llm-detection)|https://arxiv.org/abs/2411.01077|None|-|-|-|
+20250219|-|None|[Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region](#why-safeguarded-ships-run-aground-aligned-large-language-models-safety-mechanisms-tend-to-be-anchored-in-the-template-region)|https://arxiv.org/abs/2502.13946|None|-|-|-|
+20250219|-|None|[Exploiting Prefix-Tree in Structured Output Interfaces for Enhancing Jailbreak Attacking](#exploiting-prefix-tree-in-structured-output-interfaces-for-enhancing-jailbreak-attacking)|https://arxiv.org/abs/2502.13527|https://github.com/lsvih/attackPrefixTree|-|-|-|
+20250218|-|None|[Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking](#reasoning-to-defend-safety-aware-reasoning-can-defend-large-language-models-from-jailbreaking)|https://arxiv.org/abs/2502.12970|https://github.com/chuhac/Reasoning-to-Defend|-|-|-|
 20250218|-|None|[LLMs are Vulnerable to Malicious Prompts Disguised as Scientific Language](#llms-are-vulnerable-to-malicious-prompts-disguised-as-scientific-language)|https://arxiv.org/abs/2501.14073|None|-|-|-|
-20250218|-|None|[Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking](#reasoning-to-defend-safety-aware-reasoning-can-defend-large-language-models-from-jailbreaking)|https://arxiv.org/abs/2502.12970|None|-|-|-|
-20250217|-|None|[StructuralSleight: Automated Jailbreak Attacks on Large Language Models Utilizing Uncommon Text-Organization Structures](#structuralsleight-automated-jailbreak-attacks-on-large-language-models-utilizing-uncommon-text-organization-structures)|https://arxiv.org/abs/2406.08754|None|-|-|-|
-20250217|-|None|[LLMs can be Dangerous Reasoners: Analyzing-based Jailbreak Attack on Large Language Models](#llms-can-be-dangerous-reasoners-analyzing-based-jailbreak-attack-on-large-language-models)|https://arxiv.org/abs/2407.16205|None|-|-|-|
-20250217|-|None|[Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety Re-Alignment for Fine-Tuned Language Models](#separate-the-wheat-from-the-chaff-a-post-hoc-approach-to-safety-re-alignment-for-fine-tuned-language-models)|https://arxiv.org/abs/2412.11041|None|-|-|-|
-20250217|-|None|[The Hidden Dimensions of LLM Alignment: A Multi-Dimensional Safety Analysis](#the-hidden-dimensions-of-llm-alignment-a-multi-dimensional-safety-analysis)|https://arxiv.org/abs/2502.09674|None|-|-|-|
-20250217|-|None|[SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks](#safedialbench-a-fine-grained-safety-benchmark-for-large-language-models-in-multi-turn-dialogues-with-diverse-jailbreak-attacks)|https://arxiv.org/abs/2502.11090|None|-|-|-|
-20250217|-|None|[Adversary-Aware DPO: Enhancing Safety Alignment in Vision Language Models via Adversarial Training](#adversary-aware-dpo-enhancing-safety-alignment-in-vision-language-models-via-adversarial-training)|https://arxiv.org/abs/2502.11455|None|-|-|-|
-20250217|-|None|[DELMAN: Dynamic Defense Against Large Language Model Jailbreaking with Model Editing](#delman-dynamic-defense-against-large-language-model-jailbreaking-with-model-editing)|https://arxiv.org/abs/2502.11647|None|-|-|-|
-20250217|-|None|[Computational Safety for Generative AI: A Signal Processing Perspective](#computational-safety-for-generative-ai-a-signal-processing-perspective)|https://arxiv.org/abs/2502.12445|None|-|-|-|
+20250218|-|None|[Emoji Attack: Enhancing Jailbreak Attacks Against Judge LLM Detection](#emoji-attack-enhancing-jailbreak-attacks-against-judge-llm-detection)|https://arxiv.org/abs/2411.01077|https://github.com/zhipeng-wei/EmojiAttack|-|-|-|
+20250218|-|None|[Data to Defense: The Role of Curation in Customizing LLMs Against Jailbreaking Attacks](#data-to-defense-the-role-of-curation-in-customizing-llms-against-jailbreaking-attacks)|https://arxiv.org/abs/2410.02220|None|-|-|-|
+20250218|-|None|[Enhancing the Capability and Robustness of Large Language Models through Reinforcement Learning-Driven Query Refinement](#enhancing-the-capability-and-robustness-of-large-language-models-through-reinforcement-learning-driven-query-refinement)|https://arxiv.org/abs/2407.01461|https://github.com/Huangzisu/query-refinement|-|-|-|
+20250218|-|None|[Mixture of insighTful Experts (MoTE): The Synergy of Thought Chains and Expert Mixtures in Self-Alignment](#mixture-of-insightful-experts-mote-the-synergy-of-thought-chains-and-expert-mixtures-in-self-alignment)|https://arxiv.org/abs/2405.00557|None|-|-|-|
 20250217|-|None|[SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain](#sok-understanding-vulnerabilities-in-the-large-language-model-supply-chain)|https://arxiv.org/abs/2502.12497|None|-|-|-|
-20250216|-|None|[Atoxia: Red-teaming Large Language Models with Target Toxic Answers](#atoxia-red-teaming-large-language-models-with-target-toxic-answers)|https://arxiv.org/abs/2408.14853|None|-|-|-|
-20250216|-|None|[Dagger Behind Smile: Fool LLMs with a Happy Ending Story](#dagger-behind-smile-fool-llms-with-a-happy-ending-story)|https://arxiv.org/abs/2501.13115|None|-|-|-|
-20250216|-|None|[Prompt Inject Detection with Generative Explanation as an Investigative Tool](#prompt-inject-detection-with-generative-explanation-as-an-investigative-tool)|https://arxiv.org/abs/2502.11006|None|-|-|-|
-20250216|-|None|[Rewrite to Jailbreak: Discover Learnable and Transferable Implicit Harmfulness Instruction](#rewrite-to-jailbreak-discover-learnable-and-transferable-implicit-harmfulness-instruction)|https://arxiv.org/abs/2502.11084|None|-|-|-|
-20250216|-|None|[CCJA: Context-Coherent Jailbreak Attack for Aligned Large Language Models](#ccja-context-coherent-jailbreak-attack-for-aligned-large-language-models)|https://arxiv.org/abs/2502.11379|None|-|-|-|
-20250216|-|None|[Detecting and Filtering Unsafe Training Data via Data Attribution](#detecting-and-filtering-unsafe-training-data-via-data-attribution)|https://arxiv.org/abs/2502.11411|None|-|-|-|
+20250217|-|None|[Computational Safety for Generative AI: A Signal Processing Perspective](#computational-safety-for-generative-ai-a-signal-processing-perspective)|https://arxiv.org/abs/2502.12445|None|-|-|-|
+20250217|-|None|[DELMAN: Dynamic Defense Against Large Language Model Jailbreaking with Model Editing](#delman-dynamic-defense-against-large-language-model-jailbreaking-with-model-editing)|https://arxiv.org/abs/2502.11647|None|-|-|-|
+20250217|-|None|[Adversary-Aware DPO: Enhancing Safety Alignment in Vision Language Models via Adversarial Training](#adversary-aware-dpo-enhancing-safety-alignment-in-vision-language-models-via-adversarial-training)|https://arxiv.org/abs/2502.11455|None|-|-|-|
+20250217|-|None|[SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks](#safedialbench-a-fine-grained-safety-benchmark-for-large-language-models-in-multi-turn-dialogues-with-diverse-jailbreak-attacks)|https://arxiv.org/abs/2502.11090|https://github.com/drivetosouth/SafeDialBench-Dataset|-|-|-|
+20250217|-|None|[The Hidden Dimensions of LLM Alignment: A Multi-Dimensional Safety Analysis](#the-hidden-dimensions-of-llm-alignment-a-multi-dimensional-safety-analysis)|https://arxiv.org/abs/2502.09674|https://github.com/BMPixel/safety-residual-space|-|-|-|
+20250217|-|None|[Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety Re-Alignment for Fine-Tuned Language Models](#separate-the-wheat-from-the-chaff-a-post-hoc-approach-to-safety-re-alignment-for-fine-tuned-language-models)|https://arxiv.org/abs/2412.11041|https://github.com/pikepokenew/IRR|-|-|-|
+20250217|-|None|[StructuralSleight: Automated Jailbreak Attacks on Large Language Models Utilizing Uncommon Text-Organization Structures](#structuralsleight-automated-jailbreak-attacks-on-large-language-models-utilizing-uncommon-text-organization-structures)|https://arxiv.org/abs/2406.08754|None|-|-|-|
 20250216|-|None|[ShieldLearner: A New Paradigm for Jailbreak Attack Defense in LLMs](#shieldlearner-a-new-paradigm-for-jailbreak-attack-defense-in-llms)|https://arxiv.org/abs/2502.13162|None|-|-|-|
-20250215|-|None|[Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks](#functional-homotopy-smoothing-discrete-optimization-via-continuous-parameters-for-llm-jailbreak-attacks)|https://arxiv.org/abs/2410.04234|None|-|-|-|
+20250216|-|None|[Detecting and Filtering Unsafe Training Data via Data Attribution](#detecting-and-filtering-unsafe-training-data-via-data-attribution)|https://arxiv.org/abs/2502.11411|None|-|-|-|
+20250216|-|None|[CCJA: Context-Coherent Jailbreak Attack for Aligned Large Language Models](#ccja-context-coherent-jailbreak-attack-for-aligned-large-language-models)|https://arxiv.org/abs/2502.11379|None|-|-|-|
+20250216|-|None|[Rewrite to Jailbreak: Discover Learnable and Transferable Implicit Harmfulness Instruction](#rewrite-to-jailbreak-discover-learnable-and-transferable-implicit-harmfulness-instruction)|https://arxiv.org/abs/2502.11084|None|-|-|-|
+20250216|-|None|[Prompt Inject Detection with Generative Explanation as an Investigative Tool](#prompt-inject-detection-with-generative-explanation-as-an-investigative-tool)|https://arxiv.org/abs/2502.11006|None|-|-|-|
+20250216|-|None|[Dagger Behind Smile: Fool LLMs with a Happy Ending Story](#dagger-behind-smile-fool-llms-with-a-happy-ending-story)|https://arxiv.org/abs/2501.13115|None|-|-|-|
+20250216|-|None|[Atoxia: Red-teaming Large Language Models with Target Toxic Answers](#atoxia-red-teaming-large-language-models-with-target-toxic-answers)|https://arxiv.org/abs/2408.14853|https://github.com/DuYooho/Atoxia|-|-|-|
 20250215|-|None|[Distraction is All You Need for Multimodal Large Language Model Jailbreaking](#distraction-is-all-you-need-for-multimodal-large-language-model-jailbreaking)|https://arxiv.org/abs/2502.10794|None|-|-|-|
-20250214|-|None|[SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains](#sequentialbreak-large-language-models-can-be-fooled-by-embedding-jailbreak-prompts-into-sequential-prompt-chains)|https://arxiv.org/abs/2411.06426|None|-|-|-|
-20250213|-|None|[Are Large Language Models Really Bias-Free? Jailbreak Prompts for Assessing Adversarial Robustness to Bias Elicitation](#are-large-language-models-really-bias-free-jailbreak-prompts-for-assessing-adversarial-robustness-to-bias-elicitation)|https://arxiv.org/abs/2407.08441|None|-|-|-|
-20250213|-|None|[`Do as I say not as I do': A Semi-Automated Approach for Jailbreak Prompt Attack against Multimodal LLMs](#do-as-i-say-not-as-i-do-a-semi-automated-approach-for-jailbreak-prompt-attack-against-multimodal-llms)|https://arxiv.org/abs/2502.00735|None|-|-|-|
+20250215|-|None|[Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks](#functional-homotopy-smoothing-discrete-optimization-via-continuous-parameters-for-llm-jailbreak-attacks)|https://arxiv.org/abs/2410.04234|https://github.com/danshumaan/functional_homotopy|-|-|-|
+20250214|-|None|[SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains](#sequentialbreak-large-language-models-can-be-fooled-by-embedding-jailbreak-prompts-into-sequential-prompt-chains)|https://arxiv.org/abs/2411.06426|https://anonymous.4open.science/r/JailBreakAttack-4F3B/|-|-|-|
+20250213|-|None|[Enhancing Jailbreak Attacks via Compliance-Refusal-Based Initialization](#enhancing-jailbreak-attacks-via-compliance-refusal-based-initialization)|https://arxiv.org/abs/2502.09755|https://amit1221levi.github.io/CRI-Jailbreak-Init-LLMs-evaluation/|-|-|-|
 20250213|-|None|[FLAME: Flexible LLM-Assisted Moderation Engine](#flame-flexible-llm-assisted-moderation-engine)|https://arxiv.org/abs/2502.09175|None|-|-|-|
-20250213|-|None|[Enhancing Jailbreak Attacks via Compliance-Refusal-Based Initialization](#enhancing-jailbreak-attacks-via-compliance-refusal-based-initialization)|https://arxiv.org/abs/2502.09755|None|-|-|-|
+20250213|-|None|[`Do as I say not as I do': A Semi-Automated Approach for Jailbreak Prompt Attack against Multimodal LLMs](#do-as-i-say-not-as-i-do-a-semi-automated-approach-for-jailbreak-prompt-attack-against-multimodal-llms)|https://arxiv.org/abs/2502.00735|None|-|-|-|
+20250213|-|None|[Are Large Language Models Really Bias-Free? Jailbreak Prompts for Assessing Adversarial Robustness to Bias Elicitation](#are-large-language-models-really-bias-free-jailbreak-prompts-for-assessing-adversarial-robustness-to-bias-elicitation)|https://arxiv.org/abs/2407.08441|https://github.com/SCAlabUnical/LLM-Bias-Jailbreak|-|-|-|
 20250212|-|None|[In-Context Experience Replay Facilitates Safety Red-Teaming of Text-to-Image Diffusion Models](#in-context-experience-replay-facilitates-safety-red-teaming-of-text-to-image-diffusion-models)|https://arxiv.org/abs/2411.16769|None|-|-|-|
-20250212|-|None|[Safety at Scale: A Comprehensive Survey of Large Model Safety](#safety-at-scale-a-comprehensive-survey-of-large-model-safety)|https://arxiv.org/abs/2502.05206|None|-|-|-|
-20250211|-|38th Conference on Neural Information Processing Systems (NeurIPS 2024)|[Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization](#efficient-llm-jailbreak-via-adaptive-dense-to-sparse-constrained-optimization)|https://arxiv.org/abs/2405.09113|None|-|-|-|
-20250211|-|None|[Model Surgery: Modulating LLM's Behavior Via Simple Parameter Editing](#model-surgery-modulating-llms-behavior-via-simple-parameter-editing)|https://arxiv.org/abs/2407.08770|None|-|-|-|
-20250211|-|None|[Layer-Level Self-Exposure and Patch: Affirmative Token Mitigation for Jailbreak Attack Defense](#layer-level-self-exposure-and-patch-affirmative-token-mitigation-for-jailbreak-attack-defense)|https://arxiv.org/abs/2501.02629|None|-|-|-|
 20250211|-|None|[JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation](#jbshield-defending-large-language-models-from-jailbreak-attacks-through-activated-concept-analysis-and-manipulation)|https://arxiv.org/abs/2502.07557|None|-|-|-|
+20250211|-|None|[Layer-Level Self-Exposure and Patch: Affirmative Token Mitigation for Jailbreak Attack Defense](#layer-level-self-exposure-and-patch-affirmative-token-mitigation-for-jailbreak-attack-defense)|https://arxiv.org/abs/2501.02629|https://github.com/oyy2000/LayerAdvPatcher|-|-|-|
+20250211|-|None|[Model Surgery: Modulating LLM's Behavior Via Simple Parameter Editing](#model-surgery-modulating-llms-behavior-via-simple-parameter-editing)|https://arxiv.org/abs/2407.08770|https://github.com/lucywang720/model-surgery|-|-|-|
+20250211|-|38th Conference on Neural Information Processing Systems (NeurIPS 2024)|[Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization](#efficient-llm-jailbreak-via-adaptive-dense-to-sparse-constrained-optimization)|https://arxiv.org/abs/2405.09113|https://github.com/hukkai/adc_llm_attack|-|-|-|
 20250210|-|None|[Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models](#jailbreaking-llms-safeguard-with-universal-magic-words-for-text-embedding-models)|https://arxiv.org/abs/2501.18280|None|-|-|-|
 20250209|-|None|[Jailbreaking to Jailbreak](#jailbreaking-to-jailbreak)|https://arxiv.org/abs/2502.09638|None|-|-|-|
-20250208|-|None|[Dynamic Guided and Domain Applicable Safeguards for Enhanced Security in Large Language Models](#dynamic-guided-and-domain-applicable-safeguards-for-enhanced-security-in-large-language-models)|https://arxiv.org/abs/2410.17922|None|-|-|-|
+20250208|-|None|[Dynamic Guided and Domain Applicable Safeguards for Enhanced Security in Large Language Models](#dynamic-guided-and-domain-applicable-safeguards-for-enhanced-security-in-large-language-models)|https://arxiv.org/abs/2410.17922|https://github.com/IDEA-XL/G4D|-|-|-|
 20250207|-|None|[Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models](#jailbreak-antidote-runtime-safety-utility-balance-via-sparse-representation-adjustment-in-large-language-models)|https://arxiv.org/abs/2410.02298|None|-|-|-|
-20250206|-|None|[Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Carrier Articles](#hide-your-malicious-goal-into-benign-narratives-jailbreak-large-language-models-through-carrier-articles)|https://arxiv.org/abs/2408.11182|None|-|-|-|
+20250206|-|None|[Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions](#speak-easy-eliciting-harmful-jailbreaks-from-llms-with-simple-interactions)|https://arxiv.org/abs/2502.04322|https://github.com/yiksiu-chan/SpeakEasy|-|-|-|
+20250206|-|None|["Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence](#short-length-adversarial-training-helps-llms-defend-long-length-jailbreak-attacks-theoretical-and-empirical-evidence)|https://arxiv.org/abs/2502.04204|https://github.com/fshp971/adv-icl|-|-|-|
 20250206|-|None|[Root Defence Strategies: Ensuring Safety of LLM at the Decoding Level](#root-defence-strategies-ensuring-safety-of-llm-at-the-decoding-level)|https://arxiv.org/abs/2410.06809|None|-|-|-|
-20250206|-|None|["Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence](#short-length-adversarial-training-helps-llms-defend-long-length-jailbreak-attacks-theoretical-and-empirical-evidence)|https://arxiv.org/abs/2502.04204|None|-|-|-|
-20250206|-|None|[Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions](#speak-easy-eliciting-harmful-jailbreaks-from-llms-with-simple-interactions)|https://arxiv.org/abs/2502.04322|None|-|-|-|
-20250205|-|None|[ImgTrojan: Jailbreaking Vision-Language Models with ONE Image](#imgtrojan-jailbreaking-vision-language-models-with-one-image)|https://arxiv.org/abs/2403.02910|None|-|-|-|
-20250205|-|None|[SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner](#selfdefend-llms-can-defend-themselves-against-jailbreaking-in-a-practical-manner)|https://arxiv.org/abs/2406.05498|None|-|-|-|
-20250205|-|None|[On Effects of Steering Latent Representation for Large Language Model Unlearning](#on-effects-of-steering-latent-representation-for-large-language-model-unlearning)|https://arxiv.org/abs/2408.06223|None|-|-|-|
-20250205|-|None|[Understanding and Enhancing the Transferability of Jailbreaking Attacks](#understanding-and-enhancing-the-transferability-of-jailbreaking-attacks)|https://arxiv.org/abs/2502.03052|None|-|-|-|
-20250204|-|None|[JailbreakEval: An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models](#jailbreakeval-an-integrated-toolkit-for-evaluating-jailbreak-attempts-against-large-language-models)|https://arxiv.org/abs/2406.09321|None|-|-|-|
-20250204|-|None|[STAIR: Improving Safety Alignment with Introspective Reasoning](#stair-improving-safety-alignment-with-introspective-reasoning)|https://arxiv.org/abs/2502.02384|None|-|-|-|
+20250206|-|None|[Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Carrier Articles](#hide-your-malicious-goal-into-benign-narratives-jailbreak-large-language-models-through-carrier-articles)|https://arxiv.org/abs/2408.11182|None|-|-|-|
+20250205|-|None|[Understanding and Enhancing the Transferability of Jailbreaking Attacks](#understanding-and-enhancing-the-transferability-of-jailbreaking-attacks)|https://arxiv.org/abs/2502.03052|https://github.com/tmllab/2025_ICLR_PiF|-|-|-|
+20250205|-|None|[On Effects of Steering Latent Representation for Large Language Model Unlearning](#on-effects-of-steering-latent-representation-for-large-language-model-unlearning)|https://arxiv.org/abs/2408.06223|https://github.com/RebelsNLU-jaist/llm-unlearning|-|-|-|
+20250205|-|None|[SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner](#selfdefend-llms-can-defend-themselves-against-jailbreaking-in-a-practical-manner)|https://arxiv.org/abs/2406.05498|https://github.com/SelfDefend|-|-|-|
+20250205|-|None|[ImgTrojan: Jailbreaking Vision-Language Models with ONE Image](#imgtrojan-jailbreaking-vision-language-models-with-one-image)|https://arxiv.org/abs/2403.02910|https://github.com/xijia-tao/ImgTrojan|-|-|-|
 20250204|-|None|[Position: Stop Acting Like Language Model Agents Are Normal Agents](#position-stop-acting-like-language-model-agents-are-normal-agents)|https://arxiv.org/abs/2502.10420|None|-|-|-|
-20250203|-|None|["Not Aligned" is Not "Malicious": Being Careful about Hallucinations of Large Language Models' Jailbreak](#not-aligned-is-not-malicious-being-careful-about-hallucinations-of-large-language-models-jailbreak)|https://arxiv.org/abs/2406.11668|None|-|-|-|
-20250203|-|None|[PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization](#pbi-attack-prior-guided-bimodal-interactive-black-box-jailbreak-attack-for-toxicity-maximization)|https://arxiv.org/abs/2412.05892|None|-|-|-|
-20250203|-|None|[Jailbreaking with Universal Multi-Prompts](#jailbreaking-with-universal-multi-prompts)|https://arxiv.org/abs/2502.01154|None|-|-|-|
-20250203|-|None|[Eliciting Language Model Behaviors with Investigator Agents](#eliciting-language-model-behaviors-with-investigator-agents)|https://arxiv.org/abs/2502.01236|None|-|-|-|
-20250203|-|None|[Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models](#robust-llava-on-the-effectiveness-of-large-scale-robust-image-encoders-for-multi-modal-large-language-models)|https://arxiv.org/abs/2502.01576|None|-|-|-|
-20250203|-|None|[Adversarial Reasoning at Jailbreaking Time](#adversarial-reasoning-at-jailbreaking-time)|https://arxiv.org/abs/2502.01633|None|-|-|-|
+20250204|-|None|[STAIR: Improving Safety Alignment with Introspective Reasoning](#stair-improving-safety-alignment-with-introspective-reasoning)|https://arxiv.org/abs/2502.02384|https://github.com/thu-ml/STAIR|-|-|-|
+20250204|-|None|[JailbreakEval: An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models](#jailbreakeval-an-integrated-toolkit-for-evaluating-jailbreak-attempts-against-large-language-models)|https://arxiv.org/abs/2406.09321|https://github.com/ThuCCSLab/JailbreakEval|-|-|-|
 20250203|-|None|[PANDAS: Improving Many-shot Jailbreaking via Positive Affirmation, Negative Demonstration, and Adaptive Sampling](#pandas-improving-many-shot-jailbreaking-via-positive-affirmation-negative-demonstration-and-adaptive-sampling)|https://arxiv.org/abs/2502.01925|None|-|-|-|
-20250202|-|None|[SQL Injection Jailbreak: A Structural Disaster of Large Language Models](#sql-injection-jailbreak-a-structural-disaster-of-large-language-models)|https://arxiv.org/abs/2411.01565|None|-|-|-|
-20250202|-|None|["I am bad": Interpreting Stealthy, Universal and Robust Audio Jailbreaks in Audio-Language Models](#i-am-bad-interpreting-stealthy-universal-and-robust-audio-jailbreaks-in-audio-language-models)|https://arxiv.org/abs/2502.00718|None|-|-|-|
-20250202|-|None|[AgentBreeder: Mitigating the AI Safety Impact of Multi-Agent Scaffolds](#agentbreeder-mitigating-the-ai-safety-impact-of-multi-agent-scaffolds)|https://arxiv.org/abs/2502.00757|None|-|-|-|
+20250203|-|None|[Adversarial Reasoning at Jailbreaking Time](#adversarial-reasoning-at-jailbreaking-time)|https://arxiv.org/abs/2502.01633|https://github.com/Helloworld10011/Adversarial-Reasoning|-|-|-|
+20250203|-|None|[Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models](#robust-llava-on-the-effectiveness-of-large-scale-robust-image-encoders-for-multi-modal-large-language-models)|https://arxiv.org/abs/2502.01576|https://github.com/HashmatShadab/Robust-LLaVA|-|-|-|
+20250203|-|None|[Eliciting Language Model Behaviors with Investigator Agents](#eliciting-language-model-behaviors-with-investigator-agents)|https://arxiv.org/abs/2502.01236|None|-|-|-|
+20250203|-|None|[Jailbreaking with Universal Multi-Prompts](#jailbreaking-with-universal-multi-prompts)|https://arxiv.org/abs/2502.01154|https://github.com/ntuaislab/JUMP|-|-|-|
+20250203|-|None|[PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization](#pbi-attack-prior-guided-bimodal-interactive-black-box-jailbreak-attack-for-toxicity-maximization)|https://arxiv.org/abs/2412.05892|None|-|-|-|
+20250203|-|None|["Not Aligned" is Not "Malicious": Being Careful about Hallucinations of Large Language Models' Jailbreak](#not-aligned-is-not-malicious-being-careful-about-hallucinations-of-large-language-models-jailbreak)|https://arxiv.org/abs/2406.11668|https://github.com/Meirtz/BabyBLUE-llm|-|-|-|
 20250202|-|None|[Blink of an eye: a simple theory for feature localization in generative models](#blink-of-an-eye-a-simple-theory-for-feature-localization-in-generative-models)|https://arxiv.org/abs/2502.00921|None|-|-|-|
-20250201|-|None|[Self-Instruct Few-Shot Jailbreaking: Decompose the Attack into Pattern and Behavior Learning](#self-instruct-few-shot-jailbreaking-decompose-the-attack-into-pattern-and-behavior-learning)|https://arxiv.org/abs/2501.07959|None|-|-|-|
-20250201|-|None|[ALU: Agentic LLM Unlearning](#alu-agentic-llm-unlearning)|https://arxiv.org/abs/2502.00406|None|-|-|-|
-20250201|-|None|[Defense Against the Dark Prompts: Mitigating Best-of-N Jailbreaking with Prompt Evaluation](#defense-against-the-dark-prompts-mitigating-best-of-n-jailbreaking-with-prompt-evaluation)|https://arxiv.org/abs/2502.00580|None|-|-|-|
-20250201|-|None|[Towards Robust Multimodal Large Language Models Against Jailbreak Attacks](#towards-robust-multimodal-large-language-models-against-jailbreak-attacks)|https://arxiv.org/abs/2502.00653|None|-|-|-|
-20250201|-|None|[LLM Safety Alignment is Divergence Estimation in Disguise](#llm-safety-alignment-is-divergence-estimation-in-disguise)|https://arxiv.org/abs/2502.00657|None|-|-|-|
+20250202|-|None|[AgentBreeder: Mitigating the AI Safety Impact of Multi-Agent Scaffolds](#agentbreeder-mitigating-the-ai-safety-impact-of-multi-agent-scaffolds)|https://arxiv.org/abs/2502.00757|https://anonymous.4open.science/r/AgentBreeder-86AF|-|-|-|
+20250202|-|None|["I am bad": Interpreting Stealthy, Universal and Robust Audio Jailbreaks in Audio-Language Models](#i-am-bad-interpreting-stealthy-universal-and-robust-audio-jailbreaks-in-audio-language-models)|https://arxiv.org/abs/2502.00718|None|-|-|-|
 20250201|-|None|[Safety Alignment Depth in Large Language Models: A Markov Chain Perspective](#safety-alignment-depth-in-large-language-models-a-markov-chain-perspective)|https://arxiv.org/abs/2502.00669|None|-|-|-|
-20250131|-|None|[UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models](#uniguard-towards-universal-safety-guardrails-for-jailbreak-attacks-on-multimodal-large-language-models)|https://arxiv.org/abs/2411.01703|None|-|-|-|
-20250131|-|None|[Enhancing Model Defense Against Jailbreaks with Proactive Safety Reasoning](#enhancing-model-defense-against-jailbreaks-with-proactive-safety-reasoning)|https://arxiv.org/abs/2501.19180|None|-|-|-|
+20250201|-|None|[LLM Safety Alignment is Divergence Estimation in Disguise](#llm-safety-alignment-is-divergence-estimation-in-disguise)|https://arxiv.org/abs/2502.00657|None|-|-|-|
+20250201|-|None|[Towards Robust Multimodal Large Language Models Against Jailbreak Attacks](#towards-robust-multimodal-large-language-models-against-jailbreak-attacks)|https://arxiv.org/abs/2502.00653|None|-|-|-|
+20250201|-|None|[Defense Against the Dark Prompts: Mitigating Best-of-N Jailbreaking with Prompt Evaluation](#defense-against-the-dark-prompts-mitigating-best-of-n-jailbreaking-with-prompt-evaluation)|https://arxiv.org/abs/2502.00580|https://github.com/alignedai/DATDP|-|-|-|
+20250201|-|None|[ALU: Agentic LLM Unlearning](#alu-agentic-llm-unlearning)|https://arxiv.org/abs/2502.00406|None|-|-|-|
+20250201|-|None|[Self-Instruct Few-Shot Jailbreaking: Decompose the Attack into Pattern and Behavior Learning](#self-instruct-few-shot-jailbreaking-decompose-the-attack-into-pattern-and-behavior-learning)|https://arxiv.org/abs/2501.07959|https://github.com/iphosi/Self-Instruct-FSJ|-|-|-|
 20250131|-|None|[Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation](#riddle-me-this-stealthy-membership-inference-for-retrieval-augmented-generation)|https://arxiv.org/abs/2502.00306|None|-|-|-|
-20250130|-|None|[xJailbreak: Representation Space Guided Reinforcement Learning for Interpretable LLM Jailbreaking](#xjailbreak-representation-space-guided-reinforcement-learning-for-interpretable-llm-jailbreaking)|https://arxiv.org/abs/2501.16727|None|-|-|-|
+20250131|-|None|[Enhancing Model Defense Against Jailbreaks with Proactive Safety Reasoning](#enhancing-model-defense-against-jailbreaks-with-proactive-safety-reasoning)|https://arxiv.org/abs/2501.19180|None|-|-|-|
+20250131|-|None|[UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models](#uniguard-towards-universal-safety-guardrails-for-jailbreak-attacks-on-multimodal-large-language-models)|https://arxiv.org/abs/2411.01703|https://anonymous.4open.science/r/UniGuard/README.md|-|-|-|
 20250130|-|None|[Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming](#constitutional-classifiers-defending-against-universal-jailbreaks-across-thousands-of-hours-of-red-teaming)|https://arxiv.org/abs/2501.18837|None|-|-|-|
+20250130|-|None|[xJailbreak: Representation Space Guided Reinforcement Learning for Interpretable LLM Jailbreaking](#xjailbreak-representation-space-guided-reinforcement-learning-for-interpretable-llm-jailbreaking)|https://arxiv.org/abs/2501.16727|https://github.com/Aegis1863/xJailbreak|-|-|-|
 20250129|-|None|[RICoTA: Red-teaming of In-the-wild Conversation with Test Attempts](#ricota-red-teaming-of-in-the-wild-conversation-with-test-attempts)|https://arxiv.org/abs/2501.17715|None|-|-|-|
-20250127|-|None|[Jailbreaking Large Language Models Through Alignment Vulnerabilities in Out-of-Distribution Settings](#jailbreaking-large-language-models-through-alignment-vulnerabilities-in-out-of-distribution-settings)|https://arxiv.org/abs/2406.13662|None|-|-|-|
-20250127|-|None|[Smoothed Embeddings for Robust Language Models](#smoothed-embeddings-for-robust-language-models)|https://arxiv.org/abs/2501.16497|None|-|-|-|
-20250127|-|None|[Targeting Alignment: Extracting Safety Classifiers of Aligned LLMs](#targeting-alignment-extracting-safety-classifiers-of-aligned-llms)|https://arxiv.org/abs/2501.16534|None|-|-|-|
 20250127|-|None|[Indiana Jones: There Are Always Some Useful Ancient Relics](#indiana-jones-there-are-always-some-useful-ancient-relics)|https://arxiv.org/abs/2501.18628|None|-|-|-|
-20250127|-|None|[Towards Safe AI Clinicians: A Comprehensive Study on Large Language Model Jailbreaking in Healthcare](#towards-safe-ai-clinicians-a-comprehensive-study-on-large-language-model-jailbreaking-in-healthcare)|https://arxiv.org/abs/2501.18632|None|-|-|-|
-20250124|-|None|[An Adversarial Perspective on Machine Unlearning for AI Safety](#an-adversarial-perspective-on-machine-unlearning-for-ai-safety)|https://arxiv.org/abs/2409.18025|None|-|-|-|
-20250124|-|None|[Siren: A Learning-Based Multi-Turn Attack Framework for Simulating Real-World Human Jailbreak Behaviors](#siren-a-learning-based-multi-turn-attack-framework-for-simulating-real-world-human-jailbreak-behaviors)|https://arxiv.org/abs/2501.14250|None|-|-|-|
+20250127|-|None|[Targeting Alignment: Extracting Safety Classifiers of Aligned LLMs](#targeting-alignment-extracting-safety-classifiers-of-aligned-llms)|https://arxiv.org/abs/2501.16534|None|-|-|-|
+20250127|-|None|[Smoothed Embeddings for Robust Language Models](#smoothed-embeddings-for-robust-language-models)|https://arxiv.org/abs/2501.16497|None|-|-|-|
+20250127|-|None|[Jailbreaking Large Language Models Through Alignment Vulnerabilities in Out-of-Distribution Settings](#jailbreaking-large-language-models-through-alignment-vulnerabilities-in-out-of-distribution-settings)|https://arxiv.org/abs/2406.13662|None|-|-|-|
 20250124|-|None|[Internal Activation Revision: Safeguarding Vision Language Models Without Parameter Update](#internal-activation-revision-safeguarding-vision-language-models-without-parameter-update)|https://arxiv.org/abs/2501.16378|None|-|-|-|
+20250124|-|None|[Siren: A Learning-Based Multi-Turn Attack Framework for Simulating Real-World Human Jailbreak Behaviors](#siren-a-learning-based-multi-turn-attack-framework-for-simulating-real-world-human-jailbreak-behaviors)|https://arxiv.org/abs/2501.14250|https://github.com/YiyiyiZhao/siren|-|-|-|
+20250124|-|None|[An Adversarial Perspective on Machine Unlearning for AI Safety](#an-adversarial-perspective-on-machine-unlearning-for-ai-safety)|https://arxiv.org/abs/2409.18025|https://github.com/ethz-spylab/unlearning-vs-safety|-|-|-|
 20250123|-|None|[Tune In, Act Up: Exploring the Impact of Audio Modality-Specific Edits on Large Audio Language Models in Jailbreak](#tune-in-act-up-exploring-the-impact-of-audio-modality-specific-edits-on-large-audio-language-models-in-jailbreak)|https://arxiv.org/abs/2501.13772|None|-|-|-|
-20250121|-|None|[QROA: A Black-Box Query-Response Optimization Attack on LLMs](#qroa-a-black-box-query-response-optimization-attack-on-llms)|https://arxiv.org/abs/2406.02044|None|-|-|-|
 20250121|-|None|[You Can't Eat Your Cake and Have It Too: The Performance Degradation of LLMs with Jailbreak Defense](#you-cant-eat-your-cake-and-have-it-too-the-performance-degradation-of-llms-with-jailbreak-defense)|https://arxiv.org/abs/2501.12210|None|-|-|-|
-20250119|-|None|[FigStep: Jailbreaking Large Vision-Language Models via Typographic Visual Prompts](#figstep-jailbreaking-large-vision-language-models-via-typographic-visual-prompts)|https://arxiv.org/abs/2311.05608|None|-|-|-|
-20250119|-|None|[Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation](#deciphering-the-chaos-enhancing-jailbreak-attacks-via-adversarial-prompt-translation)|https://arxiv.org/abs/2410.11317|None|-|-|-|
+20250121|-|None|[QROA: A Black-Box Query-Response Optimization Attack on LLMs](#qroa-a-black-box-query-response-optimization-attack-on-llms)|https://arxiv.org/abs/2406.02044|https://github.com/qroa/qroa|-|-|-|
+20250119|-|None|[Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation](#deciphering-the-chaos-enhancing-jailbreak-attacks-via-adversarial-prompt-translation)|https://arxiv.org/abs/2410.11317|https://github.com/qizhangli/Adversarial-Prompt-Translator|-|-|-|
+20250119|-|None|[FigStep: Jailbreaking Large Vision-Language Models via Typographic Visual Prompts](#figstep-jailbreaking-large-vision-language-models-via-typographic-visual-prompts)|https://arxiv.org/abs/2311.05608|https://github.com/ThuCCSLab/FigStep|-|-|-|
 20250117|-|None|[Latent-space adversarial training with post-aware calibration for defending large language models against jailbreak attacks](#latent-space-adversarial-training-with-post-aware-calibration-for-defending-large-language-models-against-jailbreak-attacks)|https://arxiv.org/abs/2501.10639|None|-|-|-|
 20250116|-|None|[A Survey on Responsible LLMs: Inherent Risk, Malicious Use, and Mitigation Strategy](#a-survey-on-responsible-llms-inherent-risk-malicious-use-and-mitigation-strategy)|https://arxiv.org/abs/2501.09431|None|-|-|-|
-20250112|-|None|[Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models](#images-are-achilles-heel-of-alignment-exploiting-visual-vulnerabilities-for-jailbreaking-multimodal-large-language-models)|https://arxiv.org/abs/2403.09792|None|-|-|-|
+20250112|-|None|[Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models](#images-are-achilles-heel-of-alignment-exploiting-visual-vulnerabilities-for-jailbreaking-multimodal-large-language-models)|https://arxiv.org/abs/2403.09792|https://github.com/RUCAIBox/HADES|-|-|-|
 20250110|-|None|[BaThe: Defense against the Jailbreak Attack in Multimodal Large Language Models by Treating Harmful Instruction as Backdoor Trigger](#bathe-defense-against-the-jailbreak-attack-in-multimodal-large-language-models-by-treating-harmful-instruction-as-backdoor-trigger)|https://arxiv.org/abs/2408.09093|None|-|-|-|
-20250109|-|None|[Turning Logic Against Itself : Probing Model Defenses Through Contrastive Questions](#turning-logic-against-itself--probing-model-defenses-through-contrastive-questions)|https://arxiv.org/abs/2501.01872|None|-|-|-|
-20250108|-|None|[Toxicity Detection towards Adaptability to Changing Perturbations](#toxicity-detection-towards-adaptability-to-changing-perturbations)|https://arxiv.org/abs/2412.15267|None|-|-|-|
-20250108|-|None|[Deliberative Alignment: Reasoning Enables Safer Language Models](#deliberative-alignment-reasoning-enables-safer-language-models)|https://arxiv.org/abs/2412.16339|None|-|-|-|
+20250109|-|None|[Turning Logic Against Itself : Probing Model Defenses Through Contrastive Questions](#turning-logic-against-itself--probing-model-defenses-through-contrastive-questions)|https://arxiv.org/abs/2501.01872|https://github.com/UKPLab/POATE-attack|-|-|-|
 20250108|-|None|[Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency](#jailbreaking-multimodal-large-language-models-via-shuffle-inconsistency)|https://arxiv.org/abs/2501.04931|None|-|-|-|
+20250108|-|None|[Deliberative Alignment: Reasoning Enables Safer Language Models](#deliberative-alignment-reasoning-enables-safer-language-models)|https://arxiv.org/abs/2412.16339|None|-|-|-|
 20250107|-|None|[MRJ-Agent: An Effective Jailbreak Agent for Multi-Round Dialogue](#mrj-agent-an-effective-jailbreak-agent-for-multi-round-dialogue)|https://arxiv.org/abs/2411.03814|None|-|-|-|
-20250106|-|None|[ChatBug: A Common Vulnerability of Aligned LLMs Induced by Chat Templates](#chatbug-a-common-vulnerability-of-aligned-llms-induced-by-chat-templates)|https://arxiv.org/abs/2406.12935|None|-|-|-|
+20250106|-|None|[ChatBug: A Common Vulnerability of Aligned LLMs Induced by Chat Templates](#chatbug-a-common-vulnerability-of-aligned-llms-induced-by-chat-templates)|https://arxiv.org/abs/2406.12935|https://github.com/uw-nsl/ChatBug|-|-|-|
 20250104|-|None|[DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak](#diffusionattacker-diffusion-driven-prompt-manipulation-for-llm-jailbreak)|https://arxiv.org/abs/2412.17522|None|-|-|-|
+20250103|-|None|[Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models](#spot-risks-before-speaking-unraveling-safety-attention-heads-in-large-vision-language-models)|https://arxiv.org/abs/2501.02029|https://github.com/Ziwei-Zheng/SAHs|-|-|-|
 20250103|-|None|[Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models](#heuristic-induced-multimodal-risk-distribution-jailbreak-attack-for-multimodal-large-language-models)|https://arxiv.org/abs/2412.05934|None|-|-|-|
-20250103|-|None|[Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models](#spot-risks-before-speaking-unraveling-safety-attention-heads-in-large-vision-language-models)|https://arxiv.org/abs/2501.02029|None|-|-|-|
-20250102|-|None|[Security Attacks on LLM-based Code Completion Tools](#security-attacks-on-llm-based-code-completion-tools)|https://arxiv.org/abs/2408.11006|None|-|-|-|
-20250102|-|None|[CySecBench: Generative AI-based CyberSecurity-focused Prompt Dataset for Benchmarking Large Language Models](#cysecbench-generative-ai-based-cybersecurity-focused-prompt-dataset-for-benchmarking-large-language-models)|https://arxiv.org/abs/2501.01335|None|-|-|-|
 20250102|-|None|[Safeguarding Large Language Models in Real-time with Tunable Safety-Performance Trade-offs](#safeguarding-large-language-models-in-real-time-with-tunable-safety-performance-trade-offs)|https://arxiv.org/abs/2501.02018|None|-|-|-|
+20250102|-|None|[CySecBench: Generative AI-based CyberSecurity-focused Prompt Dataset for Benchmarking Large Language Models](#cysecbench-generative-ai-based-cybersecurity-focused-prompt-dataset-for-benchmarking-large-language-models)|https://arxiv.org/abs/2501.01335|https://github.com/cysecbench/dataset|-|-|-|
+20250102|-|None|[Security Attacks on LLM-based Code Completion Tools](#security-attacks-on-llm-based-code-completion-tools)|https://arxiv.org/abs/2408.11006|https://github.com/Sensente/Security-Attacks-on-LCCTs|-|-|-|
 20250101|-|None|[BiasJailbreak:Analyzing Ethical Biases and Jailbreak Vulnerabilities in Large Language Models](#biasjailbreakanalyzing-ethical-biases-and-jailbreak-vulnerabilities-in-large-language-models)|https://arxiv.org/abs/2410.13334|None|-|-|-|
-20241228|-|None|[LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models](#llm-virus-evolutionary-jailbreak-attack-on-large-language-models)|https://arxiv.org/abs/2501.00055|None|-|-|-|
-20241224|-|None|[SafeAligner: Safety Alignment against Jailbreak Attacks via Response Disparity Guidance](#safealigner-safety-alignment-against-jailbreak-attacks-via-response-disparity-guidance)|https://arxiv.org/abs/2406.18118|None|-|-|-|
-20241224|-|None|[The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models](#the-dark-side-of-function-calling-pathways-to-jailbreaking-large-language-models)|https://arxiv.org/abs/2407.17915|None|-|-|-|
+20241228|-|None|[LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models](#llm-virus-evolutionary-jailbreak-attack-on-large-language-models)|https://arxiv.org/abs/2501.00055|https://github.com/Ymm-cll/LLM-Virus|-|-|-|
 20241224|-|None|[Token Highlighter: Inspecting and Mitigating Jailbreak Prompts for Large Language Models](#token-highlighter-inspecting-and-mitigating-jailbreak-prompts-for-large-language-models)|https://arxiv.org/abs/2412.18171|https://huggingface.co/spaces/TrustSafeAI/Token-Highlighter|-|-|-|
+20241224|-|None|[The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models](#the-dark-side-of-function-calling-pathways-to-jailbreaking-large-language-models)|https://arxiv.org/abs/2407.17915|https://github.com/wooozihui/jailbreakfunction|-|-|-|
+20241224|-|None|[SafeAligner: Safety Alignment against Jailbreak Attacks via Response Disparity Guidance](#safealigner-safety-alignment-against-jailbreak-attacks-via-response-disparity-guidance)|https://arxiv.org/abs/2406.18118|None|-|-|-|
 20241223|-|AAAI 2025|[Retention Score: Quantifying Jailbreak Risks for Vision Language Models](#retention-score-quantifying-jailbreak-risks-for-vision-language-models)|https://arxiv.org/abs/2412.17544|None|-|-|-|
-20241222|-|None|[Robustness of Large Language Models Against Adversarial Attacks](#robustness-of-large-language-models-against-adversarial-attacks)|https://arxiv.org/abs/2412.17011|None|-|-|-|
 20241222|-|None|[Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models](#shaping-the-safety-boundaries-understanding-and-defending-against-jailbreaks-in-large-language-models)|https://arxiv.org/abs/2412.17034|None|-|-|-|
+20241222|-|None|[Robustness of Large Language Models Against Adversarial Attacks](#robustness-of-large-language-models-against-adversarial-attacks)|https://arxiv.org/abs/2412.17011|None|-|-|-|
 20241221|-|None|[Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models](#divide-and-conquer-a-hybrid-strategy-defeats-multimodal-large-language-models)|https://arxiv.org/abs/2412.16555|None|-|-|-|
-20241220|-|None|[Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment](#immune-improving-safety-against-jailbreaks-in-multi-modal-llms-via-inference-time-alignment)|https://arxiv.org/abs/2411.18688|None|-|-|-|
 20241220|-|None|[JailPO: A Novel Black-box Jailbreak Framework via Preference Optimization against Aligned LLMs](#jailpo-a-novel-black-box-jailbreak-framework-via-preference-optimization-against-aligned-llms)|https://arxiv.org/abs/2412.15623|None|-|-|-|
-20241220|-|None|[Logical Consistency of Large Language Models in Fact-checking](#logical-consistency-of-large-language-models-in-fact-checking)|https://arxiv.org/abs/2412.16100|None|-|-|-|
-20241219|-|None|[Alignment-Enhanced Decoding:Defending via Token-Level Adaptive Refining of Probability Distributions](#alignment-enhanced-decodingdefending-via-token-level-adaptive-refining-of-probability-distributions)|https://arxiv.org/abs/2408.07663|None|-|-|-|
-20241219|-|None|[Unleashing the Unseen: Harnessing Benign Datasets for Jailbreaking Large Language Models](#unleashing-the-unseen-harnessing-benign-datasets-for-jailbreaking-large-language-models)|https://arxiv.org/abs/2410.00451|None|-|-|-|
-20241219|-|None|[SATA: A Paradigm for LLM Jailbreak via Simple Assistive Task Linkage](#sata-a-paradigm-for-llm-jailbreak-via-simple-assistive-task-linkage)|https://arxiv.org/abs/2412.15289|None|-|-|-|
+20241219|-|None|[Unleashing the Unseen: Harnessing Benign Datasets for Jailbreaking Large Language Models](#unleashing-the-unseen-harnessing-benign-datasets-for-jailbreaking-large-language-models)|https://arxiv.org/abs/2410.00451|https://github.com/suffix-maybe-feature/adver-suffix-maybe-features|-|-|-|
+20241219|-|None|[Alignment-Enhanced Decoding:Defending via Token-Level Adaptive Refining of Probability Distributions](#alignment-enhanced-decodingdefending-via-token-level-adaptive-refining-of-probability-distributions)|https://arxiv.org/abs/2408.07663|https://github.com/GIGABaozi/AED.git|-|-|-|
 20241218|-|None|[Evaluation of LLM Vulnerabilities to Being Misused for Personalized Disinformation Generation](#evaluation-of-llm-vulnerabilities-to-being-misused-for-personalized-disinformation-generation)|https://arxiv.org/abs/2412.13666|None|-|-|-|
-20241217|-|None|[Jailbreak Large Vision-Language Models Through Multi-Modal Linkage](#jailbreak-large-vision-language-models-through-multi-modal-linkage)|https://arxiv.org/abs/2412.00473|None|-|-|-|
-20241217|-|None|[Jailbreaking? One Step Is Enough!](#jailbreaking-one-step-is-enough)|https://arxiv.org/abs/2412.12621|None|-|-|-|
 20241217|-|None|[Concept-ROT: Poisoning Concepts in Large Language Models with Model Editing](#concept-rot-poisoning-concepts-in-large-language-models-with-model-editing)|https://arxiv.org/abs/2412.13341|None|-|-|-|
-20241216|-|None|[Intention Analysis Makes LLMs A Good Jailbreak Defender](#intention-analysis-makes-llms-a-good-jailbreak-defender)|https://arxiv.org/abs/2401.06561|None|-|-|-|
-20241216|-|None|[SciSafeEval: A Comprehensive Benchmark for Safety Alignment of Large Language Models in Scientific Tasks](#scisafeeval-a-comprehensive-benchmark-for-safety-alignment-of-large-language-models-in-scientific-tasks)|https://arxiv.org/abs/2410.03769|None|-|-|-|
+20241217|-|None|[Jailbreaking? One Step Is Enough!](#jailbreaking-one-step-is-enough)|https://arxiv.org/abs/2412.12621|None|-|-|-|
+20241217|-|None|[Jailbreak Large Vision-Language Models Through Multi-Modal Linkage](#jailbreak-large-vision-language-models-through-multi-modal-linkage)|https://arxiv.org/abs/2412.00473|https://github.com/wangyu-ovo/MML|-|-|-|
+20241216|-|None|[Granite Guardian](#granite-guardian)|https://arxiv.org/abs/2412.07724|https://github.com/ibm-granite/granite-guardian|-|-|-|
 20241216|-|None|[Recent advancements in LLM Red-Teaming: Techniques, Defenses, and Ethical Considerations](#recent-advancements-in-llm-red-teaming-techniques-defenses-and-ethical-considerations)|https://arxiv.org/abs/2410.09097|None|-|-|-|
-20241216|-|None|[Granite Guardian](#granite-guardian)|https://arxiv.org/abs/2412.07724|None|-|-|-|
-20241215|-|None|[Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?](#red-teaming-gpt-v-are-gpt-v-safe-against-unimulti-modal-jailbreak-attacks)|https://arxiv.org/abs/2404.03411|None|-|-|-|
-20241215|-|None|[Failures to Find Transferable Image Jailbreaks Between Vision-Language Models](#failures-to-find-transferable-image-jailbreaks-between-vision-language-models)|https://arxiv.org/abs/2407.15211|None|-|-|-|
-20241215|-|None|[Exploiting the Index Gradients for Optimization-Based Jailbreaking on Large Language Models](#exploiting-the-index-gradients-for-optimization-based-jailbreaking-on-large-language-models)|https://arxiv.org/abs/2412.08615|None|-|-|-|
+20241216|-|None|[SciSafeEval: A Comprehensive Benchmark for Safety Alignment of Large Language Models in Scientific Tasks](#scisafeeval-a-comprehensive-benchmark-for-safety-alignment-of-large-language-models-in-scientific-tasks)|https://arxiv.org/abs/2410.03769|None|-|-|-|
+20241216|-|None|[Intention Analysis Makes LLMs A Good Jailbreak Defender](#intention-analysis-makes-llms-a-good-jailbreak-defender)|https://arxiv.org/abs/2401.06561|https://github.com/alphadl/SafeLLM_with_IntentionAnalysis|-|-|-|
 20241215|-|None|[SpearBot: Leveraging Large Language Models in a Generative-Critique Framework for Spear-Phishing Email Generation](#spearbot-leveraging-large-language-models-in-a-generative-critique-framework-for-spear-phishing-email-generation)|https://arxiv.org/abs/2412.11109|None|-|-|-|
+20241215|-|None|[Exploiting the Index Gradients for Optimization-Based Jailbreaking on Large Language Models](#exploiting-the-index-gradients-for-optimization-based-jailbreaking-on-large-language-models)|https://arxiv.org/abs/2412.08615|https://github.com/jiah-li/magic|-|-|-|
+20241215|-|None|[Failures to Find Transferable Image Jailbreaks Between Vision-Language Models](#failures-to-find-transferable-image-jailbreaks-between-vision-language-models)|https://arxiv.org/abs/2407.15211|None|-|-|-|
+20241215|-|None|[Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?](#red-teaming-gpt-v-are-gpt-v-safe-against-unimulti-modal-jailbreak-attacks)|https://arxiv.org/abs/2404.03411|https://github.com/chenxshuo/RedTeamingGPT4V|-|-|-|
 20241214|-|None|[Towards Action Hijacking of Large Language Model-based Agent](#towards-action-hijacking-of-large-language-model-based-agent)|https://arxiv.org/abs/2412.10807|None|-|-|-|
-20241213|-|None|[AdvPrefix: An Objective for Nuanced LLM Jailbreaks](#advprefix-an-objective-for-nuanced-llm-jailbreaks)|https://arxiv.org/abs/2412.10321|None|-|-|-|
 20241213|-|None|[No Free Lunch for Defending Against Prefilling Attack by In-Context Learning](#no-free-lunch-for-defending-against-prefilling-attack-by-in-context-learning)|https://arxiv.org/abs/2412.12192|None|-|-|-|
-20241211|-|None|[Model-Editing-Based Jailbreak against Safety-aligned Large Language Models](#model-editing-based-jailbreak-against-safety-aligned-large-language-models)|https://arxiv.org/abs/2412.08201|None|-|-|-|
+20241213|-|None|[AdvPrefix: An Objective for Nuanced LLM Jailbreaks](#advprefix-an-objective-for-nuanced-llm-jailbreaks)|https://arxiv.org/abs/2412.10321|https://github.com/facebookresearch/jailbreak-objectives|-|-|-|
 20241211|-|None|[AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models](#advwave-stealthy-adversarial-jailbreak-attack-against-large-audio-language-models)|https://arxiv.org/abs/2412.08608|None|-|-|-|
-20241210|-|None|[Plentiful Jailbreaks with String Compositions](#plentiful-jailbreaks-with-string-compositions)|https://arxiv.org/abs/2411.01084|None|-|-|-|
+20241211|-|None|[Model-Editing-Based Jailbreak against Safety-aligned Large Language Models](#model-editing-based-jailbreak-against-safety-aligned-large-language-models)|https://arxiv.org/abs/2412.08201|None|-|-|-|
+20241210|-|None|[Look Before You Leap: Enhancing Attention and Vigilance Regarding Harmful Content with GuidelineLLM](#look-before-you-leap-enhancing-attention-and-vigilance-regarding-harmful-content-with-guidelinellm)|https://arxiv.org/abs/2412.10423|https://github.com/sqzhang-lazy/GuidelineLLM|-|-|-|
 20241210|-|None|[FlexLLM: Exploring LLM Customization for Moving Target Defense on Black-Box LLMs Against Jailbreak Attacks](#flexllm-exploring-llm-customization-for-moving-target-defense-on-black-box-llms-against-jailbreak-attacks)|https://arxiv.org/abs/2412.07672|None|-|-|-|
-20241210|-|None|[Look Before You Leap: Enhancing Attention and Vigilance Regarding Harmful Content with GuidelineLLM](#look-before-you-leap-enhancing-attention-and-vigilance-regarding-harmful-content-with-guidelinellm)|https://arxiv.org/abs/2412.10423|None|-|-|-|
-20241208|-|None|[Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation](#automated-black-box-prompt-engineering-for-personalized-text-to-image-generation)|https://arxiv.org/abs/2403.19103|None|-|-|-|
+20241210|-|None|[Plentiful Jailbreaks with String Compositions](#plentiful-jailbreaks-with-string-compositions)|https://arxiv.org/abs/2411.01084|None|-|-|-|
 20241208|-|None|[Enhancing Adversarial Resistance in LLMs with Recursion](#enhancing-adversarial-resistance-in-llms-with-recursion)|https://arxiv.org/abs/2412.06181|None|-|-|-|
-20241206|-|None|[MultiTrust: A Comprehensive Benchmark Towards Trustworthy Multimodal Large Language Models](#multitrust-a-comprehensive-benchmark-towards-trustworthy-multimodal-large-language-models)|https://arxiv.org/abs/2406.07057|None|-|-|-|
-20241205|-|None|[Stochastic Monkeys at Play: Random Augmentations Cheaply Break LLM Safety Alignment](#stochastic-monkeys-at-play-random-augmentations-cheaply-break-llm-safety-alignment)|https://arxiv.org/abs/2411.02785|None|-|-|-|
-20241204|-|None|["Moralized" Multi-Step Jailbreak Prompts: Black-Box Testing of Guardrails in Large Language Models for Verbal Attacks](#moralized-multi-step-jailbreak-prompts-black-box-testing-of-guardrails-in-large-language-models-for-verbal-attacks)|https://arxiv.org/abs/2411.16730|None|-|-|-|
-20241204|-|Addepalli, S., Varun, Y., Suggala, A., Shanmugam, K. and Jain, P., Does Safety Training of LLMs Generalize to Semantically Related Natural Prompts?. In Neurips Safe Generative AI Workshop 2024|[Does Safety Training of LLMs Generalize to Semantically Related Natural Prompts?](#does-safety-training-of-llms-generalize-to-semantically-related-natural-prompts)|https://arxiv.org/abs/2412.03235|None|-|-|-|
-20241202|-|None|[Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis](#towards-understanding-jailbreak-attacks-in-llms-a-representation-space-analysis)|https://arxiv.org/abs/2406.10794|None|-|-|-|
-20241202|-|None|[Improved Large Language Model Jailbreak Detection via Pretrained Embeddings](#improved-large-language-model-jailbreak-detection-via-pretrained-embeddings)|https://arxiv.org/abs/2412.01547|None|-|-|-|
-20241202|-|None|[Trust & Safety of LLMs and LLMs in Trust & Safety](#trust--safety-of-llms-and-llms-in-trust--safety)|https://arxiv.org/abs/2412.02113|None|-|-|-|
+20241208|-|None|[Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation](#automated-black-box-prompt-engineering-for-personalized-text-to-image-generation)|https://arxiv.org/abs/2403.19103|None|-|-|-|
+20241206|-|None|[MultiTrust: A Comprehensive Benchmark Towards Trustworthy Multimodal Large Language Models](#multitrust-a-comprehensive-benchmark-towards-trustworthy-multimodal-large-language-models)|https://arxiv.org/abs/2406.07057|https://multi-trust.github.io/|-|-|-|
+20241205|-|None|[Stochastic Monkeys at Play: Random Augmentations Cheaply Break LLM Safety Alignment](#stochastic-monkeys-at-play-random-augmentations-cheaply-break-llm-safety-alignment)|https://arxiv.org/abs/2411.02785|https://github.com/uiuc-focal-lab/stochastic-monkeys/|-|-|-|
 20241202|-|None|[Jailbreak Defense in a Narrow Domain: Limitations of Existing Methods and a New Transcript-Classifier Approach](#jailbreak-defense-in-a-narrow-domain-limitations-of-existing-methods-and-a-new-transcript-classifier-approach)|https://arxiv.org/abs/2412.02159|None|-|-|-|
+20241202|-|None|[Trust & Safety of LLMs and LLMs in Trust & Safety](#trust--safety-of-llms-and-llms-in-trust--safety)|https://arxiv.org/abs/2412.02113|None|-|-|-|
+20241202|-|None|[Improved Large Language Model Jailbreak Detection via Pretrained Embeddings](#improved-large-language-model-jailbreak-detection-via-pretrained-embeddings)|https://arxiv.org/abs/2412.01547|None|-|-|-|
+20241202|-|None|[Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis](#towards-understanding-jailbreak-attacks-in-llms-a-representation-space-analysis)|https://arxiv.org/abs/2406.10794|None|-|-|-|
 20241129|-|None|[Safety Alignment Backfires: Preventing the Re-emergence of Suppressed Concepts in Fine-tuned Text-to-Image Diffusion Models](#safety-alignment-backfires-preventing-the-re-emergence-of-suppressed-concepts-in-fine-tuned-text-to-image-diffusion-models)|https://arxiv.org/abs/2412.00357|None|-|-|-|
-20241128|-|None|[DeepInception: Hypnotize Large Language Model to Be Jailbreaker](#deepinception-hypnotize-large-language-model-to-be-jailbreaker)|https://arxiv.org/abs/2311.03191|None|-|-|-|
-20241128|-|None|[Conversational Complexity for Assessing Risk in Large Language Models](#conversational-complexity-for-assessing-risk-in-large-language-models)|https://arxiv.org/abs/2409.01247|None|-|-|-|
 20241128|-|None|[RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process](#repd-defending-jailbreak-attack-through-a-retrieval-based-prompt-decomposition-process)|https://arxiv.org/abs/2410.08660|None|-|-|-|
-20241128|-|None|[DIESEL -- Dynamic Inference-Guidance via Evasion of Semantic Embeddings in LLMs](#diesel----dynamic-inference-guidance-via-evasion-of-semantic-embeddings-in-llms)|https://arxiv.org/abs/2411.19038|None|-|-|-|
-20241127|-|None|[Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models](#safe--safe--unsafe-exploring-how-safe-images-can-be-exploited-to-jailbreak-large-vision-language-models)|https://arxiv.org/abs/2411.11496|None|-|-|-|
+20241128|-|None|[Conversational Complexity for Assessing Risk in Large Language Models](#conversational-complexity-for-assessing-risk-in-large-language-models)|https://arxiv.org/abs/2409.01247|https://github.com/JohnBurden/ConversationalComplexity|-|-|-|
+20241128|-|None|[DeepInception: Hypnotize Large Language Model to Be Jailbreaker](#deepinception-hypnotize-large-language-model-to-be-jailbreaker)|https://arxiv.org/abs/2311.03191|https://github.com/tmlr-group/DeepInception|-|-|-|
 20241127|-|None|[Playing Language Game with LLMs Leads to Jailbreaking](#playing-language-game-with-llms-leads-to-jailbreaking)|https://arxiv.org/abs/2411.12762|None|-|-|-|
-20241126|-|None|[BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models](#blackdan-a-black-box-multi-objective-approach-for-effective-and-contextual-jailbreaking-of-large-language-models)|https://arxiv.org/abs/2410.09804|None|-|-|-|
+20241127|-|None|[Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models](#safe--safe--unsafe-exploring-how-safe-images-can-be-exploited-to-jailbreak-large-vision-language-models)|https://arxiv.org/abs/2411.11496|https://github.com/gzcch/Safety_Snowball_Agent|-|-|-|
 20241126|-|None|[Desert Camels and Oil Sheikhs: Arab-Centric Red Teaming of Frontier LLMs](#desert-camels-and-oil-sheikhs-arab-centric-red-teaming-of-frontier-llms)|https://arxiv.org/abs/2410.24049|None|-|-|-|
+20241126|-|None|[BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models](#blackdan-a-black-box-multi-objective-approach-for-effective-and-contextual-jailbreaking-of-large-language-models)|https://arxiv.org/abs/2410.09804|None|-|-|-|
 20241125|-|None|[Preventing Jailbreak Prompts as Malicious Tools for Cybercriminals: A Cyber Defense Perspective](#preventing-jailbreak-prompts-as-malicious-tools-for-cybercriminals-a-cyber-defense-perspective)|https://arxiv.org/abs/2411.16642|None|-|-|-|
-20241124|-|None|[JailBreakV: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks](#jailbreakv-a-benchmark-for-assessing-the-robustness-of-multimodal-large-language-models-against-jailbreak-attacks)|https://arxiv.org/abs/2404.03027|None|-|-|-|
-20241124|-|None|[AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs](#amplegcg-learning-a-universal-and-transferable-generative-model-of-adversarial-suffixes-for-jailbreaking-both-open-and-closed-llms)|https://arxiv.org/abs/2404.07921|None|-|-|-|
+20241124|-|None|[AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs](#amplegcg-learning-a-universal-and-transferable-generative-model-of-adversarial-suffixes-for-jailbreaking-both-open-and-closed-llms)|https://arxiv.org/abs/2404.07921|https://github.com/OSU-NLP-Group/AmpleGCG|-|-|-|
+20241124|-|None|[JailBreakV: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks](#jailbreakv-a-benchmark-for-assessing-the-robustness-of-multimodal-large-language-models-against-jailbreak-attacks)|https://arxiv.org/abs/2404.03027|https://huggingface.co/datasets/JailbreakV-28K/JailBreakV-28K|-|-|-|
 20241123|-|None|[ChemSafetyBench: Benchmarking LLM Safety on Chemistry Domain](#chemsafetybench-benchmarking-llm-safety-on-chemistry-domain)|https://arxiv.org/abs/2411.16736|None|-|-|-|
 20241122|-|None|[Universal and Context-Independent Triggers for Precise Control of LLM Outputs](#universal-and-context-independent-triggers-for-precise-control-of-llm-outputs)|https://arxiv.org/abs/2411.14738|None|-|-|-|
-20241121|-|None|[GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs](#gasp-efficient-black-box-generation-of-adversarial-suffixes-for-jailbreaking-llms)|https://arxiv.org/abs/2411.14133|None|-|-|-|
 20241121|-|None|[Global Challenge for Safe and Secure LLMs Track 1](#global-challenge-for-safe-and-secure-llms-track-)|https://arxiv.org/abs/2411.14502|None|-|-|-|
-20241119|-|None|[A Flexible Large Language Models Guardrail Development Methodology Applied to Off-Topic Prompt Detection](#a-flexible-large-language-models-guardrail-development-methodology-applied-to-off-topic-prompt-detection)|https://arxiv.org/abs/2411.12946|None|-|-|-|
-20241118|-|None|[The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on Large Language Models](#the-dark-side-of-trust-authority-citation-driven-jailbreak-attacks-on-large-language-models)|https://arxiv.org/abs/2411.11407|None|-|-|-|
-20241117|-|None|[A Theoretical Understanding of Self-Correction through In-context Alignment](#a-theoretical-understanding-of-self-correction-through-in-context-alignment)|https://arxiv.org/abs/2405.18634|None|-|-|-|
+20241121|-|None|[GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs](#gasp-efficient-black-box-generation-of-adversarial-suffixes-for-jailbreaking-llms)|https://arxiv.org/abs/2411.14133|https://github.com/llm-gasp/gasp|-|-|-|
+20241119|-|None|[A Flexible Large Language Models Guardrail Development Methodology Applied to Off-Topic Prompt Detection](#a-flexible-large-language-models-guardrail-development-methodology-applied-to-off-topic-prompt-detection)|https://arxiv.org/abs/2411.12946|https://huggingface.co/collections/govtech/off-topic-guardrail-673838a62e4c661f248e81a4|-|-|-|
+20241118|-|None|[The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on Large Language Models](#the-dark-side-of-trust-authority-citation-driven-jailbreak-attacks-on-large-language-models)|https://arxiv.org/abs/2411.11407|https://github.com/YancyKahn/DarkCite|-|-|-|
 20241117|-|None|[JailbreakLens: Interpreting Jailbreak Mechanism in the Lens of Representation and Circuit](#jailbreaklens-interpreting-jailbreak-mechanism-in-the-lens-of-representation-and-circuit)|https://arxiv.org/abs/2411.11114|None|-|-|-|
-20241116|-|None|[How (un)ethical are instruction-centric responses of LLMs? Unveiling the vulnerabilities of safety guardrails to harmful queries](#how-unethical-are-instruction-centric-responses-of-llms-unveiling-the-vulnerabilities-of-safety-guardrails-to-harmful-queries)|https://arxiv.org/abs/2402.15302|None|-|-|-|
+20241117|-|None|[A Theoretical Understanding of Self-Correction through In-context Alignment](#a-theoretical-understanding-of-self-correction-through-in-context-alignment)|https://arxiv.org/abs/2405.18634|https://github.com/yifeiwang77/Self-Correction|-|-|-|
 20241116|-|None|[Insights and Current Gaps in Open-Source LLM Vulnerability Scanners: A Comparative Analysis](#insights-and-current-gaps-in-open-source-llm-vulnerability-scanners-a-comparative-analysis)|https://arxiv.org/abs/2410.16527|None|-|-|-|
-20241115|-|None|[Optimization-based Prompt Injection Attack to LLM-as-a-Judge](#optimization-based-prompt-injection-attack-to-llm-as-a-judge)|https://arxiv.org/abs/2403.17710|None|-|-|-|
-20241115|-|None|[IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves](#ideator-jailbreaking-large-vision-language-models-using-themselves)|https://arxiv.org/abs/2411.00827|None|-|-|-|
+20241116|-|None|[How (un)ethical are instruction-centric responses of LLMs? Unveiling the vulnerabilities of safety guardrails to harmful queries](#how-unethical-are-instruction-centric-responses-of-llms-unveiling-the-vulnerabilities-of-safety-guardrails-to-harmful-queries)|https://arxiv.org/abs/2402.15302|https://github.com/NeuralSentinel/TechHazardQA|-|-|-|
+20241114|-|None|[AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks](#autodefense-multi-agent-llm-defense-against-jailbreak-attacks)|https://arxiv.org/abs/2403.04783|https://github.com/XHMY/AutoDefense|-|-|-|
 20241114|-|None|[Security and Privacy Challenges of Large Language Models: A Survey](#security-and-privacy-challenges-of-large-language-models-a-survey)|https://arxiv.org/abs/2402.00888|None|-|-|-|
-20241114|-|None|[AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks](#autodefense-multi-agent-llm-defense-against-jailbreak-attacks)|https://arxiv.org/abs/2403.04783|None|-|-|-|
-20241113|-|None|[The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense](#the-vllm-safety-paradox-dual-ease-in-jailbreak-attack-and-defense)|https://arxiv.org/abs/2411.08410|None|-|-|-|
+20241113|-|None|[DROJ: A Prompt-Driven Attack against Large Language Models](#droj-a-prompt-driven-attack-against-large-language-models)|https://arxiv.org/abs/2411.09125|https://github.com/Leon-Leyang/LLM-Safeguard|-|-|-|
 20241113|-|None|[LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs](#llmstinger-jailbreaking-llms-using-rl-fine-tuned-llms)|https://arxiv.org/abs/2411.08862|None|-|-|-|
-20241113|-|None|[DROJ: A Prompt-Driven Attack against Large Language Models](#droj-a-prompt-driven-attack-against-large-language-models)|https://arxiv.org/abs/2411.09125|None|-|-|-|
 20241112|-|None|[Zer0-Jack: A Memory-efficient Gradient-based Jailbreaking Method for Black-box Multi-modal Large Language Models](#zer-jack-a-memory-efficient-gradient-based-jailbreaking-method-for-black-box-multi-modal-large-language-models)|https://arxiv.org/abs/2411.07559|None|-|-|-|
-20241111|-|None|[DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers](#drattack-prompt-decomposition-and-reconstruction-makes-powerful-llm-jailbreakers)|https://arxiv.org/abs/2402.16914|None|-|-|-|
-20241111|-|None|[Rapid Response: Mitigating LLM Jailbreaks with a Few Examples](#rapid-response-mitigating-llm-jailbreaks-with-a-few-examples)|https://arxiv.org/abs/2411.07494|None|-|-|-|
+20241111|-|None|[Rapid Response: Mitigating LLM Jailbreaks with a Few Examples](#rapid-response-mitigating-llm-jailbreaks-with-a-few-examples)|https://arxiv.org/abs/2411.07494|https://github.com/rapidresponsebench/rapidresponsebench|-|-|-|
+20241111|-|None|[DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers](#drattack-prompt-decomposition-and-reconstruction-makes-powerful-llm-jailbreakers)|https://arxiv.org/abs/2402.16914|https://github.com/xirui-li/DrAttack|-|-|-|
 20241109|-|None|[Jailbreaking LLM-Controlled Robots](#jailbreaking-llm-controlled-robots)|https://arxiv.org/abs/2410.13691|None|-|-|-|
-20241108|-|None|[Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks](#robust-prompt-optimization-for-defending-language-models-against-jailbreaking-attacks)|https://arxiv.org/abs/2401.17263|None|-|-|-|
+20241108|-|None|[Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks](#robust-prompt-optimization-for-defending-language-models-against-jailbreaking-attacks)|https://arxiv.org/abs/2401.17263|https://github.com/lapisrocks/rpo|-|-|-|
 20241107|-|None|[Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes](#gradient-cuff-detecting-jailbreak-attacks-on-large-language-models-by-exploring-refusal-loss-landscapes)|https://arxiv.org/abs/2403.00867|https://huggingface.co/spaces/TrustSafeAI/GradientCuff-Jailbreak-Defense|-|-|-|
 20241106|-|None|[Diversity Helps Jailbreak Large Language Models](#diversity-helps-jailbreak-large-language-models)|https://arxiv.org/abs/2411.04223|None|-|-|-|
-20241105|-|None|[Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs](#bag-of-tricks-benchmarking-of-jailbreak-attacks-on-llms)|https://arxiv.org/abs/2406.09324|None|-|-|-|
 20241105|-|None|[Jailbreaking Large Language Models with Symbolic Mathematics](#jailbreaking-large-language-models-with-symbolic-mathematics)|https://arxiv.org/abs/2409.11445|None|-|-|-|
-20241103|-|None|[Are you still on track!? Catching LLM Task Drift with Activations](#are-you-still-on-track-catching-llm-task-drift-with-activations)|https://arxiv.org/abs/2406.00799|None|-|-|-|
-20241103|-|None|[Boosting Jailbreak Transferability for Large Language Models](#boosting-jailbreak-transferability-for-large-language-models)|https://arxiv.org/abs/2410.15645|None|-|-|-|
+20241105|-|None|[Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs](#bag-of-tricks-benchmarking-of-jailbreak-attacks-on-llms)|https://arxiv.org/abs/2406.09324|https://github.com/usail-hkust/JailTrickBench|-|-|-|
+20241103|-|None|[Boosting Jailbreak Transferability for Large Language Models](#boosting-jailbreak-transferability-for-large-language-models)|https://arxiv.org/abs/2410.15645|https://github.com/HqingLiu/SI-GCG|-|-|-|
 20241102|-|None|[What Features in Prompts Jailbreak LLMs? Investigating the Mechanisms Behind Attacks](#what-features-in-prompts-jailbreak-llms-investigating-the-mechanisms-behind-attacks)|https://arxiv.org/abs/2411.03343|None|-|-|-|
-20241031|-|None|[Tree of Attacks: Jailbreaking Black-Box LLMs Automatically](#tree-of-attacks-jailbreaking-black-box-llms-automatically)|https://arxiv.org/abs/2312.02119|None|-|-|-|
-20241031|-|None|[Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tuning](#pruning-for-protection-increasing-jailbreak-resistance-in-aligned-llms-without-fine-tuning)|https://arxiv.org/abs/2401.10862|None|-|-|-|
-20241031|-|None|[Fight Back Against Jailbreaking via Prompt Adversarial Tuning](#fight-back-against-jailbreaking-via-prompt-adversarial-tuning)|https://arxiv.org/abs/2402.06255|None|-|-|-|
-20241031|-|None|[JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models](#jailbreakbench-an-open-robustness-benchmark-for-jailbreaking-large-language-models)|https://arxiv.org/abs/2404.01318|None|-|-|-|
-20241031|-|None|[Adversarial Attacks of Vision Tasks in the Past 10 Years: A Survey](#adversarial-attacks-of-vision-tasks-in-the-past--years-a-survey)|https://arxiv.org/abs/2410.23687|None|-|-|-|
 20241031|-|None|[Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models](#audio-is-the-achilles-heel-red-teaming-audio-large-multimodal-models)|https://arxiv.org/abs/2410.23861|None|-|-|-|
+20241031|-|None|[Adversarial Attacks of Vision Tasks in the Past 10 Years: A Survey](#adversarial-attacks-of-vision-tasks-in-the-past--years-a-survey)|https://arxiv.org/abs/2410.23687|None|-|-|-|
+20241031|-|None|[JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models](#jailbreakbench-an-open-robustness-benchmark-for-jailbreaking-large-language-models)|https://arxiv.org/abs/2404.01318|https://huggingface.co/datasets/JailbreakBench/JBB-Behaviors|-|-|-|
+20241031|-|None|[Fight Back Against Jailbreaking via Prompt Adversarial Tuning](#fight-back-against-jailbreaking-via-prompt-adversarial-tuning)|https://arxiv.org/abs/2402.06255|https://github.com/PKU-ML/PAT|-|-|-|
+20241031|-|None|[Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tuning](#pruning-for-protection-increasing-jailbreak-resistance-in-aligned-llms-without-fine-tuning)|https://arxiv.org/abs/2401.10862|None|-|-|-|
+20241031|-|None|[Tree of Attacks: Jailbreaking Black-Box LLMs Automatically](#tree-of-attacks-jailbreaking-black-box-llms-automatically)|https://arxiv.org/abs/2312.02119|None|-|-|-|
+20241030|-|None|[ProTransformer: Robustify Transformers via Plug-and-Play Paradigm](#protransformer-robustify-transformers-via-plug-and-play-paradigm)|https://arxiv.org/abs/2410.23182|https://github.com/chris-hzc/ProTransformer|-|-|-|
+20241030|-|None|[Refusal in Language Models Is Mediated by a Single Direction](#refusal-in-language-models-is-mediated-by-a-single-direction)|https://arxiv.org/abs/2406.11717|https://github.com/andyrdt/refusal_direction|-|-|-|
+20241030|-|None|[Representation Noising: A Defence Mechanism Against Harmful Finetuning](#representation-noising-a-defence-mechanism-against-harmful-finetuning)|https://arxiv.org/abs/2405.14577|https://github.com/domenicrosati/representation-noising|-|-|-|
 20241030|-|None|[Speak Out of Turn: Safety Vulnerability of Large Language Models in Multi-turn Dialogue](#speak-out-of-turn-safety-vulnerability-of-large-language-models-in-multi-turn-dialogue)|https://arxiv.org/abs/2402.17262|None|-|-|-|
-20241030|-|None|[Representation Noising: A Defence Mechanism Against Harmful Finetuning](#representation-noising-a-defence-mechanism-against-harmful-finetuning)|https://arxiv.org/abs/2405.14577|None|-|-|-|
-20241030|-|None|[Refusal in Language Models Is Mediated by a Single Direction](#refusal-in-language-models-is-mediated-by-a-single-direction)|https://arxiv.org/abs/2406.11717|None|-|-|-|
-20241030|-|None|[ProTransformer: Robustify Transformers via Plug-and-Play Paradigm](#protransformer-robustify-transformers-via-plug-and-play-paradigm)|https://arxiv.org/abs/2410.23182|None|-|-|-|
-20241029|-|None|[SG-Bench: Evaluating LLM Safety Generalization Across Diverse Tasks and Prompt Types](#sg-bench-evaluating-llm-safety-generalization-across-diverse-tasks-and-prompt-types)|https://arxiv.org/abs/2410.21965|None|-|-|-|
-20241029|-|None|[AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts](#amplegcg-plus-a-strong-generative-model-of-adversarial-suffixes-to-jailbreak-llms-with-higher-success-rates-in-fewer-attempts)|https://arxiv.org/abs/2410.22143|None|-|-|-|
 20241029|-|None|[Benchmarking LLM Guardrails in Handling Multilingual Toxicity](#benchmarking-llm-guardrails-in-handling-multilingual-toxicity)|https://arxiv.org/abs/2410.22153|None|-|-|-|
-20241028|-|None|[Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring](#stealthy-jailbreak-attacks-on-large-language-models-via-benign-data-mirroring)|https://arxiv.org/abs/2410.21083|None|-|-|-|
+20241029|-|None|[AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts](#amplegcg-plus-a-strong-generative-model-of-adversarial-suffixes-to-jailbreak-llms-with-higher-success-rates-in-fewer-attempts)|https://arxiv.org/abs/2410.22143|None|-|-|-|
+20241029|-|None|[SG-Bench: Evaluating LLM Safety Generalization Across Diverse Tasks and Prompt Types](#sg-bench-evaluating-llm-safety-generalization-across-diverse-tasks-and-prompt-types)|https://arxiv.org/abs/2410.21965|https://github.com/MurrayTom/SG-Bench|-|-|-|
 20241026|-|None|[Course-Correction: Safety Alignment Using Synthetic Preferences](#course-correction-safety-alignment-using-synthetic-preferences)|https://arxiv.org/abs/2407.16637|None|-|-|-|
-20241025|-|None|[Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities](#iterative-self-tuning-llms-for-enhanced-jailbreaking-capabilities)|https://arxiv.org/abs/2410.18469|None|-|-|-|
 20241024|-|None|[Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications](#assessing-the-brittleness-of-safety-alignment-via-pruning-and-low-rank-modifications)|https://arxiv.org/abs/2402.05162|None|-|-|-|
 20241023|-|None|[Safeguard is a Double-edged Sword: Denial-of-service Attack on Large Language Models](#safeguard-is-a-double-edged-sword-denial-of-service-attack-on-large-language-models)|https://arxiv.org/abs/2410.02916|None|-|-|-|
-20241023|-|None|[Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks](#towards-understanding-the-fragility-of-multilingual-llms-against-fine-tuning-attacks)|https://arxiv.org/abs/2410.18210|None|-|-|-|
-20241022|-|None|[When "Competency" in Reasoning Opens the Door to Vulnerability: Jailbreaking LLMs via Novel Complex Ciphers](#when-competency-in-reasoning-opens-the-door-to-vulnerability-jailbreaking-llms-via-novel-complex-ciphers)|https://arxiv.org/abs/2402.10601|None|-|-|-|
-20241021|-|None|[$\textit{MMJ-Bench}$: A Comprehensive Study on Jailbreak Attacks and Defenses for Multimodal Large Language Models](#textitmmj-bench-a-comprehensive-study-on-jailbreak-attacks-and-defenses-for-multimodal-large-language-models)|https://arxiv.org/abs/2408.08464|None|-|-|-|
-20241021|-|None|[Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents](#refusal-trained-llms-are-easily-jailbroken-as-browser-agents)|https://arxiv.org/abs/2410.13886|None|-|-|-|
 20241021|-|None|[A Troublemaker with Contagious Jailbreak Makes Chaos in Honest Towns](#a-troublemaker-with-contagious-jailbreak-makes-chaos-in-honest-towns)|https://arxiv.org/abs/2410.16155|None|-|-|-|
-20241020|-|None|[Quantitative Certification of Bias in Large Language Models](#quantitative-certification-of-bias-in-large-language-models)|https://arxiv.org/abs/2405.18780|None|-|-|-|
+20241021|-|None|[Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents](#refusal-trained-llms-are-easily-jailbroken-as-browser-agents)|https://arxiv.org/abs/2410.13886|None|-|-|-|
+20241021|-|None|[$\textit{MMJ-Bench}$: A Comprehensive Study on Jailbreak Attacks and Defenses for Multimodal Large Language Models](#textitmmj-bench-a-comprehensive-study-on-jailbreak-attacks-and-defenses-for-multimodal-large-language-models)|https://arxiv.org/abs/2408.08464|https://github.com/thunxxx/MLLM-Jailbreak-evaluation-MMJ-bench|-|-|-|
 20241020|-|None|[Faster-GCG: Efficient Discrete Optimization Jailbreak Attacks against Aligned Large Language Models](#faster-gcg-efficient-discrete-optimization-jailbreak-attacks-against-aligned-large-language-models)|https://arxiv.org/abs/2410.15362|None|-|-|-|
-20241019|-|None|[Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks](#securing-large-language-models-addressing-bias-misinformation-and-prompt-attacks)|https://arxiv.org/abs/2409.08087|None|-|-|-|
-20241019|-|None|Multi-round jailbreak attack on large language models|https://arxiv.org/abs/2410.11533|None|-|-|-|
+20241020|-|None|[Quantitative Certification of Bias in Large Language Models](#quantitative-certification-of-bias-in-large-language-models)|https://arxiv.org/abs/2405.18780|https://github.com/uiuc-focal-lab/QuaCer-B|-|-|-|
 20241019|-|None|[Jailbreaking and Mitigation of Vulnerabilities in Large Language Models](#jailbreaking-and-mitigation-of-vulnerabilities-in-large-language-models)|https://arxiv.org/abs/2410.15236|None|-|-|-|
+20241019|-|None|[Multi-round jailbreak attack on large language models](#multi-round-jailbreak-attack-on-large-language-models)|https://arxiv.org/abs/2410.11533|None|-|-|-|
+20241019|-|None|[Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks](#securing-large-language-models-addressing-bias-misinformation-and-prompt-attacks)|https://arxiv.org/abs/2409.08087|None|-|-|-|
 20241018|-|None|[Feint and Attack: Attention-Based Strategies for Jailbreaking and Protecting LLMs](#feint-and-attack-attention-based-strategies-for-jailbreaking-and-protecting-llms)|https://arxiv.org/abs/2410.16327|None|-|-|-|
-20241017|-|None|[SPIN: Self-Supervised Prompt INjection](#spin-self-supervised-prompt-injection)|https://arxiv.org/abs/2410.13236|None|-|-|-|
-20241017|-|None|[Persistent Pre-Training Poisoning of LLMs](#persistent-pre-training-poisoning-of-llms)|https://arxiv.org/abs/2410.13722|None|-|-|-|
 20241017|-|None|[PopAlign: Diversifying Contrasting Patterns for a More Comprehensive Alignment](#popalign-diversifying-contrasting-patterns-for-a-more-comprehensive-alignment)|https://arxiv.org/abs/2410.13785|None|-|-|-|
-20241016|-|None|[TAIA: Large Language Models are Out-of-Distribution Data Learners](#taia-large-language-models-are-out-of-distribution-data-learners)|https://arxiv.org/abs/2405.20192|None|-|-|-|
-20241016|-|None|[Cross-modality Information Check for Detecting Jailbreaking in Multimodal Large Language Models](#cross-modality-information-check-for-detecting-jailbreaking-in-multimodal-large-language-models)|https://arxiv.org/abs/2407.21659|None|-|-|-|
-20241015|-|None|[Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation](#eyes-closed-safety-on-protecting-multimodal-llms-via-image-to-text-transformation)|https://arxiv.org/abs/2403.09572|None|-|-|-|
-20241015|-|None|[GPT-4 Jailbreaks Itself with Near-Perfect Success Using Self-Explanation](#gpt--jailbreaks-itself-with-near-perfect-success-using-self-explanation)|https://arxiv.org/abs/2405.13077|None|-|-|-|
-20241015|-|None|[Cognitive Overload Attack:Prompt Injection for Long Context](#cognitive-overload-attackprompt-injection-for-long-context)|https://arxiv.org/abs/2410.11272|None|-|-|-|
-20241015|-|None|[AdvBDGen: Adversarially Fortified Prompt-Specific Fuzzy Backdoor Generator Against LLM Alignment](#advbdgen-adversarially-fortified-prompt-specific-fuzzy-backdoor-generator-against-llm-alignment)|https://arxiv.org/abs/2410.11283|None|-|-|-|
-20241015|-|None|[Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language Models](#jigsaw-puzzles-splitting-harmful-questions-to-jailbreak-large-language-models)|https://arxiv.org/abs/2410.11459|None|-|-|-|
+20241017|-|None|[Persistent Pre-Training Poisoning of LLMs](#persistent-pre-training-poisoning-of-llms)|https://arxiv.org/abs/2410.13722|None|-|-|-|
+20241017|-|None|[SPIN: Self-Supervised Prompt INjection](#spin-self-supervised-prompt-injection)|https://arxiv.org/abs/2410.13236|None|-|-|-|
+20241016|-|None|[Cross-modality Information Check for Detecting Jailbreaking in Multimodal Large Language Models](#cross-modality-information-check-for-detecting-jailbreaking-in-multimodal-large-language-models)|https://arxiv.org/abs/2407.21659|https://github.com/PandragonXIII/CIDER|-|-|-|
+20241016|-|None|[TAIA: Large Language Models are Out-of-Distribution Data Learners](#taia-large-language-models-are-out-of-distribution-data-learners)|https://arxiv.org/abs/2405.20192|https://github.com/pixas/TAIA_LLM|-|-|-|
 20241015|-|None|[SoK: Prompt Hacking of Large Language Models](#sok-prompt-hacking-of-large-language-models)|https://arxiv.org/abs/2410.13901|None|-|-|-|
+20241015|-|None|[Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language Models](#jigsaw-puzzles-splitting-harmful-questions-to-jailbreak-large-language-models)|https://arxiv.org/abs/2410.11459|https://github.com/YangHao97/JigSawPuzzles|-|-|-|
+20241015|-|None|[AdvBDGen: Adversarially Fortified Prompt-Specific Fuzzy Backdoor Generator Against LLM Alignment](#advbdgen-adversarially-fortified-prompt-specific-fuzzy-backdoor-generator-against-llm-alignment)|https://arxiv.org/abs/2410.11283|None|-|-|-|
+20241015|-|None|[Cognitive Overload Attack:Prompt Injection for Long Context](#cognitive-overload-attackprompt-injection-for-long-context)|https://arxiv.org/abs/2410.11272|None|-|-|-|
+20241015|-|None|[GPT-4 Jailbreaks Itself with Near-Perfect Success Using Self-Explanation](#gpt--jailbreaks-itself-with-near-perfect-success-using-self-explanation)|https://arxiv.org/abs/2405.13077|None|-|-|-|
+20241015|-|None|[Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation](#eyes-closed-safety-on-protecting-multimodal-llms-via-image-to-text-transformation)|https://arxiv.org/abs/2403.09572|https://gyhdog99.github.io/projects/ecso/|-|-|-|
 20241014|-|None|[Jailbreak Instruction-Tuned LLMs via end-of-sentence MLP Re-weighting](#jailbreak-instruction-tuned-llms-via-end-of-sentence-mlp-re-weighting)|https://arxiv.org/abs/2410.10150|None|-|-|-|
-20241013|-|None|[White-box Multimodal Jailbreaks Against Large Vision-Language Models](#white-box-multimodal-jailbreaks-against-large-vision-language-models)|https://arxiv.org/abs/2405.17894|None|-|-|-|
-20241012|-|None|[Don't Say No: Jailbreaking LLM by Suppressing Refusal](#dont-say-no-jailbreaking-llm-by-suppressing-refusal)|https://arxiv.org/abs/2404.16369|None|-|-|-|
-20241011|-|None|[ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users](#art-automatic-red-teaming-for-text-to-image-models-to-protect-benign-users)|https://arxiv.org/abs/2405.19360|None|-|-|-|
-20241011|-|None|[AttnGCG: Enhancing Jailbreaking Attacks on LLMs with Attention Manipulation](#attngcg-enhancing-jailbreaking-attacks-on-llms-with-attention-manipulation)|https://arxiv.org/abs/2410.09040|None|-|-|-|
+20241013|-|None|[White-box Multimodal Jailbreaks Against Large Vision-Language Models](#white-box-multimodal-jailbreaks-against-large-vision-language-models)|https://arxiv.org/abs/2405.17894|https://github.com/roywang021/UMK|-|-|-|
+20241012|-|None|[Don't Say No: Jailbreaking LLM by Suppressing Refusal](#dont-say-no-jailbreaking-llm-by-suppressing-refusal)|https://arxiv.org/abs/2404.16369|https://github.com/DSN-2024/DSN|-|-|-|
+20241011|-|None|[AttnGCG: Enhancing Jailbreaking Attacks on LLMs with Attention Manipulation](#attngcg-enhancing-jailbreaking-attacks-on-llms-with-attention-manipulation)|https://arxiv.org/abs/2410.09040|https://github.com/UCSC-VLAA/AttnGCG-attack|-|-|-|
+20241011|-|None|[ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users](#art-automatic-red-teaming-for-text-to-image-models-to-protect-benign-users)|https://arxiv.org/abs/2405.19360|https://github.com/GuanlinLee/ART|-|-|-|
 20241010|-|None|[Protecting Your LLMs with Information Bottleneck](#protecting-your-llms-with-information-bottleneck)|https://arxiv.org/abs/2404.13968|None|-|-|-|
-20241008|-|None|[You Know What I'm Saying: Jailbreak Attack via Implicit Reference](#you-know-what-im-saying-jailbreak-attack-via-implicit-reference)|https://arxiv.org/abs/2410.03857|None|-|-|-|
-20241005|-|None|[Understanding Jailbreak Success: A Study of Latent Space Dynamics in Large Language Models](#understanding-jailbreak-success-a-study-of-latent-space-dynamics-in-large-language-models)|https://arxiv.org/abs/2406.09289|None|-|-|-|
+20241008|-|None|[You Know What I'm Saying: Jailbreak Attack via Implicit Reference](#you-know-what-im-saying-jailbreak-attack-via-implicit-reference)|https://arxiv.org/abs/2410.03857|https://github.com/Lucas-TY/llm_Implicit_reference|-|-|-|
 20241005|-|None|[Harnessing Task Overload for Scalable Jailbreak Attacks on Large Language Models](#harnessing-task-overload-for-scalable-jailbreak-attacks-on-large-language-models)|https://arxiv.org/abs/2410.04190|None|-|-|-|
-20241004|-|None|[MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks](#moje-mixture-of-jailbreak-experts-naive-tabular-classifiers-as-guard-for-prompt-attacks)|https://arxiv.org/abs/2409.17699|None|-|-|-|
+20241005|-|None|[Understanding Jailbreak Success: A Study of Latent Space Dynamics in Large Language Models](#understanding-jailbreak-success-a-study-of-latent-space-dynamics-in-large-language-models)|https://arxiv.org/abs/2406.09289|https://github.com/s-ball-10/jailbreak_dynamics|-|-|-|
 20241004|-|None|[Developing Assurance Cases for Adversarial Robustness and Regulatory Compliance in LLMs](#developing-assurance-cases-for-adversarial-robustness-and-regulatory-compliance-in-llms)|https://arxiv.org/abs/2410.05304|None|-|-|-|
-20241003|-|None|[Jailbreaking LLMs with Arabic Transliteration and Arabizi](#jailbreaking-llms-with-arabic-transliteration-and-arabizi)|https://arxiv.org/abs/2406.18725|None|-|-|-|
+20241004|-|None|[MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks](#moje-mixture-of-jailbreak-experts-naive-tabular-classifiers-as-guard-for-prompt-attacks)|https://arxiv.org/abs/2409.17699|None|-|-|-|
 20241003|-|None|[PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach](#pathseeker-exploring-llm-security-vulnerabilities-with-a-reinforcement-learning-based-jailbreak-approach)|https://arxiv.org/abs/2409.14177|None|-|-|-|
+20241003|-|None|[Jailbreaking LLMs with Arabic Transliteration and Arabizi](#jailbreaking-llms-with-arabic-transliteration-and-arabizi)|https://arxiv.org/abs/2406.18725|https://github.com/SecureDL/arabic_jailbreak|-|-|-|
 20241002|-|None|[Leveraging the Context through Multi-Round Interactions for Jailbreaking Attacks](#leveraging-the-context-through-multi-round-interactions-for-jailbreaking-attacks)|https://arxiv.org/abs/2402.09177|None|-|-|-|
-20240930|-|None|[Distract Large Language Models for Automatic Jailbreak Attack](#distract-large-language-models-for-automatic-jailbreak-attack)|https://arxiv.org/abs/2403.08424|None|-|-|-|
 20240930|-|None|[Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models](#dont-listen-to-me-understanding-and-exploring-jailbreak-prompts-of-large-language-models)|https://arxiv.org/abs/2403.17336|None|-|-|-|
-20240930|-|None|[Robust LLM safeguarding via refusal feature adversarial training](#robust-llm-safeguarding-via-refusal-feature-adversarial-training)|https://arxiv.org/abs/2409.20089|None|-|-|-|
+20240930|-|None|[Distract Large Language Models for Automatic Jailbreak Attack](#distract-large-language-models-for-automatic-jailbreak-attack)|https://arxiv.org/abs/2403.08424|None|-|-|-|
 20240927|-|None|[HM3: Heterogeneous Multi-Class Model Merging](#hm-heterogeneous-multi-class-model-merging)|https://arxiv.org/abs/2409.19173|None|-|-|-|
+20240925|-|None|[RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking](#red-queen-safeguarding-large-language-models-against-concealed-multi-turn-jailbreaking)|https://arxiv.org/abs/2409.17458|https://github.com/kriti-hippo/red_queen|-|-|-|
 20240925|-|None|[Ranking Manipulation for Conversational Search Engines](#ranking-manipulation-for-conversational-search-engines)|https://arxiv.org/abs/2406.03589|None|-|-|-|
-20240925|-|None|[RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking](#red-queen-safeguarding-large-language-models-against-concealed-multi-turn-jailbreaking)|https://arxiv.org/abs/2409.17458|None|-|-|-|
 20240923|-|None|[Large Language Models Are Involuntary Truth-Tellers: Exploiting Fallacy Failure for Jailbreak Attacks](#large-language-models-are-involuntary-truth-tellers-exploiting-fallacy-failure-for-jailbreak-attacks)|https://arxiv.org/abs/2407.00869|None|-|-|-|
 20240919|-|None|[Enhancing Jailbreak Attacks with Diversity Guidance](#enhancing-jailbreak-attacks-with-diversity-guidance)|https://arxiv.org/abs/2403.00292|None|-|-|-|
-20240913|-|None|[h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment](#hrml-a-dynamic-benchmark-of-composable-jailbreak-attacks-for-llm-safety-assessment)|https://arxiv.org/abs/2408.04811|None|-|-|-|
-20240913|-|None|[Efficient Detection of Toxic Prompts in Large Language Models](#efficient-detection-of-toxic-prompts-in-large-language-models)|https://arxiv.org/abs/2408.11727|None|-|-|-|
+20240913|-|None|[Efficient Detection of Toxic Prompts in Large Language Models](#efficient-detection-of-toxic-prompts-in-large-language-models)|https://arxiv.org/abs/2408.11727|https://sites.google.com/view/toxic-prompt-detector|-|-|-|
 20240911|-|None|[Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks](#securing-vision-language-models-with-a-robust-encoder-against-jailbreak-and-adversarial-attacks)|https://arxiv.org/abs/2409.07353|None|-|-|-|
-20240910|-|None|[AdaPPA: Adaptive Position Pre-Fill Jailbreak Attack Approach Targeting LLMs](#adappa-adaptive-position-pre-fill-jailbreak-attack-approach-targeting-llms)|https://arxiv.org/abs/2409.07503|None|-|-|-|
-20240909|-|None|[Fine-Tuning, Quantization, and LLMs: Navigating Unintended Outcomes](#fine-tuning-quantization-and-llms-navigating-unintended-outcomes)|https://arxiv.org/abs/2404.04392|None|-|-|-|
+20240910|-|None|[AdaPPA: Adaptive Position Pre-Fill Jailbreak Attack Approach Targeting LLMs](#adappa-adaptive-position-pre-fill-jailbreak-attack-approach-targeting-llms)|https://arxiv.org/abs/2409.07503|https://github.com/Yummy416/AdaPPA|-|-|-|
 20240909|-|None|[Jailbreaking Text-to-Image Models with LLM-Based Agents](#jailbreaking-text-to-image-models-with-llm-based-agents)|https://arxiv.org/abs/2408.00523|None|-|-|-|
-20240905|-|None|[Legilimens: Practical and Unified Content Moderation for Large Language Model Services](#legilimens-practical-and-unified-content-moderation-for-large-language-model-services)|https://arxiv.org/abs/2408.15488|None|-|-|-|
-20240903|-|None|[LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet](#llm-defenses-are-not-robust-to-multi-turn-human-jailbreaks-yet)|https://arxiv.org/abs/2408.15221|None|-|-|-|
-20240831|-|None|[Automatic Pseudo-Harmful Prompt Generation for Evaluating False Refusals in Large Language Models](#automatic-pseudo-harmful-prompt-generation-for-evaluating-false-refusals-in-large-language-models)|https://arxiv.org/abs/2409.00598|None|-|-|-|
+20240909|-|None|[Fine-Tuning, Quantization, and LLMs: Navigating Unintended Outcomes](#fine-tuning-quantization-and-llms-navigating-unintended-outcomes)|https://arxiv.org/abs/2404.04392|None|-|-|-|
+20240905|-|None|[Legilimens: Practical and Unified Content Moderation for Large Language Model Services](#legilimens-practical-and-unified-content-moderation-for-large-language-model-services)|https://arxiv.org/abs/2408.15488|https://github.com/lin000001/Legilimens|-|-|-|
+20240903|-|None|[LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet](#llm-defenses-are-not-robust-to-multi-turn-human-jailbreaks-yet)|https://arxiv.org/abs/2408.15221|https://scale.com/research/mhj|-|-|-|
+20240831|-|None|[Automatic Pseudo-Harmful Prompt Generation for Evaluating False Refusals in Large Language Models](#automatic-pseudo-harmful-prompt-generation-for-evaluating-false-refusals-in-large-language-models)|https://arxiv.org/abs/2409.00598|https://github.com/umd-huang-lab/FalseRefusal|-|-|-|
 20240830|-|None|[Jailbreak Attacks and Defenses Against Large Language Models: A Survey](#jailbreak-attacks-and-defenses-against-large-language-models-a-survey)|https://arxiv.org/abs/2407.04295|None|-|-|-|
+20240829|-|None|[Emerging Vulnerabilities in Frontier Models: Multi-Turn Jailbreak Attacks](#emerging-vulnerabilities-in-frontier-models-multi-turn-jailbreak-attacks)|https://arxiv.org/abs/2409.00137|https://huggingface.co/datasets/tom-gibbs/multi-turn_jailbreak_attack_datasets|-|-|-|
 20240829|-|None|[Mitigating Exaggerated Safety in Large Language Models](#mitigating-exaggerated-safety-in-large-language-models)|https://arxiv.org/abs/2405.05418|None|-|-|-|
-20240829|-|None|[Emerging Vulnerabilities in Frontier Models: Multi-Turn Jailbreak Attacks](#emerging-vulnerabilities-in-frontier-models-multi-turn-jailbreak-attacks)|https://arxiv.org/abs/2409.00137|None|-|-|-|
-20240826|-|None|[Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything](#image-to-text-logic-jailbreak-your-imagination-can-help-you-do-anything)|https://arxiv.org/abs/2407.02534|None|-|-|-|
 20240826|-|None|[Probing the Safety Response Boundary of Large Language Models via Unsafe Decoding Path Generation](#probing-the-safety-response-boundary-of-large-language-models-via-unsafe-decoding-path-generation)|https://arxiv.org/abs/2408.10668|None|-|-|-|
+20240826|-|None|[Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything](#image-to-text-logic-jailbreak-your-imagination-can-help-you-do-anything)|https://arxiv.org/abs/2407.02534|None|-|-|-|
+20240822|-|None|[Prefix Guidance: A Steering Wheel for Large Language Models to Defend Against Jailbreak Attacks](#prefix-guidance-a-steering-wheel-for-large-language-models-to-defend-against-jailbreak-attacks)|https://arxiv.org/abs/2408.08924|https://github.com/weiyezhimeng/Prefix-Guidance|-|-|-|
 20240822|-|None|[Can Large Language Models Automatically Jailbreak GPT-4V?](#can-large-language-models-automatically-jailbreak-gpt-v)|https://arxiv.org/abs/2407.16686|None|-|-|-|
-20240822|-|None|[Prefix Guidance: A Steering Wheel for Large Language Models to Defend Against Jailbreak Attacks](#prefix-guidance-a-steering-wheel-for-large-language-models-to-defend-against-jailbreak-attacks)|https://arxiv.org/abs/2408.08924|None|-|-|-|
-20240821|-|None|[SHIELD: Evaluation and Defense Strategies for Copyright Compliance in LLM Text Generation](#shield-evaluation-and-defense-strategies-for-copyright-compliance-in-llm-text-generation)|https://arxiv.org/abs/2406.12975|None|-|-|-|
-20240821|-|None|[What Makes and Breaks Safety Fine-tuning? A Mechanistic Study](#what-makes-and-breaks-safety-fine-tuning-a-mechanistic-study)|https://arxiv.org/abs/2407.10264|None|-|-|-|
 20240821|-|None|[Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs](#latent-adversarial-training-improves-robustness-to-persistent-harmful-behaviors-in-llms)|https://arxiv.org/abs/2407.15549|None|-|-|-|
-20240820|-|None|[What is in Your Safe Data? Identifying Benign Data that Breaks Safety](#what-is-in-your-safe-data-identifying-benign-data-that-breaks-safety)|https://arxiv.org/abs/2404.01099|None|-|-|-|
-20240820|-|None|[Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models](#medical-mllm-is-vulnerable-cross-modality-jailbreak-and-mismatched-attacks-on-medical-multimodal-large-language-models)|https://arxiv.org/abs/2405.20775|None|-|-|-|
+20240821|-|None|[What Makes and Breaks Safety Fine-tuning? A Mechanistic Study](#what-makes-and-breaks-safety-fine-tuning-a-mechanistic-study)|https://arxiv.org/abs/2407.10264|None|-|-|-|
+20240821|-|None|[SHIELD: Evaluation and Defense Strategies for Copyright Compliance in LLM Text Generation](#shield-evaluation-and-defense-strategies-for-copyright-compliance-in-llm-text-generation)|https://arxiv.org/abs/2406.12975|https://github.com/xz-liu/SHIELD|-|-|-|
 20240820|-|None|[EEG-Defender: Defending against Jailbreak through Early Exit Generation of Large Language Models](#eeg-defender-defending-against-jailbreak-through-early-exit-generation-of-large-language-models)|https://arxiv.org/abs/2408.11308|None|-|-|-|
-20240819|-|None|[Malla: Demystifying Real-world Large Language Model Integrated Malicious Services](#malla-demystifying-real-world-large-language-model-integrated-malicious-services)|https://arxiv.org/abs/2401.03315|None|-|-|-|
+20240820|-|None|[Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models](#medical-mllm-is-vulnerable-cross-modality-jailbreak-and-mismatched-attacks-on-medical-multimodal-large-language-models)|https://arxiv.org/abs/2405.20775|https://github.com/dirtycomputer/O2M_attack|-|-|-|
+20240820|-|None|[What is in Your Safe Data? Identifying Benign Data that Breaks Safety](#what-is-in-your-safe-data-identifying-benign-data-that-breaks-safety)|https://arxiv.org/abs/2404.01099|https://github.com/princeton-nlp/benign-data-breaks-safety|-|-|-|
+20240819|-|None|[Malla: Demystifying Real-world Large Language Model Integrated Malicious Services](#malla-demystifying-real-world-large-language-model-integrated-malicious-services)|https://arxiv.org/abs/2401.03315|https://github.com/idllresearch/malicious-gpt|-|-|-|
 20240817|-|None|[Characterizing and Evaluating the Reliability of LLMs against Jailbreak Attacks](#characterizing-and-evaluating-the-reliability-of-llms-against-jailbreak-attacks)|https://arxiv.org/abs/2408.09326|None|-|-|-|
-20240816|-|Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics 2024 (Volume 1: Long Papers)|[ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages](#toolsword-unveiling-safety-issues-of-large-language-models-in-tool-learning-across-three-stages)|https://arxiv.org/abs/2402.10753|None|-|-|-|
+20240816|-|Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics 2024 (Volume 1: Long Papers)|[ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages](#toolsword-unveiling-safety-issues-of-large-language-models-in-tool-learning-across-three-stages)|https://arxiv.org/abs/2402.10753|https://github.com/Junjie-Ye/ToolSword|-|-|-|
 20240814|-|None|[SAGE-RT: Synthetic Alignment data Generation for Safety Evaluation and Red Teaming](#sage-rt-synthetic-alignment-data-generation-for-safety-evaluation-and-red-teaming)|https://arxiv.org/abs/2408.11851|None|-|-|-|
-20240811|-|None|[Kov: Transferable and Naturalistic Black-Box LLM Attacks using Markov Decision Processes and Tree Search](#kov-transferable-and-naturalistic-black-box-llm-attacks-using-markov-decision-processes-and-tree-search)|https://arxiv.org/abs/2408.08899|None|-|-|-|
-20240808|-|None|[Compromesso! Italian Many-Shot Jailbreaks Undermine the Safety of Large Language Models](#compromesso-italian-many-shot-jailbreaks-undermine-the-safety-of-large-language-models)|https://arxiv.org/abs/2408.04522|None|-|-|-|
+20240811|-|None|[Kov: Transferable and Naturalistic Black-Box LLM Attacks using Markov Decision Processes and Tree Search](#kov-transferable-and-naturalistic-black-box-llm-attacks-using-markov-decision-processes-and-tree-search)|https://arxiv.org/abs/2408.08899|https://github.com/sisl/Kov.jl|-|-|-|
 20240808|-|None|[Multi-Turn Context Jailbreak Attack on Large Language Models From First Principles](#multi-turn-context-jailbreak-attack-on-large-language-models-from-first-principles)|https://arxiv.org/abs/2408.04686|None|-|-|-|
+20240808|-|None|[Compromesso! Italian Many-Shot Jailbreaks Undermine the Safety of Large Language Models](#compromesso-italian-many-shot-jailbreaks-undermine-the-safety-of-large-language-models)|https://arxiv.org/abs/2408.04522|None|-|-|-|
 20240807|-|None|[EnJa: Ensemble Jailbreak on Large Language Models](#enja-ensemble-jailbreak-on-large-language-models)|https://arxiv.org/abs/2408.03603|None|-|-|-|
-20240805|-|ICLR 2024 Workshop on Secure and Trustworthy Large Language Models|[Open Sesame! Universal Black Box Jailbreaking of Large Language Models](#open-sesame-universal-black-box-jailbreaking-of-large-language-models)|https://arxiv.org/abs/2309.01446|None|-|-|-|
 20240805|-|None|[Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?](#can-reinforcement-learning-unlock-the-hidden-dangers-in-aligned-large-language-models)|https://arxiv.org/abs/2408.02651|None|-|-|-|
-20240803|-|None|[AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models](#attackeval-how-to-evaluate-the-effectiveness-of-jailbreak-attacking-on-large-language-models)|https://arxiv.org/abs/2401.09002|None|-|-|-|
+20240805|-|ICLR 2024 Workshop on Secure and Trustworthy Large Language Models|[Open Sesame! Universal Black Box Jailbreaking of Large Language Models](#open-sesame-universal-black-box-jailbreaking-of-large-language-models)|https://arxiv.org/abs/2309.01446|None|-|-|-|
 20240802|-|None|[Mission Impossible: A Statistical Perspective on Jailbreaking LLMs](#mission-impossible-a-statistical-perspective-on-jailbreaking-llms)|https://arxiv.org/abs/2408.01420|None|-|-|-|
-20240729|-|None|[Personalized Steering of Large Language Models: Versatile Steering Vectors Through Bi-directional Preference Optimization](#personalized-steering-of-large-language-models-versatile-steering-vectors-through-bi-directional-preference-optimization)|https://arxiv.org/abs/2406.00045|None|-|-|-|
-20240725|-|None|[SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding](#safedecoding-defending-against-jailbreak-attacks-via-safety-aware-decoding)|https://arxiv.org/abs/2402.08983|None|-|-|-|
+20240729|-|None|[Personalized Steering of Large Language Models: Versatile Steering Vectors Through Bi-directional Preference Optimization](#personalized-steering-of-large-language-models-versatile-steering-vectors-through-bi-directional-preference-optimization)|https://arxiv.org/abs/2406.00045|https://github.com/CaoYuanpu/BiPO|-|-|-|
+20240725|-|None|[SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding](#safedecoding-defending-against-jailbreak-attacks-via-safety-aware-decoding)|https://arxiv.org/abs/2402.08983|https://github.com/uw-nsl/SafeDecoding|-|-|-|
 20240724|-|None|[JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models](#jailbreakzoo-survey-landscapes-and-horizons-in-jailbreaking-large-language-and-vision-language-models)|https://arxiv.org/abs/2407.01599|None|-|-|-|
-20240723|-|None|[RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content](#rigorllm-resilient-guardrails-for-large-language-models-against-undesired-content)|https://arxiv.org/abs/2403.13031|None|-|-|-|
 20240723|-|None|[RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent](#redagent-red-teaming-large-language-models-with-context-aware-autonomous-language-agent)|https://arxiv.org/abs/2407.16667|None|-|-|-|
+20240723|-|None|[RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content](#rigorllm-resilient-guardrails-for-large-language-models-against-undesired-content)|https://arxiv.org/abs/2403.13031|https://github.com/eurekayuan/RigorLLM|-|-|-|
 20240721|-|None|[Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts](#arondight-red-teaming-large-vision-language-models-with-auto-generated-multi-modal-jailbreak-prompts)|https://arxiv.org/abs/2407.15050|None|-|-|-|
 20240718|-|None|[Jailbreaking Black Box Large Language Models in Twenty Queries](#jailbreaking-black-box-large-language-models-in-twenty-queries)|https://arxiv.org/abs/2310.08419|None|-|-|-|
-20240717|-|None|[The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?](#the-first-to-know-how-token-distributions-reveal-hidden-knowledge-in-large-vision-language-models)|https://arxiv.org/abs/2403.09037|https://github.com/Qinyu-Allen-Zhao/LVLM-LP|-|-|-|
 20240717|-|None|[The Better Angels of Machine Personality: How Personality Relates to LLM Safety](#the-better-angels-of-machine-personality-how-personality-relates-to-llm-safety)|https://arxiv.org/abs/2407.12344|None|-|-|-|
+20240717|-|None|[The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?](#the-first-to-know-how-token-distributions-reveal-hidden-knowledge-in-large-vision-language-models)|https://arxiv.org/abs/2403.09037|https://github.com/Qinyu-Allen-Zhao/LVLM-LP|-|-|-|
 20240716|-|None|[Continuous Embedding Attacks via Clipped Inputs in Jailbreaking Large Language Models](#continuous-embedding-attacks-via-clipped-inputs-in-jailbreaking-large-language-models)|https://arxiv.org/abs/2407.13796|None|-|-|-|
-20240714|-|None|[Merging Improves Self-Critique Against Jailbreak Attacks](#merging-improves-self-critique-against-jailbreak-attacks)|https://arxiv.org/abs/2406.07188|None|-|-|-|
+20240714|-|None|[Merging Improves Self-Critique Against Jailbreak Attacks](#merging-improves-self-critique-against-jailbreak-attacks)|https://arxiv.org/abs/2406.07188|https://github.com/vicgalle/merging-self-critique-jailbreaks|-|-|-|
+20240711|-|None|[A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends](#a-survey-of-attacks-on-large-vision-language-models-resources-advances-and-future-trends)|https://arxiv.org/abs/2407.07403|https://github.com/liudaizong/Awesome-LVLM-Attack|-|-|-|
 20240711|-|None|[Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection](#virtual-context-enhancing-jailbreak-attacks-with-special-token-injection)|https://arxiv.org/abs/2406.19845|None|-|-|-|
-20240711|-|None|[A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends](#a-survey-of-attacks-on-large-vision-language-models-resources-advances-and-future-trends)|https://arxiv.org/abs/2407.07403|None|-|-|-|
 20240710|-|None|[The Ethics of Interaction: Mitigating Security Threats in LLMs](#the-ethics-of-interaction-mitigating-security-threats-in-llms)|https://arxiv.org/abs/2401.12273|None|-|-|-|
-20240707|-|None|[TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models](#trojanrag-retrieval-augmented-generation-can-be-backdoor-driver-in-large-language-models)|https://arxiv.org/abs/2405.13401|None|-|-|-|
-20240703|-|None|[Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge](#eraser-jailbreaking-defense-in-large-language-models-via-unlearning-harmful-knowledge)|https://arxiv.org/abs/2404.05880|None|-|-|-|
-20240703|-|None|[JailbreakHunter: A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets](#jailbreakhunter-a-visual-analytics-approach-for-jailbreak-prompts-discovery-from-large-scale-human-llm-conversational-datasets)|https://arxiv.org/abs/2407.03045|None|-|-|-|
-20240703|-|None|[SOS! Soft Prompt Attack Against Open-Source Large Language Models](#sos-soft-prompt-attack-against-open-source-large-language-models)|https://arxiv.org/abs/2407.03160|None|-|-|-|
+20240707|-|None|[TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models](#trojanrag-retrieval-augmented-generation-can-be-backdoor-driver-in-large-language-models)|https://arxiv.org/abs/2405.13401|https://github.com/Charles-ydd/TrojanRAG|-|-|-|
 20240703|-|None|[Soft Begging: Modular and Efficient Shielding of LLMs against Prompt Injection and Jailbreaking based on Prompt Tuning](#soft-begging-modular-and-efficient-shielding-of-llms-against-prompt-injection-and-jailbreaking-based-on-prompt-tuning)|https://arxiv.org/abs/2407.03391|None|-|-|-|
-20240701|-|None|[Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt](#jailbreak-vision-language-models-via-bi-modal-adversarial-prompt)|https://arxiv.org/abs/2406.04031|None|-|-|-|
-20240701|-|None|[SoP: Unlock the Power of Social Facilitation for Automatic Jailbreak Attack](#sop-unlock-the-power-of-social-facilitation-for-automatic-jailbreak-attack)|https://arxiv.org/abs/2407.01902|None|-|-|-|
+20240703|-|None|[SOS! Soft Prompt Attack Against Open-Source Large Language Models](#sos-soft-prompt-attack-against-open-source-large-language-models)|https://arxiv.org/abs/2407.03160|None|-|-|-|
+20240703|-|None|[JailbreakHunter: A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets](#jailbreakhunter-a-visual-analytics-approach-for-jailbreak-prompts-discovery-from-large-scale-human-llm-conversational-datasets)|https://arxiv.org/abs/2407.03045|None|-|-|-|
+20240703|-|None|[Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge](#eraser-jailbreaking-defense-in-large-language-models-via-unlearning-harmful-knowledge)|https://arxiv.org/abs/2404.05880|https://github.com/ZeroNLP/Eraser|-|-|-|
+20240701|-|None|[Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt](#jailbreak-vision-language-models-via-bi-modal-adversarial-prompt)|https://arxiv.org/abs/2406.04031|https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt|-|-|-|
 20240627|-|None|[GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts](#gptfuzzer-red-teaming-large-language-models-with-auto-generated-jailbreak-prompts)|https://arxiv.org/abs/2309.10253|None|-|-|-|
-20240626|-|None|[Poisoned LangChain: Jailbreak LLMs by LangChain](#poisoned-langchain-jailbreak-llms-by-langchain)|https://arxiv.org/abs/2406.18122|None|-|-|-|
+20240626|-|None|[Poisoned LangChain: Jailbreak LLMs by LangChain](#poisoned-langchain-jailbreak-llms-by-langchain)|https://arxiv.org/abs/2406.18122|https://github.com/CAM-FSS/jailbreak-langchain|-|-|-|
 20240621|-|None|[From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking](#from-llms-to-mllms-exploring-the-landscape-of-multimodal-jailbreaking)|https://arxiv.org/abs/2406.14859|None|-|-|-|
 20240620|-|None|[Mitigating Fine-tuning based Jailbreak Attack with Backdoor Enhanced Safety Alignment](#mitigating-fine-tuning-based-jailbreak-attack-with-backdoor-enhanced-safety-alignment)|https://arxiv.org/abs/2402.14968|None|-|-|-|
-20240619|-|None|[Lockpicking LLMs: A Logit-Based Jailbreak Using Token-level Manipulation](#lockpicking-llms-a-logit-based-jailbreak-using-token-level-manipulation)|https://arxiv.org/abs/2405.13068|None|-|-|-|
+20240619|-|None|[Lockpicking LLMs: A Logit-Based Jailbreak Using Token-level Manipulation](#lockpicking-llms-a-logit-based-jailbreak-using-token-level-manipulation)|https://arxiv.org/abs/2405.13068|https://github.com/LLM-Integrity-Guard/JailMine|-|-|-|
 20240618|-|None|[Is the System Message Really Important to Jailbreaks in Large Language Models?](#is-the-system-message-really-important-to-jailbreaks-in-large-language-models)|https://arxiv.org/abs/2402.14857|None|-|-|-|
-20240617|-|None|[JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks](#jailguard-a-universal-detection-framework-for-llm-prompt-based-attacks)|https://arxiv.org/abs/2312.10766|None|-|-|-|
-20240617|-|None|[Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models](#safety-fine-tuning-at-almost-no-cost-a-baseline-for-vision-large-language-models)|https://arxiv.org/abs/2402.02207|None|-|-|-|
-20240617|-|None|[Knowledge-to-Jailbreak: One Knowledge Point Worth One Attack](#knowledge-to-jailbreak-one-knowledge-point-worth-one-attack)|https://arxiv.org/abs/2406.11682|None|-|-|-|
+20240617|-|None|[Knowledge-to-Jailbreak: One Knowledge Point Worth One Attack](#knowledge-to-jailbreak-one-knowledge-point-worth-one-attack)|https://arxiv.org/abs/2406.11682|https://github.com/THU-KEG/Knowledge-to-Jailbreak/|-|-|-|
+20240617|-|None|[Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models](#safety-fine-tuning-at-almost-no-cost-a-baseline-for-vision-large-language-models)|https://arxiv.org/abs/2402.02207|https://github.com/ys-zong/VLGuard|-|-|-|
 20240616|-|None|[Threat Modelling and Risk Analysis for Large Language Model (LLM)-Powered Applications](#threat-modelling-and-risk-analysis-for-large-language-model-llm-powered-applications)|https://arxiv.org/abs/2406.11007|None|-|-|-|
-20240614|-|None|[Defending Large Language Models Against Jailbreak Attacks via Layer-specific Editing](#defending-large-language-models-against-jailbreak-attacks-via-layer-specific-editing)|https://arxiv.org/abs/2405.18166|None|-|-|-|
-20240613|-|None|[How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States](#how-alignment-and-jailbreak-work-explain-llm-safety-through-intermediate-hidden-states)|https://arxiv.org/abs/2406.05644|None|-|-|-|
-20240612|-|None|[Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character](#visual-roleplay-universal-jailbreak-attack-on-multimodal-large-language-models-via-role-playing-image-character)|https://arxiv.org/abs/2405.20773|None|-|-|-|
+20240614|-|None|[Defending Large Language Models Against Jailbreak Attacks via Layer-specific Editing](#defending-large-language-models-against-jailbreak-attacks-via-layer-specific-editing)|https://arxiv.org/abs/2405.18166|https://github.com/ledllm/ledllm|-|-|-|
+20240613|-|None|[How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States](#how-alignment-and-jailbreak-work-explain-llm-safety-through-intermediate-hidden-states)|https://arxiv.org/abs/2406.05644|https://github.com/ydyjya/LLM-IHS-Explanation|-|-|-|
 20240612|-|None|[RL-JACK: Reinforcement Learning-powered Black-box Jailbreaking Attack against LLMs](#rl-jack-reinforcement-learning-powered-black-box-jailbreaking-attack-against-llms)|https://arxiv.org/abs/2406.08725|None|-|-|-|
+20240612|-|None|[Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character](#visual-roleplay-universal-jailbreak-attack-on-multimodal-large-language-models-via-role-playing-image-character)|https://arxiv.org/abs/2405.20773|None|-|-|-|
+20240611|-|None|[SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](#smoothllm-defending-large-language-models-against-jailbreaking-attacks)|https://arxiv.org/abs/2310.03684|https://github.com/arobey1/smooth-llm|-|-|-|
 20240611|-|None|[Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM](#defending-against-alignment-breaking-attacks-via-robustly-aligned-llm)|https://arxiv.org/abs/2309.14348|None|-|-|-|
-20240611|-|None|[SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](#smoothllm-defending-large-language-models-against-jailbreaking-attacks)|https://arxiv.org/abs/2310.03684|None|-|-|-|
-20240610|-|None|[Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction](#making-them-ask-and-answer-jailbreaking-large-language-models-in-few-queries-via-disguise-and-reconstruction)|https://arxiv.org/abs/2402.18104|None|-|-|-|
-20240609|-|None|[Safety Alignment Should Be Made More Than Just a Few Tokens Deep](#safety-alignment-should-be-made-more-than-just-a-few-tokens-deep)|https://arxiv.org/abs/2406.05946|None|-|-|-|
-20240607|-|None|[ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](#artprompt-ascii-art-based-jailbreak-attacks-against-aligned-llms)|https://arxiv.org/abs/2402.11753|None|-|-|-|
+20240610|-|None|[Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction](#making-them-ask-and-answer-jailbreaking-large-language-models-in-few-queries-via-disguise-and-reconstruction)|https://arxiv.org/abs/2402.18104|https://github.com/LLM-DRA/DRA/|-|-|-|
+20240609|-|None|[Safety Alignment Should Be Made More Than Just a Few Tokens Deep](#safety-alignment-should-be-made-more-than-just-a-few-tokens-deep)|https://arxiv.org/abs/2406.05946|https://github.com/Unispac/shallow-vs-deep-alignment|-|-|-|
 20240607|-|None|[Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs](#adversarial-tuning-defending-against-jailbreak-attacks-for-llms)|https://arxiv.org/abs/2406.06622|None|-|-|-|
-20240606|-|None|[COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability](#cold-attack-jailbreaking-llms-with-stealthiness-and-controllability)|https://arxiv.org/abs/2402.08679|None|-|-|-|
-20240606|-|None|[TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification](#trap-targeted-random-adversarial-prompt-honeypot-for-black-box-identification)|https://arxiv.org/abs/2402.12991|None|-|-|-|
-20240606|-|None|[Defending LLMs against Jailbreaking Attacks via Backtranslation](#defending-llms-against-jailbreaking-attacks-via-backtranslation)|https://arxiv.org/abs/2402.16459|None|-|-|-|
+20240607|-|None|[ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](#artprompt-ascii-art-based-jailbreak-attacks-against-aligned-llms)|https://arxiv.org/abs/2402.11753|https://github.com/uw-nsl/ArtPrompt|-|-|-|
 20240606|-|None|[AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens](#autojailbreak-exploring-jailbreak-attacks-and-defenses-through-a-dependency-lens)|https://arxiv.org/abs/2406.03805|None|-|-|-|
-20240605|-|None|[Improved Techniques for Optimization-Based Jailbreaking on Large Language Models](#improved-techniques-for-optimization-based-jailbreaking-on-large-language-models)|https://arxiv.org/abs/2405.21018|None|-|-|-|
-20240603|-|None|[Fundamental Limitations of Alignment in Large Language Models](#fundamental-limitations-of-alignment-in-large-language-models)|https://arxiv.org/abs/2304.11082|None|-|-|-|
-20240603|-|None|[On Prompt-Driven Safeguarding for Large Language Models](#on-prompt-driven-safeguarding-for-large-language-models)|https://arxiv.org/abs/2401.18018|None|-|-|-|
+20240606|-|None|[Defending LLMs against Jailbreaking Attacks via Backtranslation](#defending-llms-against-jailbreaking-attacks-via-backtranslation)|https://arxiv.org/abs/2402.16459|https://github.com/YihanWang617/LLM-Jailbreaking-Defense-Backtranslation|-|-|-|
+20240606|-|None|[TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification](#trap-targeted-random-adversarial-prompt-honeypot-for-black-box-identification)|https://arxiv.org/abs/2402.12991|https://github.com/parameterlab/trap|-|-|-|
+20240606|-|None|[COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability](#cold-attack-jailbreaking-llms-with-stealthiness-and-controllability)|https://arxiv.org/abs/2402.08679|https://github.com/Yu-Fangxu/COLD-Attack|-|-|-|
+20240605|-|None|[Improved Techniques for Optimization-Based Jailbreaking on Large Language Models](#improved-techniques-for-optimization-based-jailbreaking-on-large-language-models)|https://arxiv.org/abs/2405.21018|https://github.com/jiaxiaojunQAQ/I-GCG|-|-|-|
 20240603|-|None|[Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast](#agent-smith-a-single-image-can-jailbreak-one-million-multimodal-llm-agents-exponentially-fast)|https://arxiv.org/abs/2402.08567|None|-|-|-|
+20240603|-|None|[On Prompt-Driven Safeguarding for Large Language Models](#on-prompt-driven-safeguarding-for-large-language-models)|https://arxiv.org/abs/2401.18018|https://github.com/chujiezheng/LLM-Safeguard|-|-|-|
+20240603|-|None|[Fundamental Limitations of Alignment in Large Language Models](#fundamental-limitations-of-alignment-in-large-language-models)|https://arxiv.org/abs/2304.11082|https://github.com/yowolf/Limitations-of-Alignment-in-LLMs|-|-|-|
 20240531|-|None|[Exploring Vulnerabilities and Protections in Large Language Models: A Survey](#exploring-vulnerabilities-and-protections-in-large-language-models-a-survey)|https://arxiv.org/abs/2406.00240|None|-|-|-|
-20240530|-|None|[GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models](#guard-role-playing-to-generate-natural-language-jailbreakings-to-test-guideline-adherence-of-large-language-models)|https://arxiv.org/abs/2402.03299|None|-|-|-|
-20240530|-|None|[Robustifying Safety-Aligned Large Language Models through Clean Data Curation](#robustifying-safety-aligned-large-language-models-through-clean-data-curation)|https://arxiv.org/abs/2405.19358|None|-|-|-|
-20240530|-|None|[Efficient LLM-Jailbreaking by Introducing Visual Modality](#efficient-llm-jailbreaking-by-introducing-visual-modality)|https://arxiv.org/abs/2405.20015|None|-|-|-|
-20240530|-|None|[Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks](#defensive-prompt-patch-a-robust-and-interpretable-defense-of-llms-against-jailbreak-attacks)|https://arxiv.org/abs/2405.20099|None|-|-|-|
 20240530|-|None|[Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters](#jailbreaking-large-language-models-against-moderation-guardrails-via-cipher-characters)|https://arxiv.org/abs/2405.20413|None|-|-|-|
-20240529|-|None|[GradSafe: Detecting Jailbreak Prompts for LLMs via Safety-Critical Gradient Analysis](#gradsafe-detecting-jailbreak-prompts-for-llms-via-safety-critical-gradient-analysis)|https://arxiv.org/abs/2402.13494|None|-|-|-|
-20240529|-|None|[Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models](#single-image-unlearning-efficient-machine-unlearning-in-multimodal-large-language-models)|https://arxiv.org/abs/2405.12523|None|-|-|-|
-20240529|-|None|[Voice Jailbreak Attacks Against GPT-4o](#voice-jailbreak-attacks-against-gpt-o)|https://arxiv.org/abs/2405.19103|None|-|-|-|
+20240530|-|None|[Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks](#defensive-prompt-patch-a-robust-and-interpretable-defense-of-llms-against-jailbreak-attacks)|https://arxiv.org/abs/2405.20099|https://huggingface.co/spaces/TrustSafeAI/Defensive-Prompt-Patch-Jailbreak-Defense|-|-|-|
+20240530|-|None|[Efficient LLM-Jailbreaking by Introducing Visual Modality](#efficient-llm-jailbreaking-by-introducing-visual-modality)|https://arxiv.org/abs/2405.20015|None|-|-|-|
+20240530|-|None|[Robustifying Safety-Aligned Large Language Models through Clean Data Curation](#robustifying-safety-aligned-large-language-models-through-clean-data-curation)|https://arxiv.org/abs/2405.19358|https://anonymous.4open.science/r/LLM-Safety-41C2|-|-|-|
+20240530|-|None|[GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models](#guard-role-playing-to-generate-natural-language-jailbreakings-to-test-guideline-adherence-of-large-language-models)|https://arxiv.org/abs/2402.03299|None|-|-|-|
 20240529|-|None|[AutoBreach: Universal and Adaptive Jailbreaking with Efficient Wordplay-Guided Optimization](#autobreach-universal-and-adaptive-jailbreaking-with-efficient-wordplay-guided-optimization)|https://arxiv.org/abs/2405.19668|None|-|-|-|
-20240528|-|None|[Automatic Jailbreaking of the Text-to-Image Generative AI Systems](#automatic-jailbreaking-of-the-text-to-image-generative-ai-systems)|https://arxiv.org/abs/2405.16567|None|-|-|-|
+20240529|-|None|[Voice Jailbreak Attacks Against GPT-4o](#voice-jailbreak-attacks-against-gpt-o)|https://arxiv.org/abs/2405.19103|https://github.com/TrustAIRLab/VoiceJailbreakAttack|-|-|-|
+20240529|-|None|[Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models](#single-image-unlearning-efficient-machine-unlearning-in-multimodal-large-language-models)|https://arxiv.org/abs/2405.12523|None|-|-|-|
+20240529|-|None|[GradSafe: Detecting Jailbreak Prompts for LLMs via Safety-Critical Gradient Analysis](#gradsafe-detecting-jailbreak-prompts-for-llms-via-safety-critical-gradient-analysis)|https://arxiv.org/abs/2402.13494|https://github.com/xyq7/GradSafe|-|-|-|
 20240528|-|None|[Are PPO-ed Language Models Hackable?](#are-ppo-ed-language-models-hackable)|https://arxiv.org/abs/2406.02577|None|-|-|-|
+20240528|-|None|[Automatic Jailbreaking of the Text-to-Image Generative AI Systems](#automatic-jailbreaking-of-the-text-to-image-generative-ai-systems)|https://arxiv.org/abs/2405.16567|https://github.com/Kim-Minseon/APGP.git|-|-|-|
 20240525|-|None|[Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations](#jailbreak-and-guard-aligned-language-models-with-only-few-in-context-demonstrations)|https://arxiv.org/abs/2310.06387|None|-|-|-|
 20240524|-|None|[Hacc-Man: An Arcade Game for Jailbreaking LLMs](#hacc-man-an-arcade-game-for-jailbreaking-llms)|https://arxiv.org/abs/2405.15902|None|-|-|-|
 20240523|-|None|[Impact of Non-Standard Unicode Characters on Security and Comprehension in Large Language Models](#impact-of-non-standard-unicode-characters-on-security-and-comprehension-in-large-language-models)|https://arxiv.org/abs/2405.14490|None|-|-|-|
-20240522|-|None|[Flames: Benchmarking Value Alignment of LLMs in Chinese](#flames-benchmarking-value-alignment-of-llms-in-chinese)|https://arxiv.org/abs/2311.06899|None|-|-|-|
 20240522|-|None|[WordGame: Efficient & Effective LLM Jailbreak via Simultaneous Obfuscation in Query and Response](#wordgame-efficient--effective-llm-jailbreak-via-simultaneous-obfuscation-in-query-and-response)|https://arxiv.org/abs/2405.14023|None|-|-|-|
-20240517|-|None|[A Comprehensive Study of Jailbreak Attack versus Defense for Large Language Models](#a-comprehensive-study-of-jailbreak-attack-versus-defense-for-large-language-models)|https://arxiv.org/abs/2402.13457|None|-|-|-|
+20240522|-|None|[Flames: Benchmarking Value Alignment of LLMs in Chinese](#flames-benchmarking-value-alignment-of-llms-in-chinese)|https://arxiv.org/abs/2311.06899|https://github.com/AIFlames/Flames|-|-|-|
+20240517|-|None|[A Comprehensive Study of Jailbreak Attack versus Defense for Large Language Models](#a-comprehensive-study-of-jailbreak-attack-versus-defense-for-large-language-models)|https://arxiv.org/abs/2402.13457|https://github.com/ltroin/llm_attack_defense_arena|-|-|-|
 20240516|-|None|[Sowing the Wind, Reaping the Whirlwind: The Impact of Editing Language Models](#sowing-the-wind-reaping-the-whirlwind-the-impact-of-editing-language-models)|https://arxiv.org/abs/2401.10647|None|-|-|-|
-20240515|-|None|["Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models](#do-anything-now-characterizing-and-evaluating-in-the-wild-jailbreak-prompts-on-large-language-models)|https://arxiv.org/abs/2308.03825|None|-|-|-|
-20240514|-|None|[PLeak: Prompt Leaking Attacks against Large Language Model Applications](#pleak-prompt-leaking-attacks-against-large-language-model-applications)|https://arxiv.org/abs/2405.06823|None|-|-|-|
-20240514|-|None|[PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition](#parden-can-you-repeat-that-defending-against-jailbreaks-via-repetition)|https://arxiv.org/abs/2405.07932|None|-|-|-|
-20240514|-|None|[SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models](#speechguard-exploring-the-adversarial-robustness-of-multimodal-large-language-models)|https://arxiv.org/abs/2405.08317|None|-|-|-|
+20240515|-|None|["Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models](#do-anything-now-characterizing-and-evaluating-in-the-wild-jailbreak-prompts-on-large-language-models)|https://arxiv.org/abs/2308.03825|https://github.com/verazuo/jailbreak_llms|-|-|-|
 20240514|-|None|[A safety realignment framework via subspace-oriented model fusion for large language models](#a-safety-realignment-framework-via-subspace-oriented-model-fusion-for-large-language-models)|https://arxiv.org/abs/2405.09055|None|-|-|-|
+20240514|-|None|[SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models](#speechguard-exploring-the-adversarial-robustness-of-multimodal-large-language-models)|https://arxiv.org/abs/2405.08317|None|-|-|-|
+20240514|-|None|[PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition](#parden-can-you-repeat-that-defending-against-jailbreaks-via-repetition)|https://arxiv.org/abs/2405.07932|https://github.com/Ed-Zh/PARDEN|-|-|-|
+20240514|-|None|[PLeak: Prompt Leaking Attacks against Large Language Model Applications](#pleak-prompt-leaking-attacks-against-large-language-model-applications)|https://arxiv.org/abs/2405.06823|https://github.com/BHui97/PLeak|-|-|-|
 20240510|-|None|[Evaluating and Mitigating Linguistic Discrimination in Large Language Models](#evaluating-and-mitigating-linguistic-discrimination-in-large-language-models)|https://arxiv.org/abs/2404.18534|None|-|-|-|
+20240507|-|None|[Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks](#learning-to-see-but-forgetting-to-follow-visual-instruction-tuning-makes-llms-more-prone-to-jailbreak-attacks)|https://arxiv.org/abs/2405.04403|https://github.com/gpantaz/vl_jailbreak|-|-|-|
 20240507|-|None|[Rethinking How to Evaluate Language Model Jailbreak](#rethinking-how-to-evaluate-language-model-jailbreak)|https://arxiv.org/abs/2404.06407|None|-|-|-|
-20240507|-|None|[Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks](#learning-to-see-but-forgetting-to-follow-visual-instruction-tuning-makes-llms-more-prone-to-jailbreak-attacks)|https://arxiv.org/abs/2405.04403|None|-|-|-|
 20240506|-|None|[Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models](#robustness-over-time-understanding-adversarial-examples-effectiveness-on-longitudinal-versions-of-large-language-models)|https://arxiv.org/abs/2308.07847|None|-|-|-|
-20240502|-|None|[Boosting Jailbreak Attack with Momentum](#boosting-jailbreak-attack-with-momentum)|https://arxiv.org/abs/2405.01229|None|-|-|-|
-20240429|-|None|[Universal Jailbreak Backdoors from Poisoned Human Feedback](#universal-jailbreak-backdoors-from-poisoned-human-feedback)|https://arxiv.org/abs/2311.14455|None|-|-|-|
-20240421|-|None|[AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs](#advprompter-fast-adaptive-adversarial-prompting-for-llms)|https://arxiv.org/abs/2404.16873|None|-|-|-|
-20240418|-|None|[Advancing the Robustness of Large Language Models through Self-Denoised Smoothing](#advancing-the-robustness-of-large-language-models-through-self-denoised-smoothing)|https://arxiv.org/abs/2404.12274|None|-|-|-|
-20240414|-|None|[FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models](#fuzzllm-a-novel-and-universal-fuzzing-framework-for-proactively-discovering-jailbreak-vulnerabilities-in-large-language-models)|https://arxiv.org/abs/2309.05274|None|-|-|-|
-20240412|-|None|[Subtoxic Questions: Dive Into Attitude Change of LLM's Response in Jailbreak Attempts](#subtoxic-questions-dive-into-attitude-change-of-llms-response-in-jailbreak-attempts)|https://arxiv.org/abs/2404.08309|None|-|-|-|
+20240429|-|None|[Universal Jailbreak Backdoors from Poisoned Human Feedback](#universal-jailbreak-backdoors-from-poisoned-human-feedback)|https://arxiv.org/abs/2311.14455|https://github.com/ethz-spylab/rlhf-poisoning|-|-|-|
+20240421|-|None|[AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs](#advprompter-fast-adaptive-adversarial-prompting-for-llms)|https://arxiv.org/abs/2404.16873|https://github.com/facebookresearch/advprompter|-|-|-|
+20240418|-|None|[Advancing the Robustness of Large Language Models through Self-Denoised Smoothing](#advancing-the-robustness-of-large-language-models-through-self-denoised-smoothing)|https://arxiv.org/abs/2404.12274|https://github.com/UCSB-NLP-Chang/SelfDenoise|-|-|-|
+20240414|-|None|[FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models](#fuzzllm-a-novel-and-universal-fuzzing-framework-for-proactively-discovering-jailbreak-vulnerabilities-in-large-language-models)|https://arxiv.org/abs/2309.05274|https://github.com/RainJamesY/FuzzLLM|-|-|-|
 20240412|-|None|[JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models](#jailbreaklens-visual-analysis-of-jailbreak-attacks-against-large-language-models)|https://arxiv.org/abs/2404.08793|None|-|-|-|
-20240406|-|None|[A Wolf in Sheep's Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily](#a-wolf-in-sheeps-clothing-generalized-nested-jailbreak-prompts-can-fool-large-language-models-easily)|https://arxiv.org/abs/2311.08268|None|-|-|-|
+20240412|-|None|[Subtoxic Questions: Dive Into Attitude Change of LLM's Response in Jailbreak Attempts](#subtoxic-questions-dive-into-attitude-change-of-llms-response-in-jailbreak-attempts)|https://arxiv.org/abs/2404.08309|None|-|-|-|
+20240406|-|None|[A Wolf in Sheep's Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily](#a-wolf-in-sheeps-clothing-generalized-nested-jailbreak-prompts-can-fool-large-language-models-easily)|https://arxiv.org/abs/2311.08268|https://github.com/NJUNLP/ReNeLLM|-|-|-|
 20240403|-|None|[Learn to Disguise: Avoid Refusal Responses in LLM's Defense via a Multi-agent Attacker-Disguiser Game](#learn-to-disguise-avoid-refusal-responses-in-llms-defense-via-a-multi-agent-attacker-disguiser-game)|https://arxiv.org/abs/2404.02532|None|-|-|-|
 20240401|-|None|[The Butterfly Effect of Altering Prompts: How Small Changes and Jailbreaks Affect Large Language Model Performance](#the-butterfly-effect-of-altering-prompts-how-small-changes-and-jailbreaks-affect-large-language-model-performance)|https://arxiv.org/abs/2401.03729|None|-|-|-|
-20240331|-|None|[Fake Alignment: Are LLMs Really Aligned Well?](#fake-alignment-are-llms-really-aligned-well)|https://arxiv.org/abs/2311.05915|None|-|-|-|
-20240327|-|None|[Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks](#tricking-llms-into-disobedience-formalizing-analyzing-and-detecting-jailbreaks)|https://arxiv.org/abs/2305.14965|None|-|-|-|
-20240322|-|None|[Self-Guard: Empower the LLM to Safeguard Itself](#self-guard-empower-the-llm-to-safeguard-itself)|https://arxiv.org/abs/2310.15851|None|-|-|-|
+20240331|-|None|[Fake Alignment: Are LLMs Really Aligned Well?](#fake-alignment-are-llms-really-aligned-well)|https://arxiv.org/abs/2311.05915|https://github.com/AIFlames/Fake-Alignment|-|-|-|
+20240327|-|None|[Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks](#tricking-llms-into-disobedience-formalizing-analyzing-and-detecting-jailbreaks)|https://arxiv.org/abs/2305.14965|https://github.com/AetherPrior/TrickLLM|-|-|-|
 20240322|-|None|[Risk and Response in Large Language Models: Evaluating Key Threat Categories](#risk-and-response-in-large-language-models-evaluating-key-threat-categories)|https://arxiv.org/abs/2403.14988|None|-|-|-|
-20240320|-|None|[AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](#autodan-generating-stealthy-jailbreak-prompts-on-aligned-large-language-models)|https://arxiv.org/abs/2310.04451|None|-|-|-|
+20240322|-|None|[Self-Guard: Empower the LLM to Safeguard Itself](#self-guard-empower-the-llm-to-safeguard-itself)|https://arxiv.org/abs/2310.15851|None|-|-|-|
+20240320|-|None|[AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](#autodan-generating-stealthy-jailbreak-prompts-on-aligned-large-language-models)|https://arxiv.org/abs/2310.04451|https://github.com/SheltonLiu-N/AutoDAN|-|-|-|
 20240319|-|None|[Review of Generative AI Methods in Cybersecurity](#review-of-generative-ai-methods-in-cybersecurity)|https://arxiv.org/abs/2403.08701|None|-|-|-|
-20240318|-|None|[EasyJailbreak: A Unified Framework for Jailbreaking Large Language Models](#easyjailbreak-a-unified-framework-for-jailbreaking-large-language-models)|https://arxiv.org/abs/2403.12171|None|-|-|-|
-20240314|-|None|[AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](#adashield-safeguarding-multimodal-large-language-models-from-structure-based-attack-via-adaptive-shield-prompting)|https://arxiv.org/abs/2403.09513|None|-|-|-|
-20240310|-|None|[Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study](#jailbreaking-chatgpt-via-prompt-engineering-an-empirical-study)|https://arxiv.org/abs/2305.13860|None|-|-|-|
+20240318|-|None|[EasyJailbreak: A Unified Framework for Jailbreaking Large Language Models](#easyjailbreak-a-unified-framework-for-jailbreaking-large-language-models)|https://arxiv.org/abs/2403.12171|https://github.com/EasyJailbreak/|-|-|-|
+20240314|-|None|[AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](#adashield-safeguarding-multimodal-large-language-models-from-structure-based-attack-via-adaptive-shield-prompting)|https://arxiv.org/abs/2403.09513|https://github.com/rain305f/AdaShield|-|-|-|
 20240310|-|None|[Using Hallucinations to Bypass GPT4's Filter](#using-hallucinations-to-bypass-gpts-filter)|https://arxiv.org/abs/2403.04769|None|-|-|-|
-20240309|-|None|[From Chatbots to PhishBots? -- Preventing Phishing scams created using ChatGPT, Google Bard and Claude](#from-chatbots-to-phishbots----preventing-phishing-scams-created-using-chatgpt-google-bard-and-claude)|https://arxiv.org/abs/2310.19181|None|-|-|-|
-20240308|-|None|[Can LLMs Follow Simple Rules?](#can-llms-follow-simple-rules)|https://arxiv.org/abs/2311.04235|None|-|-|-|
+20240310|-|None|[Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study](#jailbreaking-chatgpt-via-prompt-engineering-an-empirical-study)|https://arxiv.org/abs/2305.13860|None|-|-|-|
+20240309|-|None|[From Chatbots to PhishBots? -- Preventing Phishing scams created using ChatGPT, Google Bard and Claude](#from-chatbots-to-phishbots----preventing-phishing-scams-created-using-chatgpt-google-bard-and-claude)|https://arxiv.org/abs/2310.19181|https://huggingface.co/phishbot/ScamLLM|-|-|-|
+20240308|-|None|[Can LLMs Follow Simple Rules?](#can-llms-follow-simple-rules)|https://arxiv.org/abs/2311.04235|https://github.com/normster/llm_rules|-|-|-|
 20240304|-|None|[LLMs Can Defend Themselves Against Jailbreaking in a Practical Manner: A Vision Paper](#llms-can-defend-themselves-against-jailbreaking-in-a-practical-manner-a-vision-paper)|https://arxiv.org/abs/2402.15727|None|-|-|-|
-20240303|-|None|[Multilingual Jailbreak Challenges in Large Language Models](#multilingual-jailbreak-challenges-in-large-language-models)|https://arxiv.org/abs/2310.06474|None|-|-|-|
+20240303|-|None|[Multilingual Jailbreak Challenges in Large Language Models](#multilingual-jailbreak-challenges-in-large-language-models)|https://arxiv.org/abs/2310.06474|https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs|-|-|-|
 20240302|-|None|[Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition](#ignore-this-title-and-hackaprompt-exposing-systemic-vulnerabilities-of-llms-through-a-global-scale-prompt-hacking-competition)|https://arxiv.org/abs/2311.16119|None|-|-|-|
 20240229|-|None|[Cognitive Overload: Jailbreaking Large Language Models with Overloaded Logical Thinking](#cognitive-overload-jailbreaking-large-language-models-with-overloaded-logical-thinking)|https://arxiv.org/abs/2311.09827|None|-|-|-|
-20240228|-|None|[Defending Large Language Models against Jailbreak Attacks via Semantic Smoothing](#defending-large-language-models-against-jailbreak-attacks-via-semantic-smoothing)|https://arxiv.org/abs/2402.16192|None|-|-|-|
+20240228|-|None|[Defending Large Language Models against Jailbreak Attacks via Semantic Smoothing](#defending-large-language-models-against-jailbreak-attacks-via-semantic-smoothing)|https://arxiv.org/abs/2402.16192|https://github.com/UCSB-NLP-Chang/SemanticSmooth|-|-|-|
 20240227|-|None|[Semantic Mirror Jailbreak: Genetic Algorithm Based Jailbreak Prompts Against Open-source LLMs](#semantic-mirror-jailbreak-genetic-algorithm-based-jailbreak-prompts-against-open-source-llms)|https://arxiv.org/abs/2402.14872|None|-|-|-|
-20240226|-|None|[DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](#decodingtrust-a-comprehensive-assessment-of-trustworthiness-in-gpt-models)|https://arxiv.org/abs/2306.11698|None|-|-|-|
-20240226|-|None|[CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models](#codechameleon-personalized-encryption-framework-for-jailbreaking-large-language-models)|https://arxiv.org/abs/2402.16717|None|-|-|-|
+20240226|-|None|[CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models](#codechameleon-personalized-encryption-framework-for-jailbreaking-large-language-models)|https://arxiv.org/abs/2402.16717|https://github.com/huizhang-L/CodeChameleon|-|-|-|
+20240226|-|None|[DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](#decodingtrust-a-comprehensive-assessment-of-trustworthiness-in-gpt-models)|https://arxiv.org/abs/2306.11698|https://decodingtrust.github.io/|-|-|-|
 20240224|-|None|[PRP: Propagating Universal Perturbations to Attack Large Language Model Guard-Rails](#prp-propagating-universal-perturbations-to-attack-large-language-model-guard-rails)|https://arxiv.org/abs/2402.15911|None|-|-|-|
-20240223|-|None|[Analyzing the Inherent Response Tendency of LLMs: Real-World Instructions-Driven Jailbreak](#analyzing-the-inherent-response-tendency-of-llms-real-world-instructions-driven-jailbreak)|https://arxiv.org/abs/2312.04127|None|-|-|-|
 20240223|-|None|[Foot In The Door: Understanding Large Language Model Jailbreaking via Cognitive Psychology](#foot-in-the-door-understanding-large-language-model-jailbreaking-via-cognitive-psychology)|https://arxiv.org/abs/2402.15690|None|-|-|-|
-20240221|-|None|[Coercing LLMs to do and reveal (almost) anything](#coercing-llms-to-do-and-reveal-almost-anything)|https://arxiv.org/abs/2402.14020|None|-|-|-|
-20240215|-|None|[A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents](#a-trembling-house-of-cards-mapping-adversarial-attacks-against-language-agents)|https://arxiv.org/abs/2402.10196|None|-|-|-|
-20240213|-|None|[Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning](#pandora-jailbreak-gpts-by-retrieval-augmented-generation-poisoning)|https://arxiv.org/abs/2402.08416|None|-|-|-|
-20240211|-|Appl. Sci. 14, 3558 (2024)|[All in How You Ask for It: Simple Black-Box Method for Jailbreak Attacks](#all-in-how-you-ask-for-it-simple-black-box-method-for-jailbreak-attacks)|https://arxiv.org/abs/2401.09798|None|-|-|-|
-20240208|-|None|[Rapid Optimization for Jailbreaking LLMs via Subconscious Exploitation and Echopraxia](#rapid-optimization-for-jailbreaking-llms-via-subconscious-exploitation-and-echopraxia)|https://arxiv.org/abs/2402.05467|None|-|-|-|
-20240205|-|None|[Weak-to-Strong Jailbreaking on Large Language Models](#weak-to-strong-jailbreaking-on-large-language-models)|https://arxiv.org/abs/2401.17256|None|-|-|-|
+20240223|-|None|[Analyzing the Inherent Response Tendency of LLMs: Real-World Instructions-Driven Jailbreak](#analyzing-the-inherent-response-tendency-of-llms-real-world-instructions-driven-jailbreak)|https://arxiv.org/abs/2312.04127|None|-|-|-|
+20240221|-|None|[Coercing LLMs to do and reveal (almost) anything](#coercing-llms-to-do-and-reveal-almost-anything)|https://arxiv.org/abs/2402.14020|https://github.com/JonasGeiping/carving|-|-|-|
+20240215|-|None|[A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents](#a-trembling-house-of-cards-mapping-adversarial-attacks-against-language-agents)|https://arxiv.org/abs/2402.10196|https://github.com/OSU-NLP-Group/AgentAttack|-|-|-|
+20240213|-|None|[Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning](#pandora-jailbreak-gpts-by-retrieval-augmented-generation-poisoning)|https://arxiv.org/abs/2402.08416|https://sites.google.com/view/pandora-llm-jailbreak|-|-|-|
+20240211|-|Appl. Sci. 14, 3558 (2024)|[All in How You Ask for It: Simple Black-Box Method for Jailbreak Attacks](#all-in-how-you-ask-for-it-simple-black-box-method-for-jailbreak-attacks)|https://arxiv.org/abs/2401.09798|https://github.com/kztakemoto/simbaja|-|-|-|
+20240208|-|None|[Rapid Optimization for Jailbreaking LLMs via Subconscious Exploitation and Echopraxia](#rapid-optimization-for-jailbreaking-llms-via-subconscious-exploitation-and-echopraxia)|https://arxiv.org/abs/2402.05467|https://github.com/SolidShen/RIPPLE_official/tree/official|-|-|-|
 20240205|-|None|[Nevermind: Instruction Override and Moderation in Large Language Models](#nevermind-instruction-override-and-moderation-in-large-language-models)|https://arxiv.org/abs/2402.03303|None|-|-|-|
+20240205|-|None|[Weak-to-Strong Jailbreaking on Large Language Models](#weak-to-strong-jailbreaking-on-large-language-models)|https://arxiv.org/abs/2401.17256|https://github.com/XuandongZhao/weak-to-strong|-|-|-|
 20240203|-|None|[Jailbreaking Attack against Multimodal Large Language Model](#jailbreaking-attack-against-multimodal-large-language-model)|https://arxiv.org/abs/2402.02309|None|-|-|-|
 20240130|-|None|[A Cross-Language Investigation into Jailbreak Attacks in Large Language Models](#a-cross-language-investigation-into-jailbreak-attacks-in-large-language-models)|https://arxiv.org/abs/2401.16765|None|-|-|-|
 20240127|-|None|[Low-Resource Languages Jailbreak GPT-4](#low-resource-languages-jailbreak-gpt-)|https://arxiv.org/abs/2310.02446|None|-|-|-|
 20240124|-|None|[MULTIVERSE: Exposing Large Language Model Alignment Problems in Diverse Worlds](#multiverse-exposing-large-language-model-alignment-problems-in-diverse-worlds)|https://arxiv.org/abs/2402.01706|None|-|-|-|
-20240123|-|None|[How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](#how-johnny-can-persuade-llms-to-jailbreak-them-rethinking-persuasion-to-challenge-ai-safety-by-humanizing-llms)|https://arxiv.org/abs/2401.06373|None|-|-|-|
+20240123|-|None|[How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](#how-johnny-can-persuade-llms-to-jailbreak-them-rethinking-persuasion-to-challenge-ai-safety-by-humanizing-llms)|https://arxiv.org/abs/2401.06373|https://github.com/CHATS-lab/persuasive_jailbreaker|-|-|-|
 20240122|-|None|[Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench](#who-is-chatgpt-benchmarking-llms-psychological-portrayal-using-psychobench)|https://arxiv.org/abs/2310.01386|None|-|-|-|
+20240120|-|None|[InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance](#inferaligner-inference-time-alignment-for-harmlessness-through-cross-model-guidance)|https://arxiv.org/abs/2401.11206|https://github.com/Jihuai-wpy/InferAligner|-|-|-|
 20240120|-|None|[Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts](#jailbreaking-gpt-v-via-self-adversarial-attacks-with-system-prompts)|https://arxiv.org/abs/2311.09127|None|-|-|-|
-20240120|-|None|[InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance](#inferaligner-inference-time-alignment-for-harmlessness-through-cross-model-guidance)|https://arxiv.org/abs/2401.11206|None|-|-|-|
-20231220|-|None|[Universal and Transferable Adversarial Attacks on Aligned Language Models](#universal-and-transferable-adversarial-attacks-on-aligned-language-models)|https://arxiv.org/abs/2307.15043|None|-|-|-|
-20231216|-|None|[Comprehensive Evaluation of ChatGPT Reliability Through Multilingual Inquiries](#comprehensive-evaluation-of-chatgpt-reliability-through-multilingual-inquiries)|https://arxiv.org/abs/2312.10524|None|-|-|-|
+20231220|-|None|[Universal and Transferable Adversarial Attacks on Aligned Language Models](#universal-and-transferable-adversarial-attacks-on-aligned-language-models)|https://arxiv.org/abs/2307.15043|https://github.com/llm-attacks/llm-attacks|-|-|-|
+20231216|-|None|[Comprehensive Evaluation of ChatGPT Reliability Through Multilingual Inquiries](#comprehensive-evaluation-of-chatgpt-reliability-through-multilingual-inquiries)|https://arxiv.org/abs/2312.10524|https://github.com/llm-research-777/ChatGPT-Jailbreaking|-|-|-|
 20231214|-|None|[AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models](#autodan-interpretable-gradient-based-adversarial-attacks-on-large-language-models)|https://arxiv.org/abs/2310.15140|None|-|-|-|
 20231212|-|None|[Maatphor: Automated Variant Analysis for Prompt Injection Attacks](#maatphor-automated-variant-analysis-for-prompt-injection-attacks)|https://arxiv.org/abs/2312.11513|None|-|-|-|
 20231124|-|None|[Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation](#scalable-and-transferable-black-box-jailbreaks-for-language-models-via-persona-modulation)|https://arxiv.org/abs/2311.03348|None|-|-|-|
@@ -455,16 +485,16 @@ Arxived Date|Published Date|Published Venue|Title|Paper|Codebase|Category|Tool N
 20231106|-|None|[Detecting Language Model Attacks with Perplexity](#detecting-language-model-attacks-with-perplexity)|https://arxiv.org/abs/2308.14132|None|-|-|-|
 20231028|-|None|[Probing LLMs for hate speech detection: strengths and vulnerabilities](#probing-llms-for-hate-speech-detection-strengths-and-vulnerabilities)|https://arxiv.org/abs/2310.12860|None|-|-|-|
 20231025|-|The Network and Distributed System Security Symposium (NDSS) 2024|[MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots](#masterkey-automated-jailbreak-across-multiple-large-language-model-chatbots)|https://arxiv.org/abs/2307.08715|None|-|-|-|
-20231019|-|None|[Automatic Prompt Optimization with "Gradient Descent" and Beam Search](#automatic-prompt-optimization-with-gradient-descent-and-beam-search)|https://arxiv.org/abs/2305.03495|None|-|-|-|
+20231019|-|None|[Automatic Prompt Optimization with "Gradient Descent" and Beam Search](#automatic-prompt-optimization-with-gradient-descent-and-beam-search)|https://arxiv.org/abs/2305.03495|https://github.com/microsoft/LMOps/tree/main/prompt_optimization|-|-|-|
 20231016|-|None|[Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks](#survey-of-vulnerabilities-in-large-language-models-revealed-by-adversarial-attacks)|https://arxiv.org/abs/2310.10844|None|-|-|-|
-20231010|-|None|[Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation](#catastrophic-jailbreak-of-open-source-llms-via-exploiting-generation)|https://arxiv.org/abs/2310.06987|None|-|-|-|
+20231010|-|None|[Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation](#catastrophic-jailbreak-of-open-source-llms-via-exploiting-generation)|https://arxiv.org/abs/2310.06987|https://github.com/Princeton-SysML/Jailbreak_LLM|-|-|-|
 20231005|-|None|[Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](#fine-tuning-aligned-language-models-compromises-safety-even-when-users-do-not-intend-to)|https://arxiv.org/abs/2310.03693|None|-|-|-|
-20231003|-|None|[Can Language Models be Instructed to Protect Personal Information?](#can-language-models-be-instructed-to-protect-personal-information)|https://arxiv.org/abs/2310.02224|None|-|-|-|
+20231003|-|None|[Can Language Models be Instructed to Protect Personal Information?](#can-language-models-be-instructed-to-protect-personal-information)|https://arxiv.org/abs/2310.02224|https://llm-access-control.github.io/|-|-|-|
 20230904|-|None|[Baseline Defenses for Adversarial Attacks Against Aligned Language Models](#baseline-defenses-for-adversarial-attacks-against-aligned-language-models)|https://arxiv.org/abs/2309.00614|None|-|-|-|
-20230828|-|None|[Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models](#latent-jailbreak-a-benchmark-for-evaluating-text-safety-and-output-robustness-of-large-language-models)|https://arxiv.org/abs/2307.08487|None|-|-|-|
-20230824|-|None|Self-Deception: Reverse Penetrating the Semantic Firewall of Large Language Models|https://arxiv.org/abs/2308.11521|None|-|-|-|
+20230828|-|None|[Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models](#latent-jailbreak-a-benchmark-for-evaluating-text-safety-and-output-robustness-of-large-language-models)|https://arxiv.org/abs/2307.08487|https://github.com/qiuhuachuan/latent-jailbreak|-|-|-|
+20230824|-|None|[Self-Deception: Reverse Penetrating the Semantic Firewall of Large Language Models](#self-deception-reverse-penetrating-the-semantic-firewall-of-large-language-models)|https://arxiv.org/abs/2308.11521|None|-|-|-|
 20230820|-|None|[Using Large Language Models for Cybersecurity Capture-The-Flag Challenges and Certification Questions](#using-large-language-models-for-cybersecurity-capture-the-flag-challenges-and-certification-questions)|https://arxiv.org/abs/2308.10443|None|-|-|-|
-20230816|-|None|[Visual Adversarial Examples Jailbreak Aligned Large Language Models](#visual-adversarial-examples-jailbreak-aligned-large-language-models)|https://arxiv.org/abs/2306.13213|None|-|-|-|
+20230816|-|None|[Visual Adversarial Examples Jailbreak Aligned Large Language Models](#visual-adversarial-examples-jailbreak-aligned-large-language-models)|https://arxiv.org/abs/2306.13213|https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models|-|-|-|
 20230705|-|None|[Jailbroken: How Does LLM Safety Training Fail?](#jailbroken-how-does-llm-safety-training-fail)|https://arxiv.org/abs/2307.02483|None|-|-|-|
 
 
@@ -1359,6 +1389,47 @@ This paper investigates the effects of Representation Misdirection for Unlearnin
 ### 7. **Missing Information & Caveats**  
 - **Missing Parts**: The section on future work and limitations discusses potential experiments with larger models and black-box attack scenarios.  
 - The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.
+### Can Small Language Models Reliably Resist Jailbreak Attacks? A Comprehensive Evaluation
+#### 1. Summary of this text
+The paper investigates the susceptibility of small language models (SLMs) to jailbreak attacks, highlighting that 47.6% of SLMs evaluated show a high vulnerability rate (ASR > 40%). This study includes a systematic evaluation of 63 SLMs from 15 families against 8 jailbreak methods to understand contributing factors like model architecture and training techniques. Additionally, the effectiveness of three prompt-level defense methods is assessed, revealing that none achieved consistent success across SLMs. The findings advocate for a security-by-design approach in SLM development to enhance their resistance against such attacks.
+
+#### 2. Related Metadata  
+- Tools/Algorithms created: *"SJBench, a generalized, full automated, and scalable framework to systematically evaluate the vulnerability of SLMs to jailbreak attacks."*  
+- Benchmarks introduced: *"Not specified."*  
+- Codebase/Data URL: *"Not mentioned."*  
+- Evaluated LLMs: *"63 SLMs from 15 mainstream families."*  
+- Attack/Defense Techniques: *"DirectRequest, HumanJailbreaks, PAP, GCG, AutoPrompt, PEZ, GBDA, UAT; defense techniques: Perplexity, Retokenization, Self-Reminder."*  
+- Frameworks Critiqued: *"Not referenced in this section."*  
+
+#### 3. Main Contributions  
+- This paper conducts the first extensive empirical study on SLM vulnerabilities to jailbreak attacks.
+- It identifies that a significant percentage (47.6%) of SLMs are susceptible to such attacks, with 38.1% unable to resist direct harmful queries.
+- The study analyzes four key factors behind vulnerabilities: model size, architecture, training datasets, and techniques.
+- It evaluates and finds that existing prompt-level defense methods are ineffective across different SLMs.
+
+#### 4. Methods & Approach  
+- **Framework**: Developed SJBench for evaluating SLM vulnerabilities across three dimensions: robustness, diversity, and fluency.
+- **Model Selection**: Includes 63 SLMs supporting English, chosen from Huggingface based on architecture and model size (100MB to 7B parameters).
+- **Evaluation Metrics**: 
+  - Harmfulness measured by Attack Success Rate (ASR).
+  - Diversity measured through repetition rate, lexical diversity, and Self-BLEU.
+  - Fluency assessed with perplexity, readability, and coherence score.
+- **Training Techniques**: Includes methods such as supervised fine-tuning and direct preference optimization.
+
+#### 5. Findings & Empirical Results  
+- 47.6% of SLMs showed high vulnerability to jail breaking (ASR > 0.4).
+- 38.1% failed to resist direct harmful queries (ASR > 0.5).
+- Performance varied notably with attack methods; GCG was most effective.
+- Only models like Alibaba’s Qwen series and Google’s Gemma series showed relatively good resistance.
+- The frameworks highlight vulnerabilities based on model architecture and training methods rather than size.
+
+#### 6. Implications for LLM Safety  
+- The findings stress that most SLMs are not reliably resistant to jailbreak attacks, highlighting an urgent need for improved security measures during design and training stages.
+- Recommendations include prioritizing dataset quality and robust safety measures to enhance SLM security.
+
+#### 7. Missing Information & Caveats  
+- **Missing Sections**: The full empirical results and further in-depth specifics on attack methodologies are not included within the provided text.
+- **Ambiguities**: The text does not provide explicit details on how metrics were computed or the specific designs of the training sets used for evaluation. A full review of the complete paper may provide deeper insights into these areas.
 ### Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models
 #### 1. Summary of this text
 The text discusses the paper titled "Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models," which addresses vulnerabilities in Multi-modal Large Language Models (MLLMs) to visual adversarial attacks. The authors propose leveraging large-scale adversarially pre-trained vision models to enhance the robustness of MLLMs without sacrificing performance on vision-language tasks. They demonstrate significant improvements in adversarial defense capabilities and maintain high performance on visual question-answering and image captioning tasks. The paper outlines experimental results indicating that their approach effectively balances robustness and clean performance.
@@ -2941,6 +3012,43 @@ This text discusses a novel method for conducting jailbreak attacks on large lan
 - There may be additional implications and methodologies that could provide deeper insights into the findings.
 
 *The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.*
+### Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks
+#### 1. Summary of this text
+The document presents ProEAT, an innovative adversarial training (AT) framework designed to enhance the security of multimodal large language models (MLLMs) against jailbreak attacks. ProEAT addresses significant challenges such as efficiently tuning large model parameters and maintaining robustness across modalities. It incorporates a projector layer to streamline training while employing dynamic weight adjustment and joint optimization across visual and textual inputs. Extensive experiments on three state-of-the-art MLLMs demonstrate ProEAT’s superior defense performance, achieving near-zero attack success rates (ASRs) on several benchmark datasets, while maintaining minimal reductions in model accuracy.
+
+#### 2. **Related Metadata**
+- Tools/Algorithms created: *"ProEAT (Projection Layer Against Adversarial Training)."*  
+- Benchmarks introduced: *"JailBreakV-28K, MM-SafetyBench."*  
+- Codebase/Data URL: *"Not mentioned."*  
+- Evaluated LLMs: *"LLaVA-1.5-7B, Bunny-1.0-4B, mPLUG-Owl2."*  
+- Attack/Defense Techniques: *"Jailbreak attacks, adversarial training, dynamic weight adjustment, joint multimodal optimization."*  
+- Frameworks Critiqued: *"RobustVLM, PAT, VLGuard, BlueSuffix."*  
+
+#### 3. **Main Contributions**
+- The paper introduces ProEAT as the first AT paradigm for MLLMs specifically targeting jailbreak defenses during training.
+- It highlights the dual significance of projector adversarial training and dynamic hyperparameter adjustment in enhancing training efficiency.
+- The proposed joint training framework integrates both projector and language model components to improve defense capabilities against jailbreaking attacks.
+- Comprehensive evaluations showcase substantial performance improvements in defense against jailbreak attempts, underlining the importance of robust multimodal integration.
+
+#### 4. **Methods & Approach**
+- ProEAT employs an end-to-end framework focusing on a lightweight projector layer, subjecting it to adversarial training while minimizing computational overhead.
+- A dynamic weight adjustment mechanism is introduced to optimize the balance between normal and adversarial training objectives.
+- The methodology includes joint optimization of visual and textual modalities, ensuring robust cross-modal interaction.
+- Empirical evaluations indicate that ProEAT utilizes the Mean Squared Error (MSE) loss for efficient optimization and applies Projected Gradient Descent (PGD) during adversarial training for image perturbations.
+
+#### 5. **Findings & Empirical Results**
+- ProEAT outperforms existing baselines by +34% in defense efficiency while only reducing clean accuracy by 1%.
+- On JailBreakV-28K, ProEAT achieves a nearly zero ASR across several attacks, maintaining competitive accuracy metrics compared to standard pre-training processes.
+- The method also exhibits strong performance in MM-SafetyBench evaluations across various toxicity scenarios, demonstrating a significant reduction in ASR for sensitive categories.
+
+#### 6. **Implications for LLM Safety**
+- ProEAT contributes to enhanced robustness, addressing safety concerns related to jailbreak attacks in MLLMs, particularly important in safety-critical applications.
+- The findings suggest that adopting adversarial training in multimodal systems can effectively mitigate risks associated with harmful content generation while preserving utility.
+- The integration of joint multimodal optimization may serve as a critical advance in developing safer AI deployment strategies.
+
+#### 7. **Missing Information & Caveats**
+- What parts of the paper were missing from the provided text? *"Complete details on experimental implementations and evaluations."*  
+- Were there any ambiguous sections that need further review? *"The intricacies of the dynamic weight adjustment mechanism and specific implementation details on evaluated LLMs."*
 ### DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak
 #### 1. Summary of this text
 The paper introduces "DiffusionAttacker," a novel end-to-end generative approach for LLM prompt manipulation specifically designed to address vulnerabilities known as jailbreak attacks. Unlike traditional methods that rely on suffix additions, DiffusionAttacker employs a sequence-to-sequence (seq2seq) text diffusion model to allow flexible token modifications while maintaining the original prompt's semantics. It incorporates a Gumbel-Softmax technique for efficient sampling, eliminating the need for extensive token search. Experimental results on various benchmarks indicate significant improvements in attack success rates, fluency, and diversity compared to existing methods, underlining the critical need for enhanced security mechanisms in LLMs.
@@ -3046,6 +3154,43 @@ This paper investigates vulnerabilities in large language models (LLMs) by explo
 #### 7. Missing Information & Caveats  
 - Missing parts: Detailed implementation instructions for the Speak Easy framework and complete results from all robustness evaluations.
 - Ambiguities: The text does not clarify the methods used for human evaluations of the responses or the specific attributes that were assessed. Overall, some technical specifications may be incomplete or referenced without sufficient detail.
+### FC-Attack: Jailbreaking Large Vision-Language Models via Auto-Generated Flowcharts
+#### 1. Summary of this text
+The paper introduces FC-Attack, a novel jailbreak method that exploits large Vision-Language Models (LVLMs) using auto-generated flowcharts containing harmful information. FC-Attack combines benign textual prompts with harmful flowcharts to bypass safety mechanisms in LVLMs, achieving over 90% attack success rates across several models including Gemini-1.5 and Llava-Next. The study explores various factors affecting attack performance, such as step count and font styles. Defenses like AdaShield are evaluated, showing effectiveness in reducing attack success but at the cost of the models' utility.
+
+#### 2. **Related Metadata**
+- Tools/Algorithms created: "FC-Attack, a jailbreak attack method based on auto-generated flowcharts."
+- Benchmarks introduced: "Advbench dataset."
+- Codebase/Data URL: "Not mentioned."
+- Evaluated LLMs: "Gemini-1.5, Llava-Next, Qwen2-VL, InternVL-2.5, Claude-3.5, GPT-4o mini, GPT-4o."
+- Attack/Defense Techniques: "FC-Attack, Flochart generation, Defense methods such as AdaShield."
+- Frameworks Critiqued: "Not referenced in this section."
+
+#### 3. **Main Contributions**
+- A novel method, FC-Attack, is proposed for jailbreaking LVLMs using auto-generated harmful flowcharts.
+- The paper addresses the vulnerabilities of LVLMs, revealing that flowchart-based prompts can significantly improve attack success rates.
+- The study provides insights into how flowchart design, including the number of steps and font styles, impacts effectiveness.
+- Multiple defense strategies are explored, notably highlighting the trade-off between attack mitigation and utility reduction.
+
+#### 4. **Methods & Approach**
+- The FC-Attack comprises two stages:
+   1. **Step-Description Generator Building**: A pre-trained LLM is fine-tuned using LoRA to generate step descriptions based on benign datasets.
+   2. **Jailbreak Deployment**: Generated steps are transformed into three types of flowcharts (vertical, horizontal, S-shaped) to be used with benign prompts to bypass LVLM safeguards.
+- An experimental evaluation on the Advbench dataset is conducted, measuring attack success rates (ASR) defined as "ASR = # Queries Successfully Jailbroken / # Original Harmful Queries."
+
+#### 5. **Findings & Empirical Results**
+- FC-Attack achieves over 90% ASR on Gemini-1.5, Llava-Next, Qwen2-VL, and InternVL-2.5, outperforming existing methods.
+- Investigation of attack performance factors reveals that changing font styles improved ASR in Claude-3.5 from 4% to 28%.
+- Multiple baseline methods are compared, showing FC-Attack's superiority, especially in black-box scenarios.
+
+#### 6. **Implications for LLM Safety**
+- The findings underline significant vulnerabilities in LVLMs, highlighting the ease with which they can be manipulated to produce harmful content.
+- The study suggests that safety mechanisms, particularly in visual modalities, need to be fortified to prevent such jailbreak attacks.
+- Recommendations may include advancing defenses that do not heavily compromise model performance on benign queries.
+
+#### 7. **Missing Information & Caveats**
+- The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.
+- Specific technical metrics related to the flowchart generation and evaluation metrics other than ASR are not specified in the provided text. Further details regarding evaluation benchmarks for defenses may also be missing.
 ### MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots
 #### 1. Summary of this text
 The text describes the development of MASTERKEY, a framework aimed at investigating and understanding jailbreak attacks in large language model (LLM) chatbots. The framework introduces two main contributions: a novel methodology to reverse-engineer defenses of mainstream LLM chatbots, such as ChatGPT, Bard, and Bing Chat, and the automation of jailbreak prompt generation using a fine-tuned LLM. The framework achieves a success rate of 21.58% in generating effective jailbreak prompts, significantly improving upon existing methods. It also emphasizes the need for more robust defense mechanisms against potential misuse of LLMs.
@@ -3312,6 +3457,44 @@ The provided text discusses the introduction of SafeAligner, a methodology for e
 - The extracted text does not contain full details on empirical evaluation methodologies or specific numerical results for all tested scenarios.  
 - There could be references to actual implementation details, datasets used for experiments, and fine-tuning procedures that are not fully captured in the provided content.  
 - Overall, the extracted text seems to cover significant aspects of the SafeAligner proposal, but key empirical results might be better detailed in the complete paper.
+### Steering Dialogue Dynamics for Robustness against Multi-turn Jailbreaking Attacks
+#### 1. Summary of this text
+The paper presents a safety steering framework to defend large language models (LLMs) against multi-turn jailbreaking attacks, which exploit contextual drift across interactions to elicit harmful responses. Unlike existing methods that address only single-turn attacks, the proposed method employs a neural barrier function (NBF) for detecting and filtering harmful queries while ensuring invariant safety throughout multiple dialogue turns. The study details the theoretical foundations, including state-space representations and a safety predictor, and demonstrates through experiments that this approach outperforms baseline safety measures, effectively balancing safety and helpfulness in LLM interactions.
+
+#### 2. Related Metadata
+- Tools/Algorithms created: Neural barrier function (NBF) for safety steering.
+- Benchmarks introduced: Not specified in the provided text.
+- Codebase/Data URL: [GitHub - HanjiangHu/NBF-LLM](https://github.com/HanjiangHu/NBF-LLM).
+- Evaluated LLMs: GPT-3.5-turbo, GPT-4o, o1, Claude 3.5, Llama-3-8b-instruct, Phi-4.
+- Attack/Defense Techniques: Multi-turn jailbreaking attacks, cresendo attacks, opposing-day attacks, ActorAttack.
+- Frameworks Critiqued: Not referenced in this section.
+
+#### 3. Main Contributions
+- The study introduces a novel safety steering framework grounded in safe control theory, addressing the vulnerability of LLMs to multi-turn jailbreaking attacks.
+- It proposes a neural barrier function (NBF) that dynamically assesses safety risks with respect to dialogue context and enforces invariant safety.
+- The results indicate a significant improvement over existing safety alignment strategies, balancing safety with model helpfulness.
+
+#### 4. Methods & Approach 
+- Methodology involves state-space representations to model dialogue dynamics and a multi-turn approach to assess safety through an NBF.
+- The training involves leveraging embeddings from existing models to parameterize control functions, applied over multiple dialogue turns.
+- Key techniques include:
+  - Using mean square error (MSE) loss for training dialogue dynamics.
+  - A safety predictor that outputs a safety score based on conversational context.
+- Formal proofs are provided to demonstrate the invariant safety of the proposed method.
+
+#### 5. Findings & Empirical Results  
+- The paper presents empirical results showing reduced attack success rates when applying NBF-based safety steering, with quantitative comparisons across multiple LLMs.
+- Notable reductions in attack success rates (ASR) were observed across various models under different steering thresholds.
+- Helpfulness, measured using MMLU and MTBench scores, faced trade-offs with increased safety measures.
+
+#### 6. Implications for LLM Safety  
+- The findings emphasize the necessity of robust defenses against multi-turn attacks, which traditional methods do not adequately address, thus enhancing safety in LLM utilization.
+- Recommendations suggest that future work could consider dynamic strategies for steering thresholds based on context to better balance safety with informative responses.
+
+#### 7. Missing Information & Caveats  
+- Specific experimental setups, including detailed datasets and conditions, are not fully described in the provided text.
+- Conclusions relating to the robustness of the proposed method under varied architectures are limited, indicating potential areas for further research.
+- The text mentioned potential improvements to handling evolving attacks but did not elaborate on future adaptation mechanisms for the safety steering method.
 ### Soft Begging: Modular and Efficient Shielding of LLMs against Prompt Injection and Jailbreaking based on Prompt Tuning
 #### 1. Summary of this text
 This document presents an extended abstract exploring the concept of "soft begging," a novel strategy for protecting large language models (LLMs) from prompt injection and jailbreaking attacks. The authors describe these vulnerabilities as significant threats to LLM safety and highlight the lack of adversarial robustness in current models. The "soft begging" technique involves training soft prompts to mitigate the influence of harmful inputs without altering the original prompts, thus enhancing model security through parameter-level interventions. The text discusses existing defense methods and suggests that soft prompts could be modular and efficient.
@@ -4114,6 +4297,63 @@ The paper presents "Hacc-Man," an arcade game designed to engage players in "jai
 ### 7. Missing Information & Caveats
 - The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.
 - No specific quantitative results or concrete user data analysis methodologies are detailed. Further examination of user engagement outcomes is needed for more substantial conclusions.
+### Improving LLM Safety Alignment with Dual-Objective Optimization
+#### 1. Summary of this text
+The paper "Improving LLM Safety Alignment with Dual-Objective Optimization" addresses shortcomings in existing safety alignment techniques for large language models (LLMs), particularly those vulnerable to jailbreak attacks. It critiques Direct Preference Optimization (DPO) for inadequate refusal learning, proposing a novel framework called Dual-Objective Optimization for Refusal (DOOR) that incorporates robust refusal training and targeted unlearning of harmful knowledge. The authors provide empirical evidence demonstrating that DOOR enhances LLM robustness against various jailbreak attack methods while maintaining overall model utility. The research supports future improvements in LLM safety alignment techniques.
+
+#### 2. **Related Metadata**
+- Tools/Algorithms created: "Dual-Objective Optimization for Refusal (DOOR), Weighted DOOR (W-DOOR)"
+- Benchmarks introduced: "SORRY-Bench, Multi-Turn SORRY-Bench, HarmBench"
+- Codebase/Data URL: "https://github.com/wicai24/DOOR-Alignment"
+- Evaluated LLMs: "Gemma-2-2B, Llama-3-8B"
+- Attack/Defense Techniques: "prefilling attacks, suffix attacks, multi-turn attacks"
+- Frameworks Critiqued: "Direct Preference Optimization (DPO)"
+
+#### 3. **Main Contributions**  
+- Novel ideas or insights introduced in this paper:
+  - Analyzes and critiques existing safety alignment techniques, specifically DPO, for its limitations in addressing refusal learning effectively.
+  - Proposes DOOR, which emphasizes both refusal training and targeted unlearning of harmful content.
+  
+- Key problem(s) this paper addresses:
+  - Vulnerability of LLMs to jailbreak attacks and inadequate performance of DPO in safety contexts.
+
+- How it builds upon or challenges existing work:
+  - Challenges existing methods by dissecting and addressing the systemic flaws in DPO, thus offering a more structured and effective alternative framework (DOOR).
+
+#### 4. **Methods & Approach**  
+- Methodology is not fully detailed in the provided text.
+- Key techniques, frameworks, or experimental methodologies used:
+  - Gradient-based analysis of DPO's loss functions.
+  - Data augmentation techniques for robust refusal learning.
+  - Negative Preference Optimization (NPO) for unlearning harmful knowledge.
+
+- Technical details:
+  - Integration of refusal training and unlearning into a combined loss function (LDOOR).
+  - Introduction of token-level weighting for critical refusal tokens in W-DOOR.
+
+#### 5. **Findings & Empirical Results**  
+- Major experimental findings:
+  - DOOR and W-DOOR significantly improve LLM robustness against various jailbreak attacks compared to DPO.
+  - Enhanced learning rates for safe responses and stronger generalization capabilities.
+
+- Benchmarks or metrics used:
+  - Attack Success Rate (ASR) across multiple adversarial scenarios.
+
+- Comparisons to prior work:
+  - Demonstrated advancements over prior methodologies, particularly DPO, in maintaining robustness while enhancing model utility.
+
+#### 6. **Implications for LLM Safety**  
+- Findings affect safety concerns such as:
+  - Improved robustness against jailbreaking techniques, ensuring LLMs can better refuse harmful requests.
+- Recommendations for improving LLM safety based on this work:
+  - Adoption of the dual-objective approach for developing future safety alignment techniques.
+
+#### 7. **Missing Information & Caveats**  
+- Missing parts of the paper include:
+  - Detailed experimental results and metrics for all benchmarks.
+  - Specific architectural details for the models used.
+- Ambiguous sections:
+  - The long-term impact of token-level weighting on model behavior and safety alignment needs further exploration, which might be provided in additional sections not included here.
 ### Comprehensive Evaluation of ChatGPT Reliability Through Multilingual Inquiries
 #### 1. Summary of this text
 This paper evaluates the reliability of ChatGPT through multilingual inquiries, focusing on its susceptibility to "jailbreak" vulnerabilities that may facilitate harmful actions. By employing a fuzzing testing methodology, the authors tested various malicious questions in multiple languages, finding that some multilingual prompts can indeed lead to jailbreak incidents. Their study included 7,892 data points and revealed that different strategies for linguistic wrapping affected jailbreak probabilities. Additionally, they highlight the potential for prompt injection to amplify these vulnerabilities, urging improvements in ChatGPT's security and language inclusiveness.
@@ -4414,50 +4654,6 @@ The paper investigates whether large language models (LLMs) can be compromised d
 - The extracted text does not provide specific metrics or detailed results for some attacks.
 - Certain sections, such as overall empirical comparisons against unpoisoned models or limitations of the study, are not fully detailed.
 - *"The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper."*
-### Logical Consistency of Large Language Models in Fact-checking
-#### 1. Summary of this text
-The paper investigates the logical inconsistency of Large Language Models (LLMs) under complex logical queries relevant to fact-checking tasks using knowledge graphs. It outlines a three-pronged approach: introducing three logical fact-checking datasets for community usage, creating consistency measures for assessing LLMs under propositional logic queries, and improving LLM logical consistency through supervised fine-tuning methods. The authors demonstrate that existing models struggle with logical consistency, especially on complex queries, and that their fine-tuning approach can enhance consistency performance by an average of 14%.
-
-#### 2. **Related Metadata**
-- Tools/Algorithms created: *"None specified in the provided text."*  
-- Benchmarks introduced: *"Three logical fact-checking datasets: FreebaseLFC, NELLLFC, and WikiLFC."*  
-- Codebase/Data URL: *"Not mentioned."*  
-- Evaluated LLMs: *"Llama2-7B, Llama2-13B, and Gemma-2B."*  
-- Attack/Defense Techniques: *"Not specified in the provided text."*  
-- Frameworks Critiqued: *"Not referenced in this section."*  
-
-#### 3. **Main Contributions**  
-- The novel contributions of the paper include:
-  - Introduction of three datasets (FreebaseLFC, NELLLFC, WikiLFC) for assessing logical consistency of LLMs.
-  - Development of consistency measures for propositional logic queries to evaluate LLM responses.
-  - Application of supervised fine-tuning methodologies that improve the logical consistency of LLMs on complex fact-checking tasks.
-
-- The key problems addressed by this paper are:
-  - The issue of logical inconsistency in LLM responses to complex logical queries.
-  - Lack of existing datasets focused on logical consistency assessment for LLMs.
-
-- The paper builds upon and challenges existing work by expanding the focus from simple consistency assessments (e.g., paraphrasing) to complex logical queries requiring a deeper understanding of logical reasoning.
-
-#### 4. **Methods & Approach** 
-- Methodology is stated to include:
-  - Introduction of a retrieval-augmented generation (RAG) paradigm using knowledge graphs as the testbed for complex propositional logic queries.
-  - Creation of logical fact-checking datasets from structured data in knowledge graphs to assess training and evaluation of logical consistency in LLMs.
-  - Supervised fine-tuning to improve LLM logical consistency, emphasizing a pre-train, fine-tune, predict methodology.
-
-#### 5. **Findings & Empirical Results**  
-- The paper reports substantial findings:
-  - Fine-tuned LLMs showed an average increase in consistency of 14% on logical consistency assessments.
-  - Comparing models prior to and after fine-tuning, Llama2-7B and Llama2-13B showed improvements across datasets, enhancing both accuracy and logical consistency.
-  
-- Results showed that the existing models were untrained in logical consistency and improvement was measurable across all datasets assessed.
-
-#### 6. **Implications for LLM Safety**  
-- The findings stress the importance of logical consistency for robust and trustworthy LLM applications, particularly in critical domains where accuracy in information generation is necessary.
-- Recommendations for LLM safety improvements include further development of methods that enhance logical reasoning capabilities in models, thus reducing the likelihood of hallucinations and errors in generated outputs.
-
-#### 7. **Missing Information & Caveats**  
-- The section on related work is extensively referenced but lacks specific comparative analysis against previous models outside of logical consistency.
-- Additional details, discussions, or limitations with respect to the datasets or methodologies may be present in the remaining paper not included in the provided text. The extracted text appears to be comprehensive but acknowledges that additional details or experiments may be missing in the full paper.
 ### Can Large Language Models Automatically Jailbreak GPT-4V?
 #### 1. Summary of this text
 The paper presents AutoJailbreak, an innovative approach to jailbreak GPT-4V using large language models (LLMs). Inspired by prompt optimization, the study showcases how LLMs can efficiently refine jailbreak prompts, achieving an Attack Success Rate (ASR) of over 95.3%. The methodology includes advanced techniques for prompt generation and validation, incorporating weak-to-strong in-context learning and early stopping to save time and resources. The findings highlight vulnerabilities in GPT-4V's facial recognition capabilities and call for enhanced security measures against potential misuse.
@@ -4490,6 +4686,43 @@ The paper presents AutoJailbreak, an innovative approach to jailbreak GPT-4V usi
 
 #### 7. **Missing Information & Caveats**  
 - The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper. The paper does not specify any limitations or challenges faced during implementation, nor does it provide empirical results for comparison against prior methods.
+### Self-Deception: Reverse Penetrating the Semantic Firewall of Large Language Models
+### 1. Summary of this text
+This paper investigates the jailbreak problem in Large Language Models (LLMs) and introduces an automatic jailbreak method, termed "self-deception," which can bypass semantic firewalls. Aimed at enhancing security, the authors generated 2,520 attack payloads across six languages targeting violations such as violence, hate, and pornography. Experimental results showed a success rate of 86.2% for GPT-3.5-Turbo and 67% for GPT-4, revealing the effectiveness of the approach. The authors highlight the need for clearer explanations of the principles behind these attacks and defenses while planning to open-source their work for further research in LLM manipulation.
+
+### 2. Related Metadata
+- Tools/Algorithms created: Self-deception attack method for LLM jailbreak.
+- Benchmarks introduced: Not specified in the provided text.
+- Codebase/Data URL: "All experimental code and raw data will be released as open-source."
+- Evaluated LLMs: GPT-3.5-Turbo, GPT-4.
+- Attack/Defense Techniques: Self-deception attack, semantic firewall.
+- Frameworks Critiqued: Not referenced in this section.
+
+### 3. Main Contributions
+- **Novel Ideas**: This paper presents "self-deception" as a new automatic jailbreak method targeting LLMs.
+- **Key Problems Addressed**: It addresses the inadequacies of current semantic-level defenses against crafted attacks, specifically focusing on the lack of automatic construction methods for jailbreak prompts.
+- **Relation to Existing Work**: It builds upon the idea of semantic-level defenses while challenging their robustness with automated, sophisticated attacks.
+
+### 4. Methods & Approach 
+- **Experimental Setup**: The experiments were conducted on an i9 CPU with 32GB RAM using the OpenAI API for creating test payloads.
+- **Training Details**: Not specified in the provided text.
+- **Datasets Used**: Generated payloads in six languages using three types of violations.
+- **Technical Details**: The semantic firewall is conceptualized as a rule-based system defining violations, where similarity thresholds determine passed or blocked prompts.
+
+### 5. Findings & Empirical Results
+- **Success Rates**: The success rates for the self-deception attack were 86.2% for GPT-3.5-Turbo and 67% for GPT-4.
+- **Evaluation Metrics**: The findings were not explicitly compared to prior benchmarks but indicated higher success rates than existing jailbreak prompts.
+- **Unexpected Results**: The paper notes that despite the defenses, sophisticated methods could still allow violations.
+
+### 6. Implications for LLM Safety
+- **Safety Concerns**: Findings highlight vulnerabilities in LLMs regarding semantics and prompting strategies.
+- **Recommendations**: The work suggests that understanding prompt construction could significantly enhance defenses against jailbreak vulnerabilities in LLMs.
+
+### 7. Missing Information & Caveats
+- **Missing Sections**: Methodology is not fully detailed in the provided text.
+- **Ambiguous Areas**: There is no thorough explanation of the implementation details of the "semantic firewall" or specific experimental parameters in certain sections. The paper also notes the complexity of defining threats accurately across different cultural lines.
+
+
 ### Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench
 #### 1. Summary of this text
 This paper presents PsychoBench, a framework designed to evaluate the psychological portrayal of LLMs through thirteen psychometric scales. The scales are classified into four categories: personality traits, interpersonal relationships, motivational tests, and emotional abilities. The study assesses various LLMs, including text-davinci-003, ChatGPT, GPT-4, and LLaMA-2 models. A unique aspect of this research is the implementation of a jailbreak approach to circumvent safety protocols and explore the intrinsic characteristics of these models. The findings offer insights into the psychological attributes of LLMs and their implications for future AI interactions.
@@ -5006,6 +5239,40 @@ The paper investigates how benign fine-tuning of Large Language Models (LLMs) ca
 ### 7. **Missing Information & Caveats**
 - The extracted text appears to cover a broad range of topics within the paper, but specifics regarding empirical comparisons to prior models or methods may not be fully represented.
 - Additional details on the experimental frameworks, including statistical analysis and dataset content, may also be missing or incomplete.
+### Jailbreaking Safeguarded Text-to-Image Models via Large Language Models
+### 1. Summary of this text
+The paper presents PromptTune, a novel method for jailbreaking safeguarded text-to-image models using a fine-tuned large language model (LLM). It highlights the vulnerabilities of text-to-image models, which can generate harmful content when unsafe prompts are used. PromptTune offers a query-free approach to generate adversarial prompts efficiently after fine-tuning the AttackLLM, bypassing existing safety guardrails. The method is evaluated across multiple datasets and guardrails, demonstrating superior performance compared to traditional query-based attacks.
+
+### 2. Related Metadata
+- Tools/Algorithms created: PromptTune
+- Benchmarks introduced: *Not specified in the provided text.*
+- Codebase/Data URL: *Not mentioned.*
+- Evaluated LLMs: Mistral-7B-Instruct
+- Attack/Defense Techniques: PromptTune, misuse of text-to-image models via unsafe prompts, safety filters, alignment methods, jailbreak attacks (Ring-A-Bell, MMA, SneakyPrompt).
+- Frameworks Critiqued: *Not referenced in this section.*
+
+### 3. Main Contributions
+- The introduction of PromptTune, a query-free jailbreak attack that fine-tunes an LLM to generate adversarial prompts bypassing guardrails of text-to-image models.
+- Construction of a preference dataset and the use of supervised fine-tuning (SFT) and direct preference optimization (DPO) methodologies for optimizing AttackLLM.
+- Benchmark results indicate that PromptTune outperforms current no-box attacks and enhances the effectiveness of existing query-based methods.
+
+### 4. Methods & Approach
+- The framework consists of three components: AttackLLM, a safeguarded text-to-image model, and a Judge for scoring adversarial prompts against the safety guardrails.
+- A preference dataset is built from unsafe prompts, generating pairs of adversarial prompts where the model learns through preference-based fine-tuning.
+- Fine-tuning of AttackLLM focuses on transforming unsafe prompts into effective adversarial prompts while maintaining semantic coherence.
+
+### 5. Findings & Empirical Results
+- Results show that PromptTune can significantly improve bypass rates against safety filters (e.g., rising from 0.09 to 0.70 for the keyword match filter on the Civitai dataset).
+- The utility of images was evaluated through FID scores, with PromptTune generating images that closely reflect the distribution of outputs from unsafeguarded models.
+- Efficiency metrics illustrate substantial reductions in the average number of queries needed to generate adversarial prompts, with PromptTune requiring only one interaction compared to hundreds or thousands for other methods.
+
+### 6. Implications for LLM Safety
+- The study highlights ongoing vulnerabilities in text-to-image models, revealing how adversarial prompting can exploit safety guardrails. 
+- It implies a need for improved alignment and filtering mechanisms to better safeguard against such attacks, potentially incorporating LLM-based frameworks into existing safety protocols.
+
+### 7. Missing Information & Caveats
+- The extracted text from pdf content appears to be incomplete. Additional details regarding specific experimental setups, datasets, or results may be present in the full paper.
+- Some tables referred to are not shown in the extract, limiting the understanding of specific empirical results and comparisons.
 ### Rewrite to Jailbreak: Discover Learnable and Transferable Implicit Harmfulness Instruction
 ### 1. Summary of this text
 This paper presents a novel attack method named Rewrite to Jailbreak (R2J) for Large Language Models (LLMs), focusing on using learnable and transferable harmful instructions to bypass safety measures. The research identifies that simple rewrites of original harmful instructions can succeed in jailbreaking LLMs, offering an automatic and efficient approach without introducing easily identifiable patterns. The authors provide extensive empirical evidence demonstrating R2J's effectiveness across various datasets and models, highlighting its robustness and transferability, and ultimately advocating for improved LLM safety measures.
@@ -5196,6 +5463,44 @@ This paper investigates vulnerabilities in Audio-Language Models (ALMs), particu
 ### 7. **Missing Information & Caveats**  
 - The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper, particularly regarding the detailed statistical models or metrics used in the evaluations, or potential future work directions that could further clarify implications for LLM safety.
 - Aspects such as the effects of different models or modifications in defense approaches are not fully explored in the provided text.
+### REVAL: A Comprehension Evaluation on Reliability and Values of Large Vision-Language Models
+### 1. Summary of this text
+This paper introduces REVAL, a benchmark to evaluate the reliability and values of Large Vision-Language Models (LVLMs) through comprehensive assessments in 144K image-text Visual Question Answering samples. It assesses models on truthfulness, robustness, ethics, safety, and privacy, revealing strengths in perceptual tasks but notable vulnerabilities in adversarial scenarios and ethical reasoning. REVAL provides insights for model improvement and serves as a robust evaluation framework to compare LVLMs systematically. The paper emphasizes the importance of understanding LVLM capabilities comprehensively to foster advancements in their development.
+
+### 2. **Related Metadata**
+- Tools/Algorithms created: *"REVAL benchmark for evaluating the reliability and values of LVLMs."*  
+- Benchmarks introduced: *"REVAL, which includes over 144K image-text VQA samples."*  
+- Codebase/Data URL: *"Not mentioned."*  
+- Evaluated LLMs: *"26 models, including open-source LVLMs and closed-source models like GPT-4o and Gemini-1.5-Pro."*  
+- Attack/Defense Techniques: *"Adversarial attacks, typographic attacks, and image corruption evaluations."*  
+- Frameworks Critiqued: *"Not referenced in this section."*  
+
+### 3. **Main Contributions**  
+- Key contributions include:
+  - The introduction of the REVAL benchmark which encompasses truthfulness, robustness, ethics, safety, and privacy.
+  - Identification of significant vulnerabilities in LVLMs, particularly in adversarial settings, privacy preservation, and ethical reasoning.
+  - Provision of insights that guide the development of more secure, reliable, and ethically aligned LVLMs.
+  
+### 4. **Methods & Approach** 
+- The experimental setup includes:
+  - Two primary sections within the REVAL benchmark: Reliability (truthfulness and robustness) and Values (ethics, safety, privacy).
+  - Utilizes over 144K image-text samples structured for comprehensive evaluations.
+  - Evaluation metrics include perceptual accuracy, hallucination tendencies, adversarial attack resilience, and ethical considerations.
+
+### 5. **Findings & Empirical Results**  
+- Major findings include:
+  - Current LVLMs excel in perceptual tasks but have weaknesses in ethical reasoning and adversarial robustness.
+  - Detailed performance metrics demonstrate varying levels of success across evaluated models, with closed-source models generally outperforming open-source ones in ethical assessments.
+
+### 6. **Implications for LLM Safety**  
+- Findings emphasize the need for enhanced safety protocols in LLMs, especially addressing robustness against adversarial attacks and improving ethical comprehension in model responses. 
+- Recommendations for improving model safety include further research into enhancing privacy preservation mechanisms and ethical design in LVLMs.
+
+### 7. **Missing Information & Caveats**  
+- Missing information includes:
+  - Specific implementation details for the REVAL framework could not be found in the provided text.
+  - There may be additional empirical results or benchmark comparisons not included in this segment of the text.
+- Ambiguous sections may require clarification on how the benchmark was developed beyond what's stated in the current extract.
 ### CCJA: Context-Coherent Jailbreak Attack for Aligned Large Language Models
 #### 1. Summary of this text
 The paper presents a novel jailbreak attack method called Context-Coherent Jailbreak Attack (CCJA) aimed at exploring vulnerabilities in aligned large language models (LLMs). The study identifies the optimization of prompts within the embedding space as a strategic way to balance attack success rates with semantic coherence. Extensive evaluations demonstrate that CCJA not only improves the readability of jailbreak prompts but also enhances success rates when integrated into existing black-box attack methods, revealing the potential security threats that open-source LLMs pose to their commercial counterparts.
@@ -5477,6 +5782,46 @@ The paper introduces the In-Context Adversarial Game (ICAG) as a novel defense m
 #### 7. **Missing Information & Caveats**
 - The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.
 - Specific metrics for evaluating the empirical results beyond JSR, including breakdowns of performance by different models and attacks, were not fully detailed.
+### Detecting LLM-Written Peer Reviews
+#### 1. Summary of this text
+This work addresses the challenge of detecting reviews generated by large language models (LLMs) in academic peer review processes, focusing specifically on lazy reviewing practices, where authors use LLMs instead of writing reviews independently. The authors implement a novel approach involving indirect prompt injection into submission PDFs to embed distinctive watermarks in LLM-generated reviews. They develop statistical tests to maintain bounded family-wise error rates without assumptions about human-written reviews and evaluate various watermarking methods against different reviewer defenses. Their results demonstrate high success rates and resilience against typical reviewer tactics.
+
+#### 2. **Related Metadata**
+- Tools/Algorithms created: Indirect prompt injection methods for watermarking; watermark detection algorithms.
+- Benchmarks introduced: *"Not specified."*  
+- Codebase/Data URL: *"Not mentioned."*  
+- Evaluated LLMs: OpenAI’s ChatGPT 4o, OpenAI’s o1-mini, Google’s Gemini 1.5 Pro, Anthropic’s Claude 3.5 Sonnet, Meta’s Llama 2, LMSYS’ Vicuna 1.5.  
+- Attack/Defense Techniques: Indirect prompt injection, font embedding, jailbreaking, obfuscation techniques.  
+- Frameworks Critiqued: *"Not referenced in this section."*  
+
+#### 3. **Main Contributions**  
+- Novel watermarking schemes for detecting LLM-generated reviews in academic contexts.
+- Statistical tests ensuring family-wise error rate control without reliance on human review assumptions.
+- High success rate of watermark embedding (92% on average) across multiple LLMs.
+- Resilience of watermark detection methods against common reviewer defenses and effective prompt injection strategies.
+
+#### 4. **Methods & Approach**
+- Methodology is not fully detailed in the provided text; however, key techniques include:
+  - Indirectly injecting prompts into submitted PDFs to instruct LLMs to embed watermarks in their reviews.
+  - Utilizing watermarks that are statistically verifiable to detect LLM-generated reviews.
+  - Evaluation of watermark effectiveness via real-world datasets from conferences and grant proposals.
+  - Algorithms for detecting watermarks with formal guarantees on false positive rates and family-wise error rates.
+
+#### 5. **Findings & Empirical Results**  
+- High watermark embedding success rates observed: 92% across multiple models and techniques.
+- Certain watermarks such as random fake citations retained over 94% retention after paraphrasing.
+- Demonstrated that their methods are applicable beyond paper reviews, evidenced by similar results for NSF grant proposals.
+- Achieved 0% false positives in controlled settings with no embedded watermarks.
+
+#### 6. **Implications for LLM Safety**  
+- The findings contribute to ongoing discussions about integrity in peer review processes and the ethical use of LLMs.
+- The work proposes significant detection methodologies that could enhance LLM accountability.
+- Recommendations for maintaining robust detection systems against potential circumventions by automated review systems.
+
+#### 7. **Missing Information & Caveats**  
+- The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.
+- Specific algorithmic details, statistical guarantees, or in-depth empirical results may not be fully captured in this extraction. 
+- Potential limitations or trade-offs regarding the methods or empirical findings are not detailed extensively.
 ### Multilingual Jailbreak Challenges in Large Language Models
 ### 1. Summary of this text
 This study investigates the multilingual jailbreak challenges in large language models (LLMs) and proposes the novel SELF-DEFENCE framework to enhance safety across diverse languages. The research identifies two scenarios regarding risks: unintentional bypass of safety mechanisms by non-English users and intentional attacks using malicious multilingual prompts. Empirical findings indicate that low-resource languages see significantly higher rates of unsafe outputs, particularly in the context of intentional prompts. The proposed framework effectively reduces unsafe content generation in both scenarios, demonstrating the necessity for enhanced multilingual safety measures in LLMs.
@@ -5515,6 +5860,41 @@ This study investigates the multilingual jailbreak challenges in large language 
 ### 7. **Missing Information & Caveats**
 - Methodology is not fully detailed in the provided text regarding the construction of the preliminary dataset and specifics about the evaluation metrics or full experimental setups.
 - The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.
+### MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks
+#### 1. Summary of this text
+The study presents MIRAGE, a novel framework designed to exploit the vulnerabilities of Multimodal Large Language Models (MLLMs) through a narrative-driven approach. It identifies and circumvents safety mechanisms by systematically decomposing toxic queries into environment, role, and action elements, ultimately guiding the model to produce harmful outputs via immersive storytelling. Experimental evaluations reveal MIRAGE outperforms existing jailbreak strategies by achieving up to 17.5% higher attack success rates. The findings underscore significant flaws in current multimodal safety mechanisms, indicating a critical need for reinforced defenses against sophisticated cross-modal attacks.
+
+#### 2. **Related Metadata**
+- Tools/Algorithms created: *MIRAGE, a novel multimodal jailbreak framework.*
+- Benchmarks introduced: *Not specified in the provided text.*
+- Codebase/Data URL: *Not mentioned.*
+- Evaluated LLMs: *LLaVa-Mistral, Qwen-VL, Intern-VL, Gemini-1.5-Pro, GPT-4V, Grok-2V.*
+- Attack/Defense Techniques: *MIRAGE (narrative-driven multimodal jailbreak), role immersion.*
+- Frameworks Critiqued: *Not referenced in this section.*
+
+#### 3. **Main Contributions**
+- The paper introduces MIRAGE as the first narrative-driven multimodal jailbreak framework.
+- It addresses weaknesses in existing systems by demonstrating how storytelling can activate biases and lead models to break ethical constraints.
+- MIRAGE improves upon past work by presenting significant advancements in attack success rates in various real-world scenarios, highlighting limitations in multimodal safety strategies.
+
+#### 4. **Methods & Approach**
+- **Key Techniques**: MIRAGE employs a two-stage process: multi-turn visual storytelling and role immersion.
+- **Experimental Setups**: Queries are transformed into visual narratives using semantic decomposition. Two components (environment, character, activity) are generated and sequentially presented to the model.
+- **Technical Details**: The success of MIRAGE is quantified using the Attack Success Rate (ASR), measured using Perspective API for evaluating harmful outputs.
+- *Formulas/Mathematical Models*: The structural transformation of the query (D(Q) →(E, C, A)) is defined and its effects on model defense are analyzed.
+
+#### 5. **Findings & Empirical Results**
+- MIRAGE overall achieves a state-of-the-art performance improvement by up to 17.5% compared to other baselines.
+- Its effectiveness is validated through extensive evaluations on the RedTeam-2K and HarmBench datasets.
+- Detailed performance metrics highlight that MIRAGE surpasses other methods across multiple models, maintaining robustness even in black-box attack scenarios.
+
+#### 6. **Implications for LLM Safety**
+- The findings reveal critical vulnerabilities in current multimodal safety defenses, indicating that traditional filtering methods may not adequately protect against narrative-based attacks.
+- Recommendations for improving safety mechanisms include the development of enhanced detection strategies and the integration of semantic analysis for better handling of multimodal inputs.
+
+#### 7. **Missing Information & Caveats**
+- The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.
+- Detailed summaries of the datasets used and specific model configurations in evaluations could further clarify empirical results.
 ### QROA: A Black-Box Query-Response Optimization Attack on LLMs
 ### 1. Summary of this text
 The text introduces the Query-Response Optimization Attack (QROA), a black-box attack on large language models (LLMs) to generate harmful content. QROA utilizes token-level optimization to discover effective suffixes that, when appended to malicious instructions, compel LLMs to follow requests without refusal. This method operates through the standard query-response interface without requiring access to model internals or human-crafted templates. The authors tested QROA on various models achieving over 80% Attack Success Rate (ASR) and demonstrated its effectiveness against even models designed to resist such attacks. The paper provides insights into a promising method for auditing LLM safety.
@@ -5731,6 +6111,43 @@ The text introduces EEG-Defender, a novel defense mechanism aimed at Large Langu
 - Future work on multi-turn jailbreaking attacks is not detailed, as well as specific experimental configurations for certain models.
 
 
+### Align in Depth: Defending Jailbreak Attacks via Progressive Answer Detoxification
+### 1. Summary of this text
+The paper introduces DEEPALIGN, a novel defense framework for large language models (LLMs) against jailbreak attacks, which prompt LLMs to generate toxic responses. Traditional methods struggle due to their reliance on early token generation and limited computational budget. DEEPALIGN enhances safety by fine-tuning LLMs to progressively detoxify content throughout the generation process, using a hybrid loss function to improve the model's awareness of harmful intents. Evaluations demonstrate significant reductions in attack success rates across various vulnerabilities while maintaining performance in generating user-utility responses. 
+
+### 2. Related Metadata
+- **Tools/Algorithms created**: DEEPALIGN framework for fine-tuning LLMs against jailbreak attacks.
+- **Benchmarks introduced**: Not specified.
+- **Codebase/Data URL**: Not mentioned.
+- **Evaluated LLMs**: Llama-3-8B-Instruct, Llama-2-7B-Chat.
+- **Attack/Defense Techniques**: Jailbreak attacks, Code Attack, DRA, Cipher Chat, GCG, FLRT, SCAV.
+- **Frameworks Critiqued**: Circuit Breaker.
+
+### 3. Main Contributions
+- Identifies a critical vulnerability in LLMs' reliance on initial tokens for decision-making during prompt response, highlighting the importance of context in harmful content detection.
+- Proposes a novel fine-tuning approach leveraging a hybrid loss function to detoxify harmful content progressively, improving safety without sacrificing model utility.
+- Expands the definition of safe responses to facilitate the generation of semantically relevant answers instead of merely refusing harmful queries, thus enhancing robustness against adversarial attacks.
+
+### 4. Methods & Approach
+- DEEPALIGN utilizes a two-phase approach: automatic dataset generation from harmful queries leading to safe responses, followed by model fine-tuning based on a hybrid loss function.
+- **Loss Function**: Comprises Detoxify Loss, focusing on steering hidden states towards safe regions, and Retain Loss, which preserves benign response behaviors.
+- Works on hidden states extracted from LLMs to increase awareness of harmful prompts throughout the autoregressive generation process.
+- **Framework**: Uses models with 32 layers, fine-tuning layers 21-30 to mitigate harmful influences while maintaining performance.
+
+### 5. Findings & Empirical Results
+- DEEPALIGN achieves state-of-the-art defense performance, significantly reducing attack success rates by up to two orders of magnitude across multiple attack types.
+- The approach maintains usability metrics, with minimal impact on the quality of benign responses when evaluated using AlpacaEval and OR-Bench.
+- Experiments reveal robust defensive capabilities against adaptive attacks and highlight the challenges faced by existing models in distinguishing benign from malicious prompts.
+
+### 6. Implications for LLM Safety
+- The findings improve safety by confirming that early decision-making in LLMs heavily influences harmful content generation, suggesting the need for continuous oversight throughout the generation process.
+- Recommendations include redefining safe responses to extend beyond mere refusals, enabling models to generate contextually appropriate outputs in response to harmful prompts.
+
+### 7. Missing Information & Caveats
+- Not fully specified are the datasets used for evaluation and any potential trade-offs between model utility and defense effectiveness.
+- Performance comparisons with other safety alignment methods were qualitative rather than quantitative, needing further empirical assessments.
+
+
 ### RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent
 #### 1. Summary of this text
 The paper presents "RedAgent," a multi-agent system designed to enhance the red teaming process for Large Language Models (LLMs) by generating context-aware jailbreak prompts. Many conventional methods overlook unique vulnerabilities among LLMs across various scenarios. RedAgent addresses this by modeling existing attack strategies into a unified framework, improving prompt generation efficiency. Experiments indicate that RedAgent can efficiently jailbreak numerous black-box LLMs with fewer queries, significantly outperforming existing methods. Additionally, it identifies severe vulnerabilities in LLM-integrated applications, demonstrating that such systems are more susceptible to jailbreaking than foundational models.
@@ -5871,6 +6288,42 @@ The paper "On Calibration of LLM-based Guard Models for Reliable Content Moderat
 - Missing sections could include specific model architectures or detailed display comparisons of performance metrics across individual guard models.
 - Areas requiring further clarity involve how the calibration techniques were specifically implemented and the extent to which they improved the performance metrics. 
 - The extracted text appears to be complete, but details about datasets and their specific amounts and configurations may be less detailed in some segments. Further investigation into the full document may provide additional context.
+### STShield: Single-Token Sentinel for Real-Time Jailbreak Detection in Large Language Models
+### 1. Summary of this text
+This paper introduces STShield, a novel lightweight framework for real-time detection of jailbreak attacks on large language models (LLMs). By implementing a single-token sentinel mechanism, STShield appends a binary safety indicator to the model’s response, utilizing the model’s alignment capabilities for efficient detection. The framework employs a combined approach of supervised fine-tuning on normal prompts along with adversarial training, ensuring robust performance against jailbroken inputs while maintaining model utility. Extensive experimental results indicate that STShield exhibits superior defense capabilities compared to existing methods, with minimal computational overhead, making it a practical solution for LLM safety.
+
+### 2. Related Metadata
+- Tools/Algorithms created: STShield, a framework for jailbreak detection.
+- Benchmarks introduced: Not specified.
+- Codebase/Data URL: Not mentioned.
+- Evaluated LLMs: Llama-27B-Chat, Vicuna-13B v1.5, LLaMA-2-7B-Chat.
+- Attack/Defense Techniques: Jailbreak detection, single-token sentinel mechanism, supervised fine-tuning, adversarial training.
+- Frameworks Critiqued: Various existing defense methods like SmoothLLM, Llama Guard, Self-Reminder.
+
+### 3. Main Contributions
+- A novel **single-token detection mechanism** that integrates with existing LLM architectures for real-time jailbreak detection.
+- **Adaptive adversarial training framework** that improves identification of sophisticated jailbreak attempts while maintaining normal functionality.
+- Empirical evaluations demonstrating **top-tier defense performance** while significantly reducing computational overhead compared to alternative methods.
+
+### 4. Methods & Approach
+- **Target Model**: The paper primarily focuses on autoregressive LLMs that predict the next token based on the previous sequence.
+- **Supervised Fine-Tuning**: Fine-tuning is applied on normal prompts ensuring correct response classifications as “safe”.
+- **Adversarial Training**: Employs embedding-space perturbations to evaluate harmful instructions with a safety token indicating successful jailbreak attempts.
+- **Inference Mechanism**: Appends a safety token to classify model responses during inference as “safe” or “harm”.
+
+### 5. Findings & Empirical Results
+- STShield significantly **reduces the Attack Success Rate (ASR)** under various adaptive jailbreak attack scenarios, with observed reductions from 100% to as low as 12% in certain cases.
+- Experimental results show STShield not only enhances defense against jailbreak prompts but also maintains improved performance on normal queries (ASR of 91.43% for AlpacaEval).
+- The addition of STShield introduces **minimal latency** compared to existing defense mechanisms.
+
+### 6. Implications for LLM Safety
+- STShield's findings suggest a feasible approach to **mitigating jailbreak vulnerabilities**, addressing safety concerns such as robustness and adversarial robustness.
+- Recommendations include maintaining model utility in tandem with security measures, crucial for real-world applications involving LLMs.
+
+### 7. Missing Information & Caveats
+- Specific benchmarks and codebase or data locations are not provided.
+- The text does not offer empirical results for all metrics, and details about any potential user studies or broader implications outside experimental setups remain unspecified.
+- *"The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper."*
 ### The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1
 #### 1. Summary of this text
 The paper presents a safety assessment of large reasoning models, specifically analyzing the open-source DeepSeek-R1 and its compliance with safety regulations. Using established safety benchmarks, the authors evaluate these models' susceptibility to adversarial attacks, uncovering significant safety gaps compared to proprietary models like OpenAI's o3-mini. The insights reveal that deeper reasoning capabilities may inadvertently increase safety risks. The authors propose enhancements to safety alignment and advanced training strategies, emphasizing the need for further research to mitigate risks associated with reasoning in AI models.
@@ -6406,6 +6859,43 @@ Detailed transformation methods, formalization of snapshots in the generative pr
 - The extracted text does not provide detailed empirical results supporting claims beyond the ASR comparisons. 
 - Missing specifications regarding datasets used for training or models' architectures in the experimental setups.
 - The text appears to be incomplete, particularly sections discussing conclusions and future research directions. Further context may clarify broader implications.
+### SRMIR: Shadow Reward Models Based on Introspective Reasoning for LLM Alignment
+#### 1. Summary of this text
+The paper presents a novel method, SRMIR (Shadow Reward Models Based on Introspective Reasoning), aimed at improving the alignment of large language models (LLMs) with human values. It addresses three main limitations of current alignment techniques: reliance on expensive human annotations, alignment tax, and vulnerability to jailbreak attacks. The proposed approach constructs a balanced safety dataset across seven harmful categories utilizing LLMs' introspective reasoning capacity. By employing specialized shadow reward models trained via inverse reinforcement learning and optimizing policies through Group Relative Policy Optimization (GRPO), SRMIR demonstrates exceptional performance in LLM alignment compared to existing methods.
+
+#### 2. **Related Metadata**
+- Tools/Algorithms created: *"SRMIR (Shadow Reward Models Based on Introspective Reasoning) and Shadow Reward-learning Fine-Tune (SRFT)."*
+- Benchmarks introduced: *"Not specified."*
+- Codebase/Data URL: *"Not mentioned."*
+- Evaluated LLMs: *"Qwen1.5-7b, Llama2-7b, Chatglm3-6b, Baichuan2-7b."*
+- Attack/Defense Techniques: *"Jailbreak attacks, adversarial suffixes."*
+- Frameworks Critiqued: *"Not referenced in this section."*
+
+#### 3. **Main Contributions**
+- **Novel Ideas/Insights:** Introduction of SRMIR leveraging introspective reasoning and categorized shadow reward models for improved LLM alignment.
+- **Key Problems Addressed:** The method tackles the limitations of current alignment techniques such as high costs of human annotation, performance trade-offs, and vulnerability to jailbreak attacks.
+- **Building on Past Work:** It builds upon existing concepts of shadow models in membership inference attacks and incorporates structured safety dataset construction, addressing the pitfalls of imbalanced datasets seen in previous alignment methods.
+
+#### 4. **Methods & Approach**
+- The methodology includes constructing a balanced safety reasoning dataset addressing seven harmful categories, leveraging LLMs' introspective reasoning.
+- Reward models are trained for each category using inverse reinforcement learning, integrated for policy optimization via GRPO.
+- **Technical Details:**
+  - **Dataset Construction:** A balanced dataset with harmful instructions organized into categories to facilitate effective training.
+  - **Training:** Uses inverse reinforcement learning defined by maximum likelihood optimization.
+  - **Integration Strategies:** Two strategies explored - linear combination of reward scores and a categorized approach where data is processed by individual reward models.
+
+#### 5. **Findings & Empirical Results**
+- Experimental results indicate that SRMIR achieves an average improvement of over 4% in safety on the AdvBench dataset compared to baseline methods.
+- **Metrics Used:** Attack failure rate via Greedy Coordinate Gradient (GCG) to assess safety of LLM outputs against adversarial attacks.
+
+#### 6. **Implications for LLM Safety**
+- The findings suggest substantial enhancements in LLM safety through improved alignment techniques, addressing robustness against harmful outputs.
+- The structured approach to dataset construction may contribute to more reliable model responses, potentially guiding future alignment methodologies.
+
+#### 7. **Missing Information & Caveats**
+- The extracted text lacks detailed descriptions of datasets and potential qualitative results. 
+- While the performance metrics are mentioned, specific numerical comparisons or trade-offs related to computational costs are not fully detailed.
+- *"The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper."*
 ### Jailbreaking to Jailbreak
 #### 1. Summary of this text
 This paper presents a novel approach to red teaming Large Language Models (LLMs) through a technique termed "jailbreaking-to-jailbreak" (J2). The authors detail how human red teamers can convert refusal-trained LLMs into J2 attackers that can overcome their own safeguards or those of other models. Their experiments demonstrate that models like Sonnet-3.5 and Gemini 1.5-pro achieve high attack success rates against other LLMs, underscoring a critical vulnerability in LLM safety mechanisms. The paper highlights the implications of this new failure mode and the need for improved safety protocols in LLM deployment.
@@ -6654,6 +7144,45 @@ This text details a study on jailbreak attacks targeting large language models (
 - The analysis is limited by a constrained dataset and testing conditions, with prompts only run once, which may affect variability in results.
 - There is no specification on the precise methodologies or conditions under which guardrails failed in the experiments, which are crucial for understanding limitations.
 - The extracted text appears to be incomplete. Additional details may be present in the full paper.
+### CeTAD: Towards Certified Toxicity-Aware Distance in Vision Language Models
+#### 1. Summary of this text
+This paper presents CeTAD, a novel framework aimed at enhancing the robustness of vision-language models (VLMs) against jailbreak attacks. It introduces a new distance metric that quantifies semantic discrepancies between malicious and intended responses, improving upon existing measures like cosine similarity. The framework incorporates a regressed certification method using randomized smoothing to provide formal robustness guarantees against adversarial and structural perturbations. Additionally, it employs feature-space defenses that apply noise distributions in latent embeddings to mitigate threats. The findings indicate that this approach can significantly boost the trustworthiness of VLMs amid potential threats.
+
+#### 2. Related Metadata
+- Tools/Algorithms created: *"A universal certified defense framework for VLMs, incorporating a toxicity-aware distance metric and randomized smoothing."*  
+- Benchmarks introduced: *"Not specified."*  
+- Codebase/Data URL: *"Not mentioned."*  
+- Evaluated LLMs: *"MiniGPT-4 (Vicuna-13B) is used for evaluations."*  
+- Attack/Defense Techniques: *"Prompt optimization, natural language feedback, response evaluation-based defenses, prompt perturbation-based defenses, and feature-space defenses."*  
+- Frameworks Critiqued: *"Various existing VLM defense mechanisms."*  
+
+#### 3. Main Contributions 
+- Novel ideas/insights introduced: *"A toxicity-aware distance metric that better captures semantic differences between malicious and intended responses."*  
+- Key problem(s) addressed: *"Robustness of VLMs against malicious jailbreak prompts."*  
+- Comparison to existing work: *"Existing defenses rely primarily on heuristics and lack formal guarantees, while CeTAD provides certified robustness against adversarial manipulation."*  
+
+#### 4. Methods & Approach 
+- Key techniques/frameworks used: *"A distance metric using responses' toxicity scores and cosine similarity, regressed certification through randomized smoothing, and a feature-space defense employing noise distributions."*  
+- Technical details:
+  - The toxicity-aware distance is defined mathematically as:  
+  \( D(r_{\langle x_E,t\rangle}^{\theta,\tau_1}, r_{th}) = 1 - (\lambda \cdot \Gamma(r_{\langle x_E,t\rangle}^{\theta,\tau_1}) + (1 - \lambda) \cdot C(r_{\langle x_E,t\rangle}^{\theta,\tau_1}, r_{th})) \)  
+- Additional specifics: *"Utilizes randomized smoothing to certified distances under adversarial perturbations and ensures robustness through mathematical thresholds."*  
+- Formal proofs and mathematical models: *"Multiple lemmas defining certification boundaries under ℓ2 and ℓ1 norms."*  
+
+#### 5. Findings & Empirical Results 
+- Major experimental findings: *"The proposed framework significantly outperforms traditional methods in mitigating jailbreak risks."*  
+- Benchmarks/metrics: *"Probabilistic certificates are derived under Gaussian and Laplacian noise distributions."*  
+- Notable results: *"Variance in performance of probabilistic certification across different types of noise, with Laplacian showing consistent robustness."*  
+- Limitations: *"Trade-offs identified in robustness performance based on noise characteristics."*  
+
+#### 6. Implications for LLM Safety 
+- Findings' effect on safety concerns: *"Elevates robustness against adversarial examples, particularly for visual inputs in VLMs."*  
+- Recommendations: *"Implementing the certified defense framework within existing VLMs could enhance their reliability and resistance to jailbreaking."*  
+
+#### 7. Missing Information & Caveats 
+- Missing parts of the paper: *"No data on empirical benchmarks for other methods or comprehensive experimental results on non-targeted attacks."*  
+- Ambiguities: *"The extracted text does not provide complete details on the implementation or performance comparisons with all existing defenses."*  
+
 ### SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain
 ### 1. Summary of this text
 The paper "SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain" presents a systematic analysis of 529 vulnerabilities identified across 75 prominent LLM projects. The study reveals that vulnerabilities are predominantly found in application (50.3%) and model layers (42.7%), primarily due to improper resource control (45.7%) and inadequate neutralization (25.1%). The authors highlight a significant security gap in existing research, which mainly addresses content safety but neglects underlying software vulnerabilities. The study offers actionable insights through a root cause taxonomy and by evaluating fix patterns, contributing to enhanced security measures in the LLM ecosystem.
@@ -7980,6 +8509,44 @@ The paper titled "Defending LLMs against Jailbreaking Attacks via Backtranslatio
 - The extracted text does not detail specific empirical benchmarks or quantitative metrics regarding over-refusal mitigation across different model implementations.
 - Limitations were noted regarding the defense's effectiveness against more sophisticated, stealthy attacks, and potential errors in the backtranslation stage.
 - The effectiveness of the overall model response quality against diverse user prompts lacks complete empirical backing in the provided text.
+### One-Shot is Enough: Consolidating Multi-Turn Attacks into Efficient Single-Turn Prompts for LLMs
+### 1. Summary of this text
+This text discusses a novel method called Multi-turn-to-Single-turn (M2S) that effectively converts multi-turn jailbreak prompts for large language models (LLMs) into single-turn attacks. The authors propose three strategies—Hyphenize, Numberize, and Pythonize—and report that M2S maintains or enhances attack success rates when evaluated against a specific dataset. The findings highlight the ability of single-turn attacks to bypass LLM safeguards, which signals the necessity of reevaluating safety strategies in LLMs due to the compact nature of increasingly sophisticated adversarial attacks.
+
+### 2. **Related Metadata**
+- Tools/Algorithms created: Multi-turn-to-Single-turn (M2S) conversion methods.
+- Benchmarks introduced: The text refers to the Multi-turn Human Jailbreak (MHJ) dataset and the StrongREJECT evaluation system.
+- Codebase/Data URL: *"Not mentioned."*
+- Evaluated LLMs: "GPT-4o-2024-11-20, GPT-4o-mini-2024-07-18, Mistral-7B-Instruct-v0.3, Llama-3-70b-chat-hf."
+- Attack/Defense Techniques: Hyphenize, Numberize, Pythonize.
+- Frameworks Critiqued: *"Not referenced in this section."*
+
+### 3. **Main Contributions**  
+- The first systematic conversion method (M2S) for turning multi-turn jailbreak conversations into single-turn attacks.
+- Evidence that M2S achieves higher Attack Success Rates (ASRs) on LLMs compared to traditional multi-turn prompts.
+- Identification of bypass mechanisms in single-turn prompts that leverage formatting cues to evade detection, challenging existing security measures.
+
+### 4. **Methods & Approach** 
+- Methodology is not fully detailed in the provided text.
+- Key techniques include three M2S strategies: 
+  - **Hyphenize:** Formats prompts as a bullet-pointed list.
+  - **Numberize:** Formats prompts using numerical indices.
+  - **Pythonize:** Utilizes a code-like structure to encapsulate prompts.
+- Evaluation metrics include Average StrongREJECT Score, ASR, and Perfect-ASR.
+
+### 5. **Findings & Empirical Results**  
+- The provided text reports various numerical results:
+  - M2S methods achieved ASRs up to 95.9% on Mistral-7B and up to 89.0% on GPT-4o.
+  - Increases in ASR after conversion from multi-turn prompts to single-turn formats.
+  - The Perfect ASR metric exhibits significant improvement for models when adopting M2S.
+
+### 6. **Implications for LLM Safety**  
+- Findings suggest that LLMs are vulnerable to consolidated single-turn manipulations, indicating potential weaknesses in current guardrails.
+- Recommendations for reinforcing LLM safety mechanisms, particularly against structured input formats that may hide harmful content.
+
+### 7. **Missing Information & Caveats**  
+- The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.
+- Specifics regarding the underlying dataset characteristics, additional evaluation methodologies, or comprehensive discussions of results are not fully explored in the provided text.
 ### GuidedBench: Equipping Jailbreak Evaluation with Guidelines
 ### 1. Summary of this text
 The text discusses "GuidedBench," a novel evaluation framework for assessing jailbreak methods in large language models (LLMs). This framework aims to address the limitations of existing benchmarks by introducing a curated dataset of harmful questions and case-by-case evaluation guidelines, leading to more reliable and interpretable scores. The paper presents empirical results demonstrating that methods previously claiming high success rates performed significantly lower when evaluated using GuidedBench, highlighting its effectiveness in providing a clearer understanding of jailbreak attacks and their impact on LLM safety.
@@ -8014,6 +8581,42 @@ The text discusses "GuidedBench," a novel evaluation framework for assessing jai
 - The provided text does not cover potential applications of the framework beyond the reported experimental results.
 - Some sections may lack comprehensive detail about all evaluated jailbreak methods and their specific classifications.
 - The extracted text appears to be incomplete. Additional details may be present in the full paper.
+### Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts
+#### 1. Summary of this text
+This paper presents CodeJailbreaker, a novel jailbreaking technique for LLM-based code generation that exposes safety vulnerabilities by encoding malicious intents implicitly within benign instructions. The study critiques conventional safety mechanisms that rely on explicit malicious prompts and showcases through experiments on the RMCBench benchmark that CodeJailbreaker significantly outperforms existing jailbreaking strategies across various code generation tasks. This research emphasizes the urgent need for improved safety protocols in LLMs to protect against implicit malicious cues that can evade traditional defenses. The findings reveal serious challenges in LLM safety during code generation.
+
+#### 2. **Related Metadata**
+- Tools/Algorithms created: CodeJailbreaker
+- Benchmarks introduced: RMCBench
+- Codebase/Data URL: *"Not mentioned."*
+- Evaluated LLMs: DeepSeek-V3, GPT-4, Qwen-plus, Claude-3.5, Gemini-2, CodeLlama-13B, DeepSeek-Coder-7B
+- Attack/Defense Techniques: Implicit malicious prompts, explicit malicious prompts, software evolution simulation
+- Frameworks Critiqued: *"Not referenced in this section."*
+
+#### 3. **Main Contributions**  
+- Novel ideas/insights: Introducing implicit malicious prompts that encode malicious intent covertly instead of explicitly, advancing the methodologies for jailbreaking LLMs in code generation tasks.
+- Key problem(s) addressed: Uncovering safety issues in LLMs used for code generation and challenging the reliance on explicit prompts for safety mechanisms.
+- Building upon / challenging existing work: Challenges previous safety paradigms by demonstrating that benign instructions can still lead to malicious outputs through implicit cues.
+
+#### 4. **Methods & Approach** 
+- Experimental setup: Large-scale experiments to evaluate jailbreak effectiveness on RMCBench, examining three code generation tasks—text-to-code, function-level completion, block-level completion.
+- Technical details: Utilized conventional LLMs to assess Attack Success Rate (ASR) and Malicious Ratio (MR). Specific design of implicit prompts that disguise malicious intent by mimicking software evolution processes.
+- Mathematical models or theoretical contributions: *"Not specified in the provided text."*
+
+#### 5. **Findings & Empirical Results**  
+- Major experimental findings: CodeJailbreaker achieves an average ASR of 79.12% and MR of 64.76% across evaluated models, surpassing baseline methods significantly.
+- Benchmarks/metrics used: Attack Success Rate (ASR), Malicious Ratio (MR), categorized responses as GOOD, BAD, or UNCLEAR.
+- Notable trade-offs, limitations, or unexpected results: CodeLlama-13B and DeepSeek-Coder-7B were less affected by jailbreaking than general LLMs, indicating robust defenses in code-focused models.
+
+#### 6. **Implications for LLM Safety**  
+- The findings signify that current safety measures are inadequate against implicit adversarial inputs, indicating a need for models to evolve beyond instruction-following paradigms.
+- Recommendations include strengthening safety mechanisms in LLMs to better detect and prevent subtle malicious cues during code generation.
+
+#### 7. **Missing Information & Caveats**  
+- Missing sections: Specific details about the results and metrics regarding future work or larger evaluations across programming languages.
+- Amiguities: The text references potentially harmful outcomes and ethical considerations but does not elaborate on specific responsible AI practices tied to the research.
+
+
 ### Granite Guardian
 #### 1. Summary of this text
 The text provides an overview of the Granite Guardian models, which are designed to enhance risk detection for prompts and responses generated by large language models (LLMs). It details their comprehensive coverage of diverse risks including social bias, profanity, violence, and others, by using a dataset created from both human annotations and synthetic examples. With high AUC scores, Granite Guardian aims to improve AI safety across the community. The introduction highlights the importance of transparent, high-performance detection models in ensuring the responsible deployment of LLMs, further establishing the complex need for such error-prevention mechanisms.
@@ -8278,7 +8881,7 @@ The text presents a study on a novel black-box method for executing jailbreak at
 - The extracted text lacks extensive detail on empirical comparisons with other black-box attack methods outside of the specific empirical results shared.  
 - It does not define the specific dataset used in full detail, nor does it elaborate on the settings of LLMs outside of their versions.  
 - The results and ongoing performance of the proposed method under varied conditions and additional updates were not fully captured, suggesting that insights into future robustness assessments remain to be seen.
-### IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves
+### IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves
 ### 1. Summary of this text
 - The paper introduces IDEATOR, a novel method for conducting jailbreak attacks on Vision-Language Models (VLMs), leveraging their own capabilities to generate malicious image-text pairs autonomously. IDEATOR achieves effective black-box attacks, recorded a 94% success rate in jailbreaking MiniGPT-4 with minimal query requirements, and demonstrates high transferability to other models like LLaVA and InstructBLIP. This work identifies vulnerabilities in VLMs under black-box conditions, underscoring the necessity for enhanced safety mechanisms. The authors plan to open-source the IDEATOR code to further research in VLM safety.
 
@@ -8389,6 +8992,40 @@ The paper presents a novel jailbreak attack on Large Language Models (LLMs) name
 ### 7. **Missing Information & Caveats**
 - Missing sections: Experimental results and detailed numerical findings of the effectiveness of the Contextual Interaction Attack across different models absent from the provided text.
 - Ambiguities: Detailed evaluation or broader implications beyond immediate safety concerns may require further exploration in supplementary sections not provided in this excerpt.
+### Dialogue Injection Attack: Jailbreaking LLMs through Context Manipulation
+#### 1. Summary of this text
+The paper introduces the Dialogue Injection Attack (DIA), a novel method that leverages historical dialogue manipulation to enhance jailbreak attack success on large language models (LLMs). Traditional approaches have primarily focused on single-turn interactions, but DIA demonstrates significant effectiveness by exploiting chat histories. The work includes two specific methods: Diaz-I and DIA-II, which adapt prefilling attacks and deferred responses respectively. Empirical results show that DIA achieves a high attack success rate, bypassing multiple defenses, thus underscoring the necessity for improved safety measures and considerations of dialogue history in LLM security.
+
+#### 2. **Related Metadata**
+- Tools/Algorithms created: *Dialogue Injection Attack (DIA), DIA-I, DIA-II*
+- Benchmarks introduced: *AdvBench, HExPHI, MaliciousInstruct*
+- Codebase/Data URL: *"https://github.com/meng-wenlong/DIA"*
+- Evaluated LLMs: *Llama-2, Llama-3, Llama-3.1, Gemma-2, Qwen-2, GPT-4o*   
+- Attack/Defense Techniques: *Dialogue Injection, Gray-box Prefilling Attacks, Deferred Responses, Template Inference Attack, Hypnosis, System Prompt Replacement, Answer Guidance*
+- Frameworks Critiqued: *"Not referenced in this section."*
+
+#### 3. **Main Contributions**
+- The paper presents DIA, which is the first to utilize historical dialogues to enhance jailbreak attacks, thereby addressing a gap in previous research that mainly focused on single-turn contexts.
+- The new attack paradigm leverages the structure of chat templates to inject fabricated dialogues into the input.
+- Includes two methods for constructing adversarial dialogues (DIA-I and DIA-II) that improve attack success rates, even under black-box conditions and against various defenses.
+
+#### 4. **Methods & Approach**
+- The methodology involves manipulating dialogue history through two primary methods:
+   1. **DIA-I**: Utilizes prefilling attacks where affirmative beginnings are strategically added to responses to encourage LLMs to provide harmful content.
+   2. **DIA-II**: Focuses on deferring the model’s responses to ensure malicious content appears with a higher likelihood, by employing word substitution methods.
+- Empirical evaluation uses three benchmarks, focusing on metrics such as Attack Success Rate (ASR).
+
+#### 5. **Findings & Empirical Results**
+- DIA-I achieves attack success rates of 0.89 on Llama-3.1-8B and 0.82 on GPT-4o under AdvBench evaluations.
+- Both DIA-I and DIA-II demonstrate superior ASRs compared with four existing state-of-the-art attacks, indicating enhanced robustness and effectiveness against various defenses.
+
+#### 6. **Implications for LLM Safety**
+- The findings emphasize the need for LLM developers to account for dialogue history in safety alignment and robustness measures.
+- Demonstrates significant gaps in current defense mechanisms which can be bypassed by exploiting historical context, further necessitating the development of multi-turn interaction safeguarding strategies.
+
+#### 7. **Missing Information & Caveats**
+- The extracted text focuses primarily on describing the attack methodologies and empirical results but lacks comprehensive details on the theoretical foundations or supplementary analysis.
+- The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper regarding specific experiments and a deeper analysis of experimental constraints.
 ### Rapid Response: Mitigating LLM Jailbreaks with a Few Examples
 #### 1. Summary of this text
 The paper introduces "Jailbreak Rapid Response," an innovative approach to enhance the defenses of large language models (LLMs) against jailbreak attacks. Rather than striving for perfect robustness, the authors advocate for a dynamic response system that quickly adapts to observed jailbreak strategies. They propose a new benchmark, RapidResponseBench, to evaluate various rapid response methods. The study demonstrates that their most effective method, which fine-tunes an input classifier, achieves significant reductions in attack success rates, indicating the promise of quick adaptations in mitigating misuse risks from powerful LLMs.
@@ -8637,6 +9274,50 @@ The text introduces the Mixture of insighTful Experts (MoTE), a framework design
 ### 7. Missing Information & Caveats
 - The extracted text does not detail specific benchmarks against prior works comprehensively and lacks descriptions of empirical methodologies underlapped. 
 - *"The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper."* 
+### EmojiPrompt: Generative Prompt Obfuscation for Privacy-Preserving Communication with Cloud-based LLMs
+#### 1. Summary of this text
+The text presents "EmojiPrompt", a novel paradigm aimed at obfuscating private data for privacy-preserving communication when utilizing cloud-based Large Language Models (LLMs). EmojiPrompt applies generative transformations by replacing sensitive information in prompts with linguistic and non-linguistic symbols, effectively masking user data before submission. Evaluations across eight diverse datasets demonstrate that this paradigm successfully preserves or even enhances performance compared to unobfuscated inputs. Furthermore, the method's atomic-level obfuscation ensures it operates solely with cloud-based LLMs, addressing essential privacy concerns and preventing potential data breaches.
+
+#### 2. Related Metadata
+- Tools/Algorithms created: EmojiPrompt
+- Benchmarks introduced: *"Not specified."*  
+- Codebase/Data URL: [GitHub - EmojiCrypt](https://github.com/agiresearch/EmojiCrypt)
+- Evaluated LLMs: "GPT-4 Turbo", "Gemini 1.0 Pro", "Llama 3.1 (8B)".
+- Attack/Defense Techniques: “simulated inference attacks”
+- Frameworks Critiqued: *"Not referenced in this section."*  
+
+#### 3. Main Contributions
+- Novel insights introduced include:
+  1. Utilization of pre-trained LLMs for generative obfuscation of prompts.
+  2. Integration of linguistic and non-linguistic symbols for enhanced data privacy.
+  3. Atomic-level obfuscation providing security against internal and external data leaks.
+- Key problems addressed involve significant privacy risks associated with LLM use in confidential settings.
+- It improves upon existing methods by obviating the need for accessing LLM internal weights and local model tuning.  
+
+#### 4. Methods & Approach 
+- The EmojiPrompt methodology involves two LLMs: LLMO for obfuscation and LLMI for inference. The obfuscation process transforms text based on a task-specific instruction.
+- The process can be outlined mathematically:
+  - Obfuscation: \( LLMO(ot, x) = x' \)
+  - Inference: \( LLMI(tpt, St, ui) = y \), where \( y \in St \).
+- Key techniques include atomic-level obfuscation splitting data into manageable units, obfuscating them, and later reconstructing them to prevent data leakage. 
+- Evaluation utilizes metrics like accuracy, balanced accuracy, hit rate, and cosine similarity across various datasets.
+
+#### 5. Findings & Empirical Results
+- The results show that EmojiPrompt maintains effective performance across eight datasets; performance metrics often matched or surpassed those of the unobfuscated prompts.
+- Notable performance indicators include improvements in several datasets despite obfuscation:
+  - Certain configurations of obfuscated prompts resulted in similar or higher accuracy compared to unobfuscated versions,
+  - Performance against baseline obfuscation techniques showcased the strength of EmojiPrompt.
+- The text does not contain detailed empirical results or numerical values on obfuscation metrics.
+
+#### 6. Implications for LLM Safety
+- The findings suggest significant advancements in improving data privacy without sacrificing model performance, thus addressing safety concerns about data leakage in LLM interactions.
+- Recommendations for enhancing LLM safety involve adopting obfuscation strategies such as those proposed in EmojiPrompt, decreasing users' hesitance to engage with cloud-based LLMs.
+
+#### 7. Missing Information & Caveats
+- The extracted text from pdf content appears to be incomplete. Specific details about empirical results, including numerical metrics, and additional datasets may be present in sections not included in the provided text. 
+- Some methodologies, particularly the execution of specific evaluations and implementation specifications, are not fully detailed. 
+
+Overall, thorough examination of the methodology and findings reflects significant contributions to LLM safety through innovative privacy-preserving techniques.
 ### EasyJailbreak: A Unified Framework for Jailbreaking Large Language Models
 #### 1. Summary of this text
 The text elaborates on "EasyJailbreak," a unified framework designed to facilitate the construction and evaluation of jailbreak attacks against large language models (LLMs). It outlines the four core components of the framework: Selector, Mutator, Constraint, and Evaluator, which together allow researchers to construct and evaluate various jailbreaking methods efficiently. Validation results indicate a concerning average attack success rate of 60% across 10 LLMs, including advanced models like GPT-3.5-Turbo and GPT-4. The framework is modular, supporting 11 distinct jailbreak methods and various model compatibilities, alongside resources for researchers.
@@ -8852,6 +9533,40 @@ This paper investigates security vulnerabilities in LLM-based Code Completion To
 ### 7. Missing Information & Caveats  
 - The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.
 - Sections missing include specifics on the experimental setup and detailed results for the evaluation metrics used. Further review of the entire methodology would clarify the overall approach and methods utilized in the study.
+### Guiding not Forcing: Enhancing the Transferability of Jailbreaking Attacks on LLMs via Removing Superfluous Constraints
+### 1. Summary of this text
+This study explores the concept of enhancing the transferability of jailbreaking attacks on Large Language Models (LLMs) by addressing superfluous constraints within the optimization process. The authors introduce a novel framework that identifies these constraints, specifically the response pattern and token tail constraints, as barriers to effective transferability. By removing these constraints and employing a "guiding" loss instead of a "forcing" loss, they achieve significant improvements in Attack Success Rate (T-ASR) across various models, with a notable increase from 18.4% to 50.3%. The paper emphasizes the improvements in stability and controllability of attacks as well.
+
+### 2. Related Metadata
+- Tools/Algorithms created: "Guided Jailbreaking Optimization."
+- Benchmarks introduced: "Not specified."
+- Codebase/Data URL: "https://github.com/thu-coai/TransferAttack."
+- Evaluated LLMs: "Llama-3-8B-Instruct, Llama-2-7B-Chat, Gemma-7B-It, Qwen2-7B, Yi-1.5-9B-Chat, Vicuna-7B-v1.5, GPT-3.5-Turbo-0125, GPT-4-1106-Preview."
+- Attack/Defense Techniques: "Gradient-based optimization, heuristic-based algorithms, manually designed jailbreaking attacks."
+- Frameworks Critiqued: "Not referenced in this section."
+
+### 3. Main Contributions
+- **Novel Framework**: Introduces a conceptual framework to elucidate the transferability issues in gradient-based jailbreaking attacks.
+- **Superfluous Constraints**: Identifies response pattern and token tail constraints as core limitations for effective gradient-based jailbreaking.
+- **Guided Jailbreak Attack**: Proposes a new method that removes these constraints, significantly enhancing transferability and controllability of adversarial attacks.
+
+### 4. Methods & Approach
+- **Experimental Setup**: The method evaluates jailbreaking effectiveness using a set of harmful questions and corresponding target outputs from a dataset, Harmbench. 
+- **Training Details**: The training process focuses on optimizing adversarial prompts over 500 steps for a subset of harmful questions.
+- **Technical Details**: The study uses the "guiding" loss to enhance performance by removing unnecessary constraints, while a standard negative log-probability loss function is adapted for optimization.
+
+### 5. Findings & Empirical Results
+- **Attack Success Rate (ASR)**: The proposed method significantly raises T-ASR—improving from 18.4% to 50.3% for Llama-3-8B-Instruct and from 20.5% to 49.9% for Llama-2-7B-Chat.
+- **Source Attack Success Rate**: Improvements in S-ASR from 31.5% to 85.2% demonstrate enhanced stability in generating harmful outputs.
+- **Experimental Metrics**: Tables provide detailed error margins on ASR for source and target models, illustrating improved transferability compared to baseline methods.
+
+### 6. Implications for LLM Safety
+- The findings underscore the importance of reviewing and optimizing constraints in the context of LLM safety, suggesting that removing unnecessary constraints can lead to more robust defenses against malicious inputs.
+- Recommendations for improving LLM safety include focusing on the identification and mitigation of superfluous constraints in model training objectives.
+
+### 7. Missing Information & Caveats
+- The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.
+- Specific evaluations regarding the efficacy of defenses against the proposed jailbreak attacks or the practical implications on real-world systems are not provided in the extracted text.
 ### Enhancing Adversarial Resistance in LLMs with Recursion
 ### 1. Summary of this text
 The text details a project introducing a recursive framework designed to enhance the resistance of Large Language Models (LLMs) to adversarial prompts. It highlights vulnerabilities in current LLM defenses against manipulative inputs and proposes prompt simplification techniques to improve detection and prevention of harmful content. By increasing transparency in interpreting potentially confusing adversarial prompts, the method aims to distinctively identify malicious intent in user inputs. This work addresses critical AI safety concerns as LLMs are increasingly integrated into society.
@@ -9242,6 +9957,47 @@ The paper presents a benchmark for evaluating both the text safety and output ro
 
 #### 7. **Missing Information & Caveats**  
 - The extracted text appears to be incomplete. Additional details may be present in the full paper. Not all methods, metrics, and examples of the dataset construction and analysis are fully specified.
+### JBFuzz: Jailbreaking LLMs Efficiently and Effectively Using Fuzzing
+#### 1. Summary of this text
+The paper presents JBFuzz, a novel automated red-teaming technique for jailbreaking large language models (LLMs). JBFuzz addresses the limitations of current manual red-teaming approaches by introducing effective seed prompts, a fast synonym-based mutation engine, and an embedding-based evaluator that works within a black-box model. In extensive experiments across nine popular LLMs, JBFuzz achieved a 99% average attack success rate, successfully jailbreaking models such as GPT-3.5 and GPT-4o in an average of 60 seconds per question. The findings indicate a significant vulnerability in state-of-the-art LLMs, even after attempts for safety alignment.
+
+#### 2. **Related Metadata**
+- Tools/Algorithms created: JBFuzz
+- Benchmarks introduced: *"Not specified."*  
+- Codebase/Data URL: *"Not mentioned."*  
+- Evaluated LLMs: GPT-3.5, GPT-4o, GPT-4o-mini, DeepSeek-V3, DeepSeek-R1, Llama2, Llama3, Gemini-2.0, Gemini-1.5  
+- Attack/Defense Techniques: Jailbreaking  
+- Frameworks Critiqued: *"Not referenced in this section."*  
+
+#### 3. **Main Contributions**  
+- **Novel Ideas**: JBFuzz introduces a fuzzing-inspired framework to automate and efficiently explore jailbreak vulnerabilities in LLMs, targeting effectiveness, scalability, and automation.
+- **Key Problems Addressed**: The paper addresses inefficiencies of existing manual red-teaming approaches that are too resource-intensive and not scalable.
+- **Improvements on Past Work**: Compared to previous studies, JBFuzz can effectively bypass LLM safeguards using black-box access, requiring no internal model knowledge while achieving significantly lower additional costs through its operational design.
+
+#### 4. **Methods & Approach** 
+- **Key Techniques**: JBFuzz employs a novel seed prompt generation method, fast synonym-based mutations, and an embedding evaluator.
+- **Technical Details**: 
+  - Seed prompts derived from previous successful prompts but redesigned with new structures.
+  - Fast mutation mechanism using synonym substitution with variable probability controlling semantic changes.
+  - An embedding-based approach for evaluating responses aligned with pre-labeled harmful/unethical content, improving runtime efficiency compared to LLM-based evaluations.
+- **Experimental Setup**: Extensive experiments conducted across nine LLMs, seeking optimal metrics for selector, mutator, and evaluator configurations.
+
+#### 5. **Findings & Empirical Results**  
+- **Major Findings**: JBFuzz achieved a 99% average attack success rate, successfully jailbreaking all but one evaluated LLM within a 2-hour runtime. 
+- **Benchmarks**:
+  - JBFuzz jailbroke the models with an average of 60 seconds per question, leveraging only about 7 queries on average for successful attempts.
+  - Performance metrics include substantial efficiency (94% of runtime spent waiting for LLM responses) and strong effectiveness across multiple models.
+- **Notable Trade-offs**: The method highlights vulnerabilities in advanced LLMs while demonstrating efficient operation within an extensive query limit to test for jailbreaks.
+
+#### 6. **Implications for LLM Safety**  
+- **Safety Concerns**: JBFuzz's findings underscore ongoing vulnerabilities in LLMs, raising concerns about their ability to generate harmful content despite developers’ alignment efforts. 
+- **Recommendations**: The authors suggest JBFuzz as a viable tool for LLM developers to systematically evaluate and improve model safety measures against jailbreaking.
+
+#### 7. **Missing Information & Caveats**  
+- **Missing Parts**: Specific sections detailing benchmarks introduced and a comprehensive comparison against other existing frameworks are not included.
+- **Ambiguous Sections**: Further examination may be required to fully encapsulate the evaluation methods and their potential bias against false positives or negatives in real-world scenarios. 
+
+Overall, the text emphasizes the efficiency and effectiveness of JBFuzz in assessing LLM vulnerabilities, providing a tool for enhancing the safety and reliability of these models.
 ### LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs
 #### 1. Summary of this text
 The text presents LLMStinger, an innovative methodology for generating adversarial suffixes aimed at jailbreaking Large Language Models (LLMs). By employing a reinforcement learning (RL) loop, LLMStinger fine-tunes an attacker LLM to produce suffixes based on harmful questions sourced from the HarmBench benchmark. This technique surpasses existing red-teaming strategies, achieving significant improvements in Attack Success Rate (ASR) across various models. Specifically, LLMStinger enhances ASR by +57.2% on LLaMA2-7B-chat and +50.3% on Claude 2, among others, indicating its effectiveness in navigating and overcoming advanced safety mechanisms.
@@ -9535,6 +10291,43 @@ This paper presents a novel blackbox jailbreak method for Large Language Models 
 - The extracted text does not provide specific numerical comparisons or detailed descriptions of alternative methodologies evaluated against this new approach.
 - There may be additional details, figures, or specific experimental setups not captured in the provided text.
 - The adequacy of the benchmarks used and specific implications for broader LLM deployment are not fully discussed in the given content.
+### Making Every Step Effective: Jailbreaking Large Vision-Language Models Through Hierarchical KV Equalization
+#### 1. Summary of this text
+The paper discusses the effectiveness of jailbreaking large vision-language models (LVLMs) using a novel framework called HKVE (Hierarchical Key-Value Equalization). It addresses a critical limitation identified in existing adversarial optimization approaches, where not all optimization steps yield positive outcomes, potentially decreasing overall attack success. HKVE selectively accepts optimization results to balance attention scores across layers, leading to higher attack success rates—75.08% for MiniGPT4, 85.84% for LLaVA, and 81.00% for Qwen-VL. In addition to improving success rates, HKVE reduces computational costs, emphasizing the importance of methodical optimization in adversarial attacks.
+
+#### 2. Related Metadata
+- Tools/Algorithms created: HKVE (Hierarchical Key-Value Equalization)
+- Benchmarks introduced: MM-SafetyBench
+- Codebase/Data URL: *"Not mentioned."*  
+- Evaluated LLMs: MiniGPT4, LLaVA, Qwen-VL
+- Attack/Defense Techniques: Adversarial jailbreak attacks, gradient-based optimization methods
+- Frameworks Critiqued: *"Not referenced in this section."*  
+
+#### 3. Main Contributions  
+- Introduced a novel jailbreaking method, HKVE, which optimizes adversarial attacks on LVLMs by controlling and assessing attention score distributions.
+- Identified the importance of attention equalization in successful jailbreaks and determined that the most effective attacks utilize balanced attention between meaningful content and prompt bypassing defenses.
+- Empirically demonstrated that HKVE significantly increases attack success rates while reducing the number of iterations required.
+
+#### 4. Methods & Approach  
+- Methodology is not fully detailed in the provided text. However, key techniques include:
+  - Hierarchical Key-Value Equalization focusing on the first two layers of LVLMs.
+  - Iterative optimization involving the calculation of gradients, acceptance of intermediate images based on standardized attention scores, and adaptive acceptance ratios.
+- Significant theoretical contribution includes the examination of attention score distributions as a fundamental component of adversarial attack effectiveness.
+
+#### 5. Findings & Empirical Results  
+- HKVE achieved an attack success rate (ASR) of 75.08% on MiniGPT4, 85.84% on LLaVA, and 81.00% on Qwen-VL.
+- These rates exceeded those of prior methods by 20.43%, 21.01%, and 26.43%, respectively.
+- The results highlight substantial performance improvements on security-critical scenarios, notably boosting ASR from low base rates.
+
+#### 6. Implications for LLM Safety  
+- Findings indicate that improving the effectiveness of each adversarial optimization step enhances the robustness of LVLMs against jailbreaking attacks.
+- There are implications for the safety mechanisms in AI systems, suggesting the need for enhanced defensive strategies that consider attention distributions and jailbreaking vulnerabilities.
+
+#### 7. Missing Information & Caveats  
+- The extracted text from the pdf content appears to be incomplete. Additional details may be present in the full paper.
+- Specific experimental setups, hyperparameters, and potentially broader implications may require further review for clarity. 
+
+This structure captures key elements from the provided text while adhering to strict extraction rules. Key missing information noted may guide further inquiry into the paper’s contributions and findings.
 ### Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks
 ### 1. Summary of this text
 This paper investigates the vulnerability of multilingual Large Language Models (LLMs) to fine-tuning attacks, revealing that safety alignment can be compromised across languages through this method. The authors introduce a technique called Safety Information Localization (SIL) to identify critical safety-related parameters. They demonstrate that fine-tuning on harmful data from one language can degrade safety across multiple languages, highlighting the language-agnostic nature of safety-related information in LLMs. The paper provides empirical evidence supporting the idea of cross-lingual vulnerabilities and alternative pathways that bypass safety measures, confirming the need for robust LLM safety controls.
@@ -9690,6 +10483,46 @@ The paper introduces the **Emoji Attack**, a sophisticated method for enhancing 
 - The extracted text does not provide all technical details regarding the exact experimental setup or datasets used beyond general descriptions.
 - Details on potential defense strategies are mentioned but not elaborated on, indicating that more comprehensive plans may be documented in sections not included in this extraction. 
 - Additional results or methods might be present in the full document but are not captured here.
+### Probing Latent Subspaces in LLM for AI Security: Identifying and Manipulating Adversarial States
+### 1. Summary of this text
+The paper investigates the vulnerability of Large Language Models (LLMs) to prompt injection attacks, specifically "jailbreaking." The authors extract hidden activations and utilize dimensionality reduction techniques to reveal latent subspaces associated with safe and jailbroken states. They hypothesize that these activations enter semi-stable states and can be perturbed to transition to a jailbreak state. Their results demonstrate that targeted perturbations can induce distinct shifts in model responses, offering a pathway for preemptive measures against adversarial states, thus contributing significantly to the field of AI security.
+
+### 2. Related Metadata
+- Tools/Algorithms created: *"Not specified in the provided text."*  
+- Benchmarks introduced: *"Not specified."*  
+- Codebase/Data URL: *"Not mentioned."*  
+- Evaluated LLMs: *"Llama-3.1-8B-Instruct."*  
+- Attack/Defense Techniques: "Prompt injection attacks, targeted perturbations."  
+- Frameworks Critiqued: *"Not referenced in this section."*  
+
+### 3. Main Contributions
+- The novel idea of probing latent subspaces within LLMs to understand and manipulate adversarial states.
+- The identification of a method to derive a perturbation vector that facilitates state transitions from safe to jailbroken.
+- The study addresses the problem of jailbreaking, proposing a proactive approach that shifts from traditional defenses to preemptive interventions.
+- The research builds upon attractor dynamics observed in neuroscience to inform the understanding of LLM dynamics and vulnerabilities.
+
+### 4. Methods & Approach
+- **Key Techniques:** Utilized dimensionality reduction to analyze hidden activations from LLMs.
+- **Activation Extraction:** Extracted activations from a decoder-only LLM (Llama-3.1-8B-Instruct) before generating outputs.
+- **Classification:** Employed a binary SVM classifier to distinguish between safe and jailbroken activations.
+- **Perturbation Methodology:** Developed perturbation vectors from the direction between latent clusters identified through dimensionality reduction.
+- **Mathematical Contributions:** Specific equations to define perturbation vectors and classify activations were provided, such as:
+  - \( \delta^l_{low} = \mu^l_{jailbreak} - \mu^l_{safe} \)
+  - \( x^l_{perturbed} = x^l_{safe} + \alpha \cdot \delta^l_{original} \)
+
+### 5. Findings & Empirical Results
+- **Classification Accuracy:** The post-attention activation layer 9 achieved peak classification performance of 69.4% in distinguishing between safe and jailbreak states.
+- **Perturbation Outcome:** Targeted perturbations resulted in a statistically significant shift from safe to jailbreak for 9 out of 99 prompts (p < 0.05).
+- **Distinct State Changes:** Targeted perturbations led to distinct state shifts observable through dimensionality reduction, while random perturbations did not induce significant jailbreak responses.
+
+### 6. Implications for LLM Safety
+- The findings highlight a novel approach to LLM security that emphasizes proactive defense strategies rather than reactive measures focused solely on filtering inputs.
+- The study indicates that understanding the latent representations and their dynamics can guide the design of interventions that neutralize vulnerabilities inherently present in the model’s architecture.
+
+### 7. Missing Information & Caveats
+- The extracted text does not include some methodological details for breadth or specificity, such as the robustness of the perturbation vector across different datasets or further validation.
+- Specific empirical results on the broader applicability of these findings to different LLM architectures remain unspecified.
+- The portion discussing how the perturbations contribute to enhancing LLM safety could benefit from examples or empirical validation from additional domains.
 ### Robustifying Safety-Aligned Large Language Models through Clean Data Curation
 #### 1. Summary of this text
 This document presents the research on a data curation framework named CTRL, which aims to enhance the safety alignment of large language models (LLMs) by mitigating vulnerabilities to jailbreaking attacks. It addresses two scenarios: harmful text integration in crowdsourced data during pre-training and tampering during fine-tuning. The method aims to curate clean texts that lower perplexity without compromising quality, thus reinforcing LLM robustness against harmful queries. Empirical results indicate a substantial reduction in harmful responses, with a 71% decrease in attack success rates when using curated data, marking a significant step in LLM safety.
@@ -9837,7 +10670,7 @@ This paper presents "Gradient Cuff," a method designed to detect jailbreak attac
 #### 7. Missing Information & Caveats  
 - The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper, especially regarding specific experimental setups or quantitative performance metrics.  
 - There may be ambiguities around the extent to which proven performance improvements can be generalized to other untested LLM architectures and types of attacks.
-### Are you still on track!? Catching LLM Task Drift with Activations
+### Get my drift? Catching LLM Task Drift with Activation Deltas
 #### 1. Summary of this text
 The paper investigates how Large Language Models (LLMs) can experience "task drift" when they process input containing malicious instructions. Task drift can lead to unintended instruction execution and security vulnerabilities. The authors propose a method based on monitoring LLM activations—"activation deltas"—to detect this drift effectively. They demonstrate that using a linear classifier to analyze these deltas provides near-perfect detection across various unseen tasks and attacks, indicating promising generalization without needing LLM modifications. To facilitate research, they release the TaskTracker toolkit containing datasets and analytical tools.
 
@@ -10049,6 +10882,40 @@ The paper investigates the cross-lingual vulnerabilities in safety mechanisms of
 #### 7. **Missing Information & Caveats**  
 - The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.  
 - There is no in-depth analysis provided regarding the causes of higher UNCLEAR responses in low-resource languages, nor is there exploration of how GPT-4 processes these languages in training.
+### Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search
+#### 1. Summary of this text
+The text introduces Siege, a multi-turn adversarial framework designed to exploit the gradual degradation of Large Language Model (LLM) safety through tree search methods. Unlike traditional single-turn jailbreaks, Siege utilizes a breadth-first search (BFS) to branch multiple adversarial prompts at each conversational turn. Evaluations reveal that Siege achieves a 100% success rate with GPT-3.5-turbo and 97% with GPT-4 while requiring fewer queries compared to existing methods. The study emphasizes the necessity for robust multi-turn testing frameworks that reveal how safety measures erode over successive dialogues.
+
+#### 2. **Related Metadata**
+- Tools/Algorithms created: "Siege, a multi-turn adversarial framework using BFS tree search."
+- Benchmarks introduced: "JailbreakBench dataset."
+- Codebase/Data URL: "Not mentioned."
+- Evaluated LLMs: "GPT-3.5-turbo, GPT-4."
+- Attack/Defense Techniques: "Multi-turn prompts, adversarial prompting techniques, persona shifts, red teaming tactics."
+- Frameworks Critiqued: "Crescendo, GOAT."
+
+#### 3. **Main Contributions**
+- Novel ideas/insights: Siege offers a unique tree search methodology to uncover multi-turn vulnerabilities, diverging from traditional single-turn approaches.
+- Key problems addressed: The framework exposes how iterated adversarial tactics can erode LLM safety across dialogue turns.
+- Comparison to existing work: Siege improves upon approaches like Crescendo and GOAT by tracking partial compliance and efficiently exploring multiple attack vectors.
+
+#### 4. **Methods & Approach**
+- Key techniques: Siege uses a breadth-first search strategy to explore conversation states, focusing on partial compliance metrics to track incremental policy erosion.
+- Experimental setup: The attacker LLM employs diverse red-teaming tactics, responding adaptively based on previous outputs while leveraging a partial compliance function for tracking.
+- Formal proofs, mathematical models, or significant theoretical contributions: "The partial compliance function γ(mt) and cumulative compliance score Γ = Pk t=1 γ(mt) are mathematically defined."
+
+#### 5. **Findings & Empirical Results**
+- Major experimental findings: Siege recorded a 100% success rate on GPT-3.5-turbo and 97% on GPT-4 using fewer queries than baseline methods.
+- Benchmarks/metrics used: The metrics include success rates and the number of queries for various methods on the JailbreakBench dataset.
+- Notable trade-offs or limitations: The efficiency of Siege emerges from its ability to reuse incremental policy leaks, emphasizing the significance of dynamic branching.
+
+#### 6. **Implications for LLM Safety**
+- Findings' effect on safety concerns: The work underscores how traditional safety checks may be insufficient due to the cumulative nature of policy breaches and the need for multi-turn safety evaluations.
+- Recommendations for improving LLM safety: Enhancements in iterative testing strategies and multi-turn frameworks are suggested to better capture gradual safety erosion.
+
+#### 7. **Missing Information & Caveats**
+- Missing parts: The text appears to be a complete overview of the method and findings, but details about full experimental setups or additional discussions are not included.
+- Ambiguities: The possible performance of Siege compared to completely new methods beyond those already mentioned is not assessed, indicating further evaluation might be necessary.
 ### Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs
 ### 1. Summary of this text
 The paper introduces a two-stage adversarial tuning framework to enhance the defensive capabilities of Large Language Models (LLMs) against jailbreak attacks, specifically unknown jailbreaks. It comprises hierarchical meta-universal adversarial prompt learning for generating token-level adversarial prompts and automatic adversarial prompt learning for refining semantic-level adversarial prompts. The authors report comprehensive experiments on three listed jailbreak datasets, demonstrating that their framework outperforms six defense baselines across multiple attack scenarios. The results indicate potential generalizability and transferability, establishing the framework as a viable defense against various LLM vulnerabilities.
@@ -10295,6 +11162,40 @@ The paper introduces QueryAttack, a framework developed to evaluate the robustne
 ### 7. **Missing Information & Caveats**
 - The extracted text appears to contain some references to figures which are not included in the text, affecting full comprehension.
 - Sections detailing comprehensive defense mechanisms and additional experimental results may be missing.
+### Reinforced Diffuser for Red Teaming Large Vision-Language Models
+### 1. Summary of this text  
+This paper introduces the Red Team Diffuser (RTD), a novel framework that employs reinforcement learning to enhance the efficacy of attacks on large Vision-Language Models (VLMs) by generating toxic continuations from black-box models. The RTD leverages a two-stage process that incorporates a greedy search for high-quality image prompts and reinforcement fine-tuning of a diffusion model. Experimental results demonstrate significant improvements in generating toxic outputs, with noteworthy rates of increased toxicity across various VLMs. The paper emphasizes existing alignment mechanisms' shortcomings and the imperative for more robust alignment strategies to ensure VLM safety.
+
+### 2. Related Metadata  
+- Tools/Algorithms created: Red Team Diffuser (RTD)  
+- Benchmarks introduced: Not specified.  
+- Codebase/Data URL: Not mentioned.  
+- Evaluated LLMs: LLaVA, Gemini, LLaMA  
+- Attack/Defense Techniques: Greedy prompt search, reinforcement learning fine-tuning  
+- Frameworks Critiqued: Not referenced in this section.  
+
+### 3. Main Contributions  
+- The paper introduces RTD, the first framework to utilize unrestricted images to incite undesirable behavioral outputs from VLMs in toxic continuation tasks.  
+- A new two-stage black-box attack strategy is proposed, which entails an LLM-guided search for image prompts to optimize toxicity and reinforcement fine-tuning of a diffusion model.  
+- Experimental results show that RTD increases toxicity rates significantly on various models, indicating deficiencies in current alignment mechanisms.
+
+### 4. Methods & Approach  
+- The RTD framework consists of a greedy image prompt search using a frozen LLM to maximize toxicity followed by reinforcement learning optimization using a diffusion model.  
+- Details: It employs Denoising Diffusion Policy Optimization (DDPO) for fine-tuning, where a multi-step Markov Decision Process (MDP) is optimized for toxicity and alignment.  
+- No formal proofs or intricate mathematical models are referenced outside the explanation of the MDP.
+
+### 5. Findings & Empirical Results  
+- The RTD improved LLaVA's toxicity by 10.69% on the original attack set and 8.91% on a hold-out set.  
+- Cross-model transferability was demonstrated, raising toxicity rates by 5.1% on Gemini and an impressive 26.83% on LLaMA.  
+- Statistical evaluations were conducted using the Detoxify classifier and the Perspective API, detailing toxicity attributes across attacks.
+
+### 6. Implications for LLM Safety  
+- The findings underline significant vulnerabilities in existing alignment methodologies of VLMs, suggesting that current strategies are insufficient to prevent harmful outputs.  
+- Recommendations include the development of more effective and robust alignment mechanisms to mitigate risks associated with toxic content generation in VLMs.
+
+### 7. Missing Information & Caveats  
+- Specific sections detailing full experiments, methodologies, or comparative models are not completely available in the provided text.  
+- The paper does not address broader challenges in VLM deployments beyond toxic continuation tasks or ethical risks stemming from RTD's potential misuse.
 ### Guardians of the Agentic System: Preventing Many Shots Jailbreak with Agentic System
 #### 1. Summary of this text
 This paper discusses security threats faced by autonomous AI agents utilizing large language models (LLMs), specifically focusing on vulnerabilities from many-shot jailbreaking and deceptive alignment attacks. It highlights that traditional static guardrails are inadequate in defending against these sophisticated threats, particularly during supervised training. The authors propose a new evaluation framework to enhance security, employing methods like Reverse Turing Tests and multi-agent simulations to detect rogue agents. Despite achieving 94% accuracy in detection with certain models, persistent vulnerabilities are noted, emphasizing the need for active monitoring and adaptable security measures.
@@ -10761,6 +11662,40 @@ This paper investigates the vulnerabilities of large language models (LLMs) in h
 #### 7. Missing Information & Caveats 
 - **Missing Parts**: The extracted text does not include results of certain methodologies, theoretical underpinnings for the proposed techniques, or in-depth analysis of the limitations, which may affect overall findings.
 - **Ambiguous Sections**: Details regarding the exact performance of all evaluated models and fine-tuning datasets could provide clearer insights into their robustness levels.
+### Unnatural Languages Are Not Bugs but Features for LLMs
+#### 1. Summary of this text
+The text presents a comprehensive investigation into the concept of "unnatural languages," defined as sequences that are semantically meaningful to Large Language Models (LLMs) but appear incomprehensible to humans. The authors demonstrate that these unnatural languages have latent features that can enhance LLM performance across multiple tasks without sacrificing accuracy compared to natural language inputs. Specifically, LLMs can process these unnatural structures by filtering out irrelevant information and inferring context. This study challenges the view of unnatural languages as mere artifacts or bugs, positing instead that they are integral features that can be leveraged for improved instruction following.
+
+#### 2. Related Metadata
+- **Tools/Algorithms created**: "An unnatural languages searching method for generating semantically equivalent unnatural versions of natural strings."  
+- **Benchmarks introduced**: "SynContextQA, SimGSM8K."  
+- **Codebase/Data URL**: "Our code is publicly available at https://github.com/John-AI-Lab/Unnatural_Language."  
+- **Evaluated LLMs**: "Mistral-7B-Instruct-v0.1, Vicuna-7B-v1.5, Meta-Llama-3-8B-Instruct, Gemma2-9B-Instruct, Meta-Llama-3-70B-Instruct, GPT-3.5-turbo, GPT-4o."  
+- **Attack/Defense Techniques**: "Not specified in the provided text."  
+- **Frameworks Critiqued**: "Not referenced in this section."  
+
+#### 3. Main Contributions
+- **What are the novel ideas or insights introduced in this paper?**: The study introduces the concept of unnatural languages as a feature for LLMs, proposing they are not merely bugs but meaningful representations that can enhance model performance.
+- **What key problem(s) does this paper address?**: It addresses the misconception that non-human-readable inputs degrade LLM performance, showing instead that they can provide useful latent features.
+- **How does it build upon or challenge existing work?**: The paper builds upon earlier studies on LLM behavior with adversarial inputs, extending these findings into the domain of NLP and arguing for the utility rather than the detriment of unnatural languages.
+
+#### 4. Methods & Approach
+- **Key techniques, frameworks, or experimental methodologies used**: The authors propose a stochastic sampling method to generate unnatural language strings that are semantically equivalent to natural language inputs. They conduct experiments with datasets like SynContextQA and SimGSM8K to evaluate LLM performance on these unnatural conditions.
+- **Implementations include**: A gradient-based optimization algorithm to search for unnatural strings, evaluated across various LLMs, focusing on frameworks such as instruction following.
+- **Formal proofs, mathematical models, or significant theoretical contributions?**: The text includes mathematical formulations to define the relationship between natural and unnatural strings, though specific proofs or models are not detailed in the provided segments.
+
+#### 5. Findings & Empirical Results
+- **Major experimental findings**: Models fine-tuned on unnatural languages achieved win rates comparable to those trained on natural language, with reported win rates around 49.71% on Length-controlled AlpacaEval 2.0.
+- **Benchmarks or metrics used**: Performance was evaluated based on win rates against natural set and accuracy on constructed datasets (SynContextQA, SimGSM8K).
+- **Notable trade-offs, limitations, or unexpected results?**: There were significant performance gaps on more complex datasets like SimGSM8K, suggesting that while unnatural languages are generally effective, they do not universally enhance model performance across all scenarios.
+
+#### 6. Implications for LLM Safety
+- **How do the findings affect safety concerns such as robustness, alignment, interpretability, fairness, bias mitigation, adversarial robustness, etc.?**: The identification of non-human-readable inputs as features rather than flaws implicates concerns around robustness and alignment, particularly in mission-critical applications. Understanding these dynamics is imperative for responsible AI deployment.
+- **Recommendations for improving LLM safety based on this work**: Enhancing LLM robustness may involve better understanding and potentially incorporating unnatural language features into training regimes, while also addressing the complexity that such features can introduce.
+
+#### 7. Missing Information & Caveats
+- **What parts of the paper were missing from the provided text?**: Specific empirical results, details on training procedures, and certain sections of the conclusion are not fully present.
+- **Were there any ambiguous sections that need further review?**: The methodology lacks comprehensive details, potentially necessitating a deeper dive into experimental setups in the full paper. Additional insights could be drawn from the appendix sections that have not been provided in this excerpt.
 ### Ranking Manipulation for Conversational Search Engines
 ### 1. Summary of this text
 This paper investigates the vulnerability of conversational search engines that utilize Large Language Models (LLMs) to prompt injection attacks that can manipulate the ranking order of product recommendations. It introduces a focused dataset of consumer product websites and formalizes this ranking as an adversarial problem. The authors find that different LLMs exhibit significant variability in how they prioritize the product name, document content, and context position, leading to the potential for adversarial strategies to promote low-ranked products effectively.
@@ -11367,6 +12302,46 @@ This manuscript introduces ChemSafetyBench, a benchmark tailored to evaluate the
 - The extracted text appears to be complete, but additional sections (such as results in detail) may provide further insights or empirical descriptions.
 - The text does not specify quantitative results in terms of performance metrics, which could provide a clearer view of model capabilities and limitations.
 
+### Efficient Jailbreaking of Large Models by Freeze Training: Lower Layers Exhibit Greater Sensitivity to Harmful Content
+#### 1. Summary of this text
+This study explores the vulnerabilities of Large Language Models (LLMs) to jailbreak attacks, revealing that lower layers are particularly sensitive to harmful content generation. The authors employed a Freeze Training strategy, selectively fine-tuning these lower layers, which dramatically reduced resource consumption while achieving a high Attack Success Rate (ASR) and harm score. Their novel Comprehensive Sensitivity Score quantitatively measures layer sensitivity, further enhancing model interpretability. The findings suggest the need for ongoing research and adaptive security strategies to protect against jailbreak risks, proposing significant advancements over existing methods for LLM enhancements.
+
+#### 2. **Related Metadata**
+- Tools/Algorithms created: *"Comprehensive Sensitivity Score (S_score)"*  
+- Benchmarks introduced: *"Not specified."*  
+- Codebase/Data URL: *"Not mentioned."*  
+- Evaluated LLMs: *"Qwen2.5-7B-Instruct, GLM4, Llama3.1, Mistral, Baichuan2."*  
+- Attack/Defense Techniques: *"Freeze training, Supervised Fine-Tuning (SFT), Low-Rank Adaptation (LoRA)."*  
+- Frameworks Critiqued: *"Not referenced in this section."*  
+
+#### 3. **Main Contributions**  
+- **Novel Ideas/Insights**: Introduced a method for layer-wise analysis of LLM parameters to assess sensitivity to harmful content.  
+- **Key Problem Addressed**: Identified critical layers that are more susceptible to generating harmful content and proposed effective training strategies accordingly.  
+- **Building upon/Pushing Back Existing Work**: The study improves upon traditional full-layer training and existing jailbreak methodologies by offering a Freeze Training approach that enhances efficiency and reduces resource consumption.
+
+#### 4. **Methods & Approach** 
+- **Key Techniques**: Employed parameter visualization and statistical metrics to analyze hidden layers, developed the Comprehensive Sensitivity Score (S_score), and implemented Freeze Training to fine-tune only sensitive layers identified through these analyses.  
+- **Technical Details**: 
+  - Statistical metrics: mean, variance, standard deviation.
+  - S_score formula:  \( S_{\text{score}} = \alpha \times \text{Diff}_{\text{harmful}} - \beta \times \text{Diff}_{\text{harmless}} \) where parameters are adjusted using Cohen’s d.
+- **Model Fine-Tuning Approaches**: Freeze Training (only lower layers) versus LoRA methods (SFT, DPO, PPO).
+- *"Methodology is not fully detailed in the provided text."*
+
+#### 5. **Findings & Empirical Results**  
+- Major experimental findings include:
+  - Initial lower layers provided a significant improvement in ASR, reaching up to 85.35% compared to 69.58% for upper layers.
+  - Comparative performance of training methods: 
+      - Freeze-Front5-SFT showed an ASR of 84.19% and a Harm Score of 4.41 with low resource usage.
+      - LoRA-PPO reached the highest ASR of 89.52% but required significantly more resources (40.5 hours, 292.8 GB). 
+- Notable trade-offs exist or vary in performance and resource requirements across training methods.
+
+#### 6. **Implications for LLM Safety**  
+- The findings raise concerns regarding the robustness of LLMs, particularly against jailbreak attacks that exploit lower layer vulnerabilities.  
+- Recommendations include the utilization of targeted training methods like Freeze Training to enhance robustness against such attacks without compromising performance.
+
+#### 7. **Missing Information & Caveats**  
+- **Missing Parts**: The extracted text from pdf content appears to be incomplete, especially concerning detailed methodologies and specific experimental setups for certain approaches.
+- **Ambiguities**: Some details on the implementation of the training strategies and the specific statistical analysis procedures remain unclear and may require further review.
 ### Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study
 ### 1. Summary of this text
 The study conducts an extensive investigation into the jailbreak potential of prompts aimed at OpenAI's ChatGPT, assessing various strategies to bypass its safeguards. It classifies jailbreak prompts into ten patterns and three categories and introduces an empirical model to evaluate their effectiveness. The findings indicate that numerous prompts can effectively circumvent ChatGPT's restrictions, with a success rate measured through 3,120 queries across multiple prohibited scenarios. The paper emphasizes the need for robust defenses against such jailbreaks, highlights ChatGPT's vulnerability across versions, and discusses the complexity of maintaining ethical guidelines amidst evolving prompt engineering tactics.
@@ -11695,6 +12670,39 @@ The paper presents a novel framework named Contrasting Subimage Distraction Jail
 ### 7. Missing Information & Caveats 
 - **Missing Parts**: Potential missing sections include additional empirical results, in-depth discussions of practical implications, and details on safety measures against the proposed attacks.
 - **Ambiguities**: While the paper discusses distractions effectively, the specifics on long-term impacts and comprehensive safety frameworks are not detailed; further analysis may be needed in future work.
+### Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs
+### 1. Summary of this text
+The paper presents a novel approach to jailbreak attacks on Multimodal Large Language Models (MLLMs) through the introduction of "jailbreak probability," a metric intended to quantify the risk of generating harmful responses. Utilizing a Jailbreak Probability Prediction Network (JPPN), it explores the relationship between input hidden states and jailbreak probability to facilitate improved attack success rates through Jailbreak-Probability-based Attacks (JPA). To enhance model safety, the authors propose Jailbreak-Probability-based Defensive methods (JPF, JPDN) which significantly decrease the model's susceptibility to such attacks. Experimental results indicate substantial evidence of improved attack and defense mechanisms, underscoring the effectiveness of the jailbreak probability concept.
+
+### 2. Related Metadata
+- Tools/Algorithms created: Jailbreak Probability Prediction Network (JPPN), Jailbreak-Probability-based Attack (JPA), Jailbreak-Probability-based Finetuning (JPF), Jailbreak-Probability-based Defensive Noise (JPDN)
+- Benchmarks introduced: Not specified.
+- Codebase/Data URL: Not mentioned.
+- Evaluated LLMs: MiniGPT-4, InstructBLIP, Qwen-VL, InternLM-XComposer-VL, DeepSeek-VL
+- Attack/Defense Techniques: Jailbreak-Probability-based Attack (JPA), Jailbreak-Probability-based Finetuning (JPF), Jailbreak-Probability-based Defensive Noise (JPDN)
+- Frameworks Critiqued: Not referenced in this section.
+
+### 3. Main Contributions
+- Introduced the concept of "jailbreak probability" to capture nuanced distinctions among input jailbreak abilities, offering a probabilistic understanding of MLLM vulnerabilities.
+- Modeled the relationship between input hidden states and jailbreak probability via JPPN; proposed related attack and defense methods to enhance attack effectiveness and mitigate jailbreak risks.
+- Conducted extensive experiments demonstrating the effectiveness of utilizing jailbreak probability in both attack scenarios and defense mechanisms.
+
+### 4. Methods & Approach 
+- JPPN was implemented as a three-layer Multilayer Perceptron (MLP) with input dimensions of 5120.
+- The approach incorporates generating multiple responses to approximate jailbreak probability and training JPPN by minimizing mean squared error (MSE) loss.
+- It introduces adversarial examples via the Jailbreak-Probability-based Attack (JPA) through iterative optimization, and defensive methods (JPF and JPDN) minimize jailbreak probability in the model parameters and input space.
+
+### 5. Findings & Empirical Results
+- The JPA method resulted in improvements in attack success rates (up to 28.38%) under white and black box settings compared to previous methods, with notable efficacy in maintaining performance even with small perturbation bounds.
+- Defense methods JPF and JPDN significantly reduced jailbreak success rates by at most over 60%. Empirical results validated the methods' effectiveness in both attacking and safeguarding against MLLM vulnerabilities.
+
+### 6. Implications for LLM Safety
+- The findings illuminate critical safety concerns regarding jailbreak vulnerabilities in MLLMs, emphasizing the need for robust defense mechanisms.
+- Recommendations for improving safety include implementing JPF and JPDN during model training to align MLLMs more effectively with safety protocols.
+
+### 7. Missing Information & Caveats
+- The extracted text does not provide detailed empirical results on experiments conducted outside the proximate findings shared.
+- This text appears to be incomplete. Key details may be missing regarding specific methodologies or comparative frameworks. Additional context or clarifications might exist in the full paper.
 ### Nevermind: Instruction Override and Moderation in Large Language Models
 #### 1. Summary of this text
 The paper "Nevermind: Instruction Override and Moderation in Large Language Models" by Edward Kim explores the capabilities of various Large Language Models (LLMs) to follow instructions accurately in conflicting scenarios, focusing on overriding internal knowledge and contextual cues. Key findings demonstrate that larger models excel in instruction adherence even when explicit override instructions are given. However, there exists a tension between improving instruction following and adhering to safety protocols. The proposal suggests that effective moderation may need to occur via external mechanisms rather than within the LLM itself, mirroring biological processes in human cognition.
@@ -13523,6 +14531,58 @@ The paper presents PLeak, an innovative automated framework designed to conduct 
 - Details on the specific architectures used in shadow and target LLMs during testing are not fully specified within the provided sections.
 
 The extracted content reflects a clear understanding of PLeak's design, methodology, and implications within the context of LLM and application security but may require further reviewing of sections for completeness in implementation specifics and empirical evaluations.
+### Safety is Not Only About Refusal: Reasoning-Enhanced Fine-tuning for Interpretable LLM Safety
+#### 1. Summary of this text
+The paper presents "Reasoning-enhanced Fine-tuning for Interpretable LLM Safety" (RATIONAL), by authors including Yuyou Zhang and Miao Li, aiming to enhance the safety of large language models (LLMs) against jailbreak attacks that traditional safety mechanisms struggle to address. The proposed RATIONAL framework leverages structured reasoning to allow models to engage in explicit safe reasoning before generating responses. This approach not only aims to reject harmful prompts but also ensures that the responses are contextual, interpretable, and adaptive. The findings suggest that effective safety requires deeper, context-aware reasoning rather than mere refusal, proposing a new paradigm for safety alignment in LLMs.
+
+#### 2. **Related Metadata**
+- Tools/Algorithms created: *"RATIONAL (Reasoning-enhanced Fine-tuning for interpretable LLM Safety)."*  
+- Benchmarks introduced: *"Not specified."*  
+- Codebase/Data URL: *"Not mentioned."*  
+- Evaluated LLMs: *"LLaMA-3-8B-Instruct and Mistral-7B-Instruct."*  
+- Attack/Defense Techniques: *"Jailbreak attacks, reasoning exploits."*  
+- Frameworks Critiqued: *"Circuit Breaker."*  
+
+#### 3. **Main Contributions**  
+- What are the novel ideas or insights introduced in this paper?  
+   - The introduction of structured reasoning in the RATIONAL framework for enhancing LLM safety, allowing models to make context-aware decisions rather than rely solely on static refusals.
+
+- What key problem(s) does this paper address?  
+   - The limitations of traditional LLM safety mechanisms that are ineffective against nuanced adversarial tactics and the challenge of providing coherent and responsible responses in sensitive scenarios.
+
+- How does it build upon or challenge existing work?  
+   - It critiques existing defenses that focus solely on refusal mechanisms and proposes a reasoning-based approach that emphasizes context-sensitive safety alignment.
+
+#### 4. **Methods & Approach** 
+- The paper introduces RATIONAL, which uses a dataset called the "Rationale Dataset" for training LLMs. The approach includes:
+   - Curating adversarial prompts and benign prompts to guide decision-making.
+   - A two-step reasoning process for distinguishing between harmful and benign queries.
+   - Training through supervised fine-tuning (SFT) using Low-Rank Adaptation (LoRA) on selected datasets.
+   - Employing a self-check reasoning framework that generates rationales before providing model responses.
+
+- Methodology is not fully detailed in the provided text.
+
+#### 5. **Findings & Empirical Results**  
+- What are the major experimental findings?  
+   - RATIONAL achieved a 0/135 Attack Success Rate (ASR) on specific jailbreak categories and a 0.5% unacceptable rate on safety categories of the COCONOT benchmark.
+
+- What benchmarks or metrics were used, and how do they compare to prior work?  
+   - RATIONAL demonstrated superior ASR compared to benchmarks like Circuit Breaker and improved performance in safety, showing lower rates of unacceptable outputs.
+
+- Are there notable trade-offs, limitations, or unexpected results?  
+   - The findings suggest that while RATIONAL improves safety, compliance rates are lower compared to base models, indicating room for further improvement in balancing safety and helpfulness.
+
+#### 6. **Implications for LLM Safety**  
+- The findings emphasize that effective LLM safety should involve deeper reasoning capabilities, helping to mitigate risks of harmful or irresponsible outputs while ensuring that models can provide contextually appropriate responses.
+
+#### 7. **Missing Information & Caveats**  
+- The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.
+
+- What parts of the paper were missing from the provided text?  
+   - Full experimental setups, analysis of results, and descriptions of all metrics.
+
+- Were there any ambiguous sections that need further review?  
+   - Some evaluation metrics and further discussions on trade-offs between safety and helpfulness were not fully specified.
 ### Towards Robust Multimodal Large Language Models Against Jailbreak Attacks
 #### 1. Summary of this text
 The paper presents SAFEMLLM, an adversarial training framework designed to enhance the robustness of Multimodal Large Language Models (MLLMs) against jailbreak attacks. It addresses the vulnerability of MLLMs that attackers exploit through crafted prompts to generate harmful content. The framework incorporates a novel contrastive embedding attack (CoE-Attack) method to generate adversarial perturbations at the token embedding level while updating model parameters to mitigate these effects while maintaining model utility. Experimental evaluations across various MLLMs demonstrate the effectiveness of SAFEMLLM against diverse attack methods, while also preserving performance on benign tasks.
@@ -14081,7 +15141,7 @@ The findings suggest that GUARD can proactively identify and test vulnerabilitie
 
 #### 7. Missing Information & Caveats
 The extracted text does not include specific experimental settings or breakdowns of all datasets used. Further empirical comparisons with other safety mechanisms and the full implementation details may also be missing. The specifics of how jailbreaking effectiveness varies across different guidelines or potential human oversight mechanisms in the proposed method are not clearly defined. Thus, the text appears to be incomplete regarding certain methodological nuances and evaluations.
-### h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment
+### h4rm3l: A language for Composable Jailbreak Attack Synthesis
 ### 1. Summary of this text
 The paper introduces h4rm3l, a novel dynamic benchmark designed to evaluate the safety of Large Language Models (LLMs) against composable jailbreak attacks. The benchmark comprises three components: a domain-specific language (DSL) for expressing jailbreak attacks, bandit-based few-shot algorithms for synthesizing novel attacks, and open-source software for automated red teaming. The study's findings report generating 2,656 successful attacks targeting six state-of-the-art LLMs, achieving attack success rates over 90%, thus underscoring significant advancements in understanding LLM safety and informing the development of robust defenses against harmful content generation.
 
@@ -14338,7 +15398,7 @@ The paper investigates the robustness of safety-fine-tuned Large Language Models
 #### 7. Missing Information & Caveats
 - The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.
 - Empirical evaluations related to specific performance metrics for defenses were mentioned, but complete experimental setups and additional results may not be fully detailed in this extraction.
-### SoP: Unlock the Power of Social Facilitation for Automatic Jailbreak Attack
+### SeqAR: Jailbreak LLMs with Sequential Auto-Generated Characters
 ### 1. Summary of this text
 The paper introduces SoP, a framework designed to automate the generation of jailbreak prompts for large language models (LLMs), inspired by social facilitation principles. SoP circumvents the reliance on proprietary models or handcrafted templates, enabling prompt creation in a cold-start scenario using open-sourced LLMs. Experiments demonstrate its efficacy, achieving attack success rates of 88% and 60% for GPT-3.5-1106 and GPT-4, respectively, while also assessing cross-model transferability and defenses against its attacks. SoP aims to enhance safety and security in LLMs by identifying vulnerabilities and examining defense mechanisms.
 
@@ -14908,6 +15968,42 @@ This study investigates the vulnerability of large language models (LLMs) to jai
 - **Missing Parts**: Detailed experimental setups, exact training procedures, and certain numerical results might not be included.  
 - **Ambiguities**: Some experimental designs, such as criteria for layer selection and modifications, lack full clarity. The paper’s practical implementation of LED could be enhanced with more specific empirical results on real-world applications.
 
+### Safety Guardrails for LLM-Enabled Robots
+### 1. Summary of this text
+This paper introduces ROBOGUARD, a two-stage safety guardrail architecture for Large Language Model (LLM)-enabled robots. The integration of LLMs in robotics poses significant safety challenges due to potential adversarial attacks, such as jailbreaking, which can lead to harmful behaviors. ROBOGUARD tackles these complexities by contextualizing predefined safety rules within a robot's environment through a root-of-trust LLM that employs chain-of-thought reasoning. It generates safety specifications, which are then synthesized into a safe plan while respecting user preferences. The efficacy of ROBOGUARD is shown through extensive simulations and real-world robot experiments, significantly reducing the execution of unsafe plans from 92% to below 2.5% without performance loss on safe ones.
+
+### 2. **Related Metadata**
+- Tools/Algorithms created: ROBOGUARD
+- Benchmarks introduced: *"Not specified."*
+- Codebase/Data URL: *"Not mentioned."*
+- Evaluated LLMs: GPT-4o-based LLM planner
+- Attack/Defense Techniques: Jailbreaking, chain-of-thought reasoning
+- Frameworks Critiqued: *"Not referenced in this section."*
+
+### 3. **Main Contributions**
+- ROBOGUARD provides a novel safety architecture for LLM-enabled robots, addressing unique safety challenges posed by integrating LLMs into robotics.
+- It introduces a desiderata for LLM-enabled robot safeguards articulating the need for contextual attack mitigation, applicability, utility, and efficiency.
+- The architecture's dual-stage approach incorporates contextual reasoning for safety specifications and control synthesis to generate robust safety-compliant plans.
+
+### 4. **Methods & Approach**
+- ROBOGUARD comprises two main modules: a contextual grounding module that defines safety rules and a control synthesis module to derive safe action plans.
+- The contextual grounding module operates offline to configure high-level safety rules and robot descriptions and harnesses a root-of-trust LLM to formulate specific safety constraints utilizing chain-of-thought reasoning.
+- The control synthesis module translates proposed plans into temporal logic specifications which are then checked against the safety constraints.
+- The paper employs linear temporal logic (LTL) for specifying safety conditions, ensuring compliance during plan execution.
+
+### 5. **Findings & Empirical Results**
+- ROBOGUARD demonstrated a marked reduction in unsafe behavior plans, decreasing from 92% to under 2.5% after its implementation.
+- It shows robust performance without compromising safe task execution.
+- The architecture efficiently uses resources, relying on just one LLM query compared to multiple required by adversaries during attack scenarios.
+
+### 6. **Implications for LLM Safety**
+- ROBOGUARD's design mitigates risks associated with LLM-enabled robots by preventing potentially harmful behaviors arising from adversarial inputs.
+- The findings emphasize the necessity for context-aware safety specifications in robotic systems using LLMs.
+- Recommendations include capturing real-time contextual data to continually adapt safety constraints as the robot interacts with its environment.
+
+### 7. **Missing Information & Caveats**
+- The extracted text from the pdf content appears to be incomplete. Additional details may be present in the full paper.
+- Specific experimental setups and results regarding real-world performance metrics may not be fully detailed in the provided sections.
 ### On Prompt-Driven Safeguarding for Large Language Models
 #### 1. Summary of this text
 This paper investigates the efficacy of safety prompts in safeguarding large language models (LLMs) by analyzing how these prompts influence model behavior from a representation perspective. It proposes a novel optimization method, Directed Representation Optimization (DRO), which trains safety prompts as continuous embeddings, adjusting representation directions based on the harmfulness of queries. Through experiments on eight LLMs, DRO is shown to enhance the refusal rates for harmful queries and reduce false refusals for harmless queries, significantly outperforming traditional prompts and without compromising general model performance.
@@ -15481,6 +16577,40 @@ The paper "AutoJailbreak" analyzes jailbreak attacks on large language models (L
 - Specific benchmarks or datasets used in the evaluations are not detailed in the provided text.
 - The text does not provide empirical results on the comparative efficacy of other LLM safety measures not addressed by the AutoJailbreak framework.
 - The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.
+### from Benign import Toxic: Jailbreaking the Language Model via Adversarial Metaphors
+#### 1. Summary of this text
+The paper details a novel attack framework called AdVersArial meTAphoR (AVATAR) that enables jailbreak attacks on Large Language Models (LLMs) by transforming benign metaphors into harmful content. The authors argue that generating harmful content is more challenging than altering benign content to serve malicious purposes. AVATAR utilizes a two-step process: Adversarial Entity Mapping (AEM) to identify appropriate metaphors and Metaphor-Driven Thinking (MDT) to engage the target LLM in reasoning that leads to harmful output. Experimental results indicate AVATAR yields state-of-the-art attack success rates across various LLMs.
+
+#### 2. Related Metadata
+- Tools/Algorithms created: AdVersArial meTAphoR (AVATAR)
+- Benchmarks introduced: Not specified.
+- Codebase/Data URL: "Our code is available at: https://anonymous.4open.science"
+- Evaluated LLMs: Qwen2.57B, Llama3-8B, GPT-4o-mini, GPT-4o
+- Attack/Defense Techniques: Adversarial Entity Mapping (AEM), Metaphor-Driven Thinking (MDT)
+- Frameworks Critiqued: Not referenced in this section.
+
+#### 3. Main Contributions
+- **Novel Attack Paradigm**: The paper presents a novel method for jailbreak attacks that focuses on transforming benign content into harmful variations rather than generating harmful content from scratch.
+- **Framework Overview**: The introduction of AVATAR combines metaphorical reasoning with systematic approaches to manipulate LLM responses, enhancing the efficiency and stealth of attacks.
+- **Analysis of Metaphor Attacks**: It explores the underlying mechanisms of metaphorical attacks and proposes potential defenses against them. 
+
+#### 4. Methods & Approach
+- **Experimental Setup**: The methodology includes two main components: AEM for identifying suitable metaphorical entities through model crowdsourcing and MDT for refining prompts based on LLM responses to induce harmful outputs.
+- **Techniques**: AEM employs a high-temperature setting for metaphor diversity and a filtering process based on Internal Consistency Similarity (ICS) and Conceptual Disparity (CD) to select less detectable harmful metaphors.
+- **Datasets Used**: The experiments utilized samples from HarmBench and AdvBench for evaluating the effectiveness of the AVATAR framework.
+
+#### 5. Findings & Empirical Results
+- **Attack Success Rates**: AVATAR achieves significant success rates, including 100% ASR-GPT on Qwen2.5-7B and Llama3-8B, with high effectiveness on closed-source models like GPT-4o.
+- **Transfer Attack Capability**: The framework demonstrates robust transferability across multiple LLMs, achieving notable ASR metrics even with adversarial prompts leveraged from different models.
+- **Ablation Study Results**: Key components of the AVATAR framework, specifically AEM and MDT, were found to be crucial for maintaining high ASR-GPT rates across various experimental conditions.
+
+#### 6. Implications for LLM Safety
+- **Threat to LLM Safety**: The findings highlight significant vulnerabilities in LLMs regarding their safety mechanisms when faced with metaphor-guided content transformations, indicating a potential area of concern for improving LLM defenses.
+- **Recommendations for Defense**: The authors briefly note the limitations of existing defenses against metaphorical attacks and suggest avenues for enhancing safety through a better understanding of metaphorical reasoning in LLMs.
+
+#### 7. Missing Information & Caveats
+- **Incomplete Sections**: Some methodological details and full experimental settings are not provided in the summarized text, which may limit the ability to thoroughly evaluate the proposed AVATAR framework.
+- **Ambiguities Noted**: The implications of the proposed methods and their interaction with existing safety mechanisms require additional review for comprehensive understanding and application.
 ### Automatic Jailbreaking of the Text-to-Image Generative AI Systems
 #### 1. Summary of this text
 The text discusses the evaluation of safety mechanisms in text-to-image (T2I) generative AI systems, particularly focusing on copyright infringement risks. Through empirical studies, the authors find that many commercial systems, like Copilot and Gemini, have low effectiveness in blocking copyright violations with naive prompts. They introduce an Automated Prompt Generation Pipeline (APGP) that circumvents these safety features, allowing users to generate high-risk prompts that lead to copyright infringement. Their findings reveal that even advanced AI systems like ChatGPT can be manipulated into generating infringing content, thus highlighting the need for robust defense mechanisms.
@@ -16027,6 +17157,41 @@ This paper introduces RIPPLE, an innovative optimization-based model for jailbre
   - Detailed descriptions of methodologies and related works not cited in the excerpts.
 - Were there any ambiguous sections that need further review?  
   - The empirical results and specific metrics need more in-depth analysis to understand the context and significance fully. The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.
+### CURVALID: Geometrically-guided Adversarial Prompt Detection
+### 1. Summary of this text
+The paper "CURVALID: Geometrically-guided Adversarial Prompt Detection" introduces CurvaLID, a model-agnostic framework designed to detect adversarial prompts targeting large language models (LLMs). By analyzing geometric properties, such as curvature and local intrinsic dimensionality (LID), CurvaLID distinguishes between benign and adversarial prompts, demonstrating superior detection capabilities. The framework is theoretically underpinned by extending the Whewell equation for semantic representation in word embedding spaces. Experimental results show CurvaLID effectively identifies adversarial prompts across various datasets with high accuracy and low attack success rates, suggesting its viability for enhancing the safety of LLM deployments.
+
+### 2. Related Metadata
+- Tools/Algorithms created: CurvaLID detection framework  
+- Benchmarks introduced: Not specified.  
+- Codebase/Data URL: [CurvaLID GitHub](https://github.com/Cancanxxx/CurvaLID)  
+- Evaluated LLMs: Vicuna-7B-v1.5, Llama-2-7B-Chat, GPT-3.5, GPT-4, PaLM2  
+- Attack/Defense Techniques: Identifying adversarial prompts, using PromptLID and TextCurv.  
+- Frameworks Critiqued: Not referenced in this section.  
+
+### 3. Main Contributions  
+- CurvaLID is introduced as a defense mechanism that uses geometric analysis to differentiate between adversarial and benign prompts, operating independently of specific LLM architectures.
+- Development of two novel geometric measures: PromptLID and TextCurv, to capture higher-order geometric properties of text prompts.
+- CurvaLID achieved an accuracy of about 99% in detecting adversarial prompts, significantly outperforming existing state-of-the-art defenses with lower computational costs.
+
+### 4. Methods & Approach  
+- **Key techniques:** CurvaLID employs an analysis of the geometric properties of prompts using PromptLID (local intrinsic dimensionality at the prompt level) and TextCurv (curvature at the word level).
+- **Architectures:** Uses convolutional neural networks (CNNs) for initial classification of benign prompts and a multilayer perceptron (MLP) for binary classification of prompt types.
+- **Formal Definitions:** PromptLID and TextCurv are quantitatively defined to measure semantic shifts and geometric properties.
+- **Evaluation metrics:** Achieved detection accuracy of ~99%, attack success rate minimized to ~0%.
+
+### 5. Findings & Empirical Results  
+- CurvaLID achieved an overall accuracy of 0.992 in identifying English adversarial prompts with a perfect accuracy of 1.000 for adversarial prompts. 
+- The framework also demonstrated efficiency in detecting non-English prompts with an overall accuracy of 0.994 across 9 languages from the MultiJail dataset.
+- Experimental results showed confirmation of geometric differences between benign and adversarial prompts, with application across various datasets yielding robust performance.
+
+### 6. Implications for LLM Safety  
+- The findings indicate that geometric measurements provide significant insights into distinguishing benign from adversarial inputs, addressing safety and reliability issues in LLM deployment.
+- The framework’s model-agnostic nature paves the way for broader applicability across different LLMs, potentially improving robustness against adversarial attacks.
+
+### 7. Missing Information & Caveats  
+- The extracted text from pdf content appears to be incomplete regarding the detailed enumeration of experiments and some advanced theoretical justifications.
+- Specific datasets' details and broader comparative performance analysis with existing defenses are not entirely elaborate, which could benefit from further scrutiny.
 ### Enhancing Model Defense Against Jailbreaks with Proactive Safety Reasoning
 ### 1. Summary of this text
 The paper introduces "Safety Chain-of-Thought" (SCoT), a novel defense for large language models (LLMs) against jailbreak threats, which can lead to harmful outputs. Unlike traditional refusal training, SCoT employs proactive reasoning to assess harmful inputs, enhancing generalization across diverse scenarios and explicitly providing reasoning for refusals. Evaluations demonstrate SCoT's effectiveness against various sophisticated attacks, significantly outperforming existing defenses and maintaining strong overall performance. Additionally, it contributes to the AI safety community by open-sourcing its resources. 
@@ -16100,7 +17265,7 @@ The text introduces the Essence-Driven Defense Framework (EDDF) aimed at enhanci
 ### 7. Missing Information & Caveats
 - **Missing Parts**: The text does not include details on specific datasets used for offline essence construction, nor does it fully outline the real-time updating mechanism for the essence database.
 - **Ambiguities**: There is no detailed discussion on adapting EDDF for unseen attack types and how frequently the essence database can be updated to capture new threat vectors. The final sections of the paper discussing future work and broader implications of the findings are also absent.
-### Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models
+### Behind the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models
 ### 1. Summary of this text
 The paper investigates the security vulnerabilities of small language models (SLMs) under various jailbreak attacks, revealing that many existing SLMs are highly susceptible to malicious inputs. The authors conduct an empirical study on 13 SLMs, evaluating their performance against direct and sophisticated jailbreak attacks, alongside the efficacy of representative defense strategies. Key findings include a notable difference in vulnerability between SLMs and larger models, with SLMs emphasizing helpfulness over safety, leading to security degradation. The research aims to inform future efforts in enhancing SLM resilience and security.
 
@@ -16306,6 +17471,41 @@ This paper presents a new jailbreak paradigm called Simple Assistive Task Linkag
 - The text does not explicitly detail the full experimental setups, additional metrics used, or the complete dataset descriptions.
 - Some sections, such as the complete evaluation metrics and certain figures, are referenced but not fully detailed in the provided text. 
 - The extracted text appears to be incomplete. Additional details may be present in the full paper.
+### Multi-round jailbreak attack on large language models
+### 1. Summary of this text
+The paper presents the development of a multi-round jailbreak attack strategy targeting large language models (LLMs), designed to bypass safety mechanisms by deconstructing harmful queries into benign sub-questions. The authors first fine-tune a Llama3-8B model to facilitate this decomposition process. Experimental results indicate a 94% success rate for attacks on the Llama2-7B model, outperforming traditional GCG methods, which achieved only a 20% success rate. This research highlights significant vulnerabilities in LLMs and suggests the need for improved monitoring and defense strategies in AI safety.
+
+### 2. Related Metadata
+- Tools/Algorithms created: *Multi-round jailbreak attack algorithm.*
+- Benchmarks introduced: *Not specified.*  
+- Codebase/Data URL: *Not mentioned.*  
+- Evaluated LLMs: *Llama2-7B; Llama3-8B.*  
+- Attack/Defense Techniques: *Multi-round jailbreak attack.*  
+- Frameworks Critiqued: *Not referenced in this section.*  
+
+### 3. Main Contributions  
+- Novel ideas introduced: The paper introduces a multi-round jailbreaking technique that breaks down dangerous prompts into progressively harmless sub-questions to bypass safety checks in LLMs.
+- Key problem addressed: It directly addresses the vulnerability of LLMs to jailbreak attacks and emphasizes the limitations of current single-round methods.
+- How it builds upon existing work: This study expands on previous methodologies by demonstrating a more effective attack strategy that can adapt and overcome the limitations of traditional single-round jailbreak attacks.
+
+### 4. Methods & Approach 
+- Key techniques: The researchers utilized a multi-round strategy with a fine-tuning process for the Llama3-8B model to facilitate the decomposition of hazardous questions into innocuous sub-questions.
+- Training details: A dataset was created by breaking down natural questions into three progressive sub-questions, ensuring compatibility with safety protocols during fine-tuning.
+- Evaluation metrics: Success rate represented as the Attack Success Rate (ASR), with experiments conducted on the Llama2-7B model.
+- Technical details provided: The paper includes mathematical formulations for the optimization of the model responses during the iterative fine-tuning and question generation processes.  
+
+### 5. Findings & Empirical Results  
+- Major experimental findings: The multi-round jailbreak attack demonstrated a high Attack Success Rate (ASR) of 94.45% on the Llama2-7B, indicating significant vulnerabilities present.
+- Benchmarks used: Attack Success Rate (ASR).
+- Comparison with prior work: The GCG method, a baseline, yielded a significantly lower ASR of 20%, illustrating the effectiveness of the multi-round approach versus existing methods.
+
+### 6. Implications for LLM Safety  
+- Findings' effects on safety: The multi-round jailbreak attack emphasizes vulnerabilities in LLMs, revealing how structured interactions can lead to harmful outputs despite existing safeguards.
+- Recommendations for improving LLM safety: Suggestions include enhanced monitoring of dialogue contexts, dynamic response adjustments during interactions, and improved training regimes with adversarial examples.
+
+### 7. Missing Information & Caveats  
+- Missing parts: The full details of the methodology used for the fine-tuning process and the complete dataset description might not be fully provided.
+- Ambiguous sections: The relationship between the decomposed questions and their alignment with LLM safety mechanisms could benefit from further clarification. The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.
 ### Safety at Scale: A Comprehensive Survey of Large Model Safety
 ### 1. Summary of this text
 This text serves as a comprehensive survey of safety research conducted on large models within the field of artificial intelligence (AI). It outlines the rapid advancements in model capabilities and their significant applications, while emphasizing the associated safety risks such as adversarial attacks and ethical implications. The survey presents an extensive taxonomy of safety threats and associated defense strategies, highlights open challenges, and calls for collaboration in safety evaluations and improvement of AI systems. By providing a structured overview of the current state of safety research, it aims to inform future efforts in safeguarding AI technologies.
@@ -16699,6 +17899,43 @@ This paper presents the Semantic Mirror Jailbreak (SMJ) approach, a novel method
 - The text included detailed methods and results but did not specify the complete bibliographical references or all algorithm details in the supplementary materials.
 - The experimental setup's comprehensive dataset and environments were not fully discussed, which may limit replicability and contextual understanding.
 - The extracted text from pdf content appears to be incomplete. Additional details may be present in the full paper.
+### MirrorGuard: Adaptive Defense Against Jailbreaks via Entropy-Guided Mirror Crafting
+#### 1. Summary of this text
+The document introduces MirrorGuard, an adaptive defense mechanism against jailbreak attacks targeting large language models (LLMs). Traditional static defense approaches, reliant on fixed rules, are deemed insufficient for the complex nature of such attacks. Instead, MirrorGuard utilizes dynamically created "mirrors" that match the input's syntactic structure while ensuring semantic safety. This method emphasizes personalized deviation metrics (Relative Input Uncertainty, RIU) between inputs and mirrors to detect risks. Experimental evaluations indicate that MirrorGuard achieves state-of-the-art performance in thwarting attacks while maintaining effectiveness across multiple datasets, marking a significant advancement in LLM safety.
+
+#### 2. **Related Metadata**
+- Tools/Algorithms created: "MirrorGuard, a novel defense model utilizing mirror prompts and RIU."
+- Benchmarks introduced: "Not specified."
+- Codebase/Data URL: "Not mentioned."
+- Evaluated LLMs: "Llama2-7b, Vicuna-7b."
+- Attack/Defense Techniques: "Dynamic adaptive defense, jailbreak attacks, Relative Input Uncertainty (RIU)."
+- Frameworks Critiqued: "Not referenced in this section."
+
+#### 3. **Main Contributions**  
+- Novel insights introduced: "First investigation of adaptive defense against jailbreak attacks using dynamic mirrors."
+- Key problems addressed: "Limitations of static defense strategies in accurately detecting jailbreak inputs."
+- Comparison to existing work: "Builds upon traditional methods by offering a dynamic approach instead of rigid classification criteria."
+
+#### 4. **Methods & Approach** 
+- Key techniques used: Mirror generation, mirror selection, entropy-based defense.
+- Technical details:
+  - **Mirror Maker**: Generates mirrors that adhere to length, syntactic, and sentiment constraints.
+  - **Mirror Selector**: Selects suitable mirrors based on these constraints.
+  - **Entropy Defender**: Measures RIU of input-mirror pairs to assess input safety.
+- Formal proofs or mathematical models: "Relative Input Uncertainty (RIU) measures differences between mirrors and inputs through entropy calculations."
+
+#### 5. **Findings & Empirical Results**  
+- Major findings: "MirrorGuard achieves near-zero attack success rates (ASR) against various jailbreak attacks."
+- Benchmarks/Metrics used: "Attack success rate (ASR) and Average Token Generation Time Ratio (ATGR)." 
+- Notable results: "Significant reduction in ASR under multiple attack methods and low computational overhead."
+
+#### 6. **Implications for LLM Safety**  
+- Impact on safety concerns: "Enhances robustness against jailbreak attacks through adaptive evaluation of input prompts."
+- Recommendations: "Encourages the use of dynamic and personalized defenses rather than static classifications."
+
+#### 7. **Missing Information & Caveats**  
+- Missing parts: "The extracted text from pdf content appears to be complete. No explicit missing sections were noted."
+- Ambiguous sections for further review: "Some empirical details on efficiency and broader applicability could further enhance understanding."
 ### Risk and Response in Large Language Models: Evaluating Key Threat Categories
 #### 1. Summary of this text
 This paper investigates the risks associated with Large Language Models (LLMs) focusing on how reward models categorize these risks, particularly through the lens of the Anthropic Red-team dataset. The authors explore categories such as Information Hazards, Malicious Uses, and Discrimination/Hateful content. The findings reveal that LLMs perceive Information Hazards as less harmful, which may compromise their security and make them more vulnerable to jailbreaking attacks. The study emphasizes the need for improved AI safety measures to mitigate these risks effectively.
